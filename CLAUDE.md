@@ -58,6 +58,10 @@ reuse the existing styles and never reformat paragraphs you aren't changing.
 11. Professional Training
 12. Other
 
+**Within-section groupings** (added 08/2026):
+- *Professional Service Activities* mirrors the standalone service document exactly — org subheads (bold + underline), italic underlined inner labels, entries with a left date column (tab stop + hanging indent at 1.4"). **Keep this CV section and `Professional Service Activities.docx` in lockstep** — a change to one must be applied to the other.
+- *Clinical Competency and Skills* (Treatment Planning & Information Systems / Linear Accelerators / Brachytherapy), *Clinical Projects and Responsibilities* (by institution), and *Research Experience* (by institution) use bold + underline subheads; entries under them omit the org/institution prefix.
+
 **Citation format** (Papers/Oral/Poster/Abstracts, numbered lists, newest first):
 - Author list in "Surname Initials" form, comma-separated: `Anderson B.M, Repka M, Gao Y, …`
 - **Brian's name is bold** in every author list, always as `Anderson B.M` (standardized 08/2026 — do not reintroduce "Anderson, B.M." / "Anderson B. M." variants).
