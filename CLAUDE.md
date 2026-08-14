@@ -63,6 +63,7 @@ Dated entries in Education, Grants and Fellowships, Professional Service Activit
 - *Publications* and *Invited Talks* keep their auto-numbered lists with the date at the **end** of each entry — no date column.
 - Four *Research Experience* entries (UCSD ×2, UNC ×2) are undated and have no date column; the dated MD Anderson entries (dissertation, thesis) do.
 - *Major Contributions to the Field* and *Clinical Competency and Skills* are undated — no date column.
+- *Honors and Awards*, *Professional Training*, and *Other* use a **narrower** column: 0.76" (1095 twips, 54.75pt) left indent, hanging first-line indent, tab stop at the same 54.75pt. Every entry in these three sections is a bare 4-digit year (22pt wide), so the gap after the year was halved from 65.5pt to 32.75pt on 08/2026. If a range (`YYYY – YYYY`) is ever added to one of these sections it will overrun this column — either shorten the column's scope or move that entry to the 1.215" layout.
 
 **Within-section groupings** (added 08/2026):
 - *Professional Service Activities* mirrors the standalone service document exactly — org subheads (bold + underline), italic underlined inner labels, date-column entries. **Keep this CV section and `Professional Service Activities.docx` in lockstep** — a change to one must be applied to the other.
