@@ -19,12 +19,22 @@ things go:
 | Conference poster (Brian presenting) | Publications → Poster Presentations (Presenting Author) | Same as oral |
 | Abstract (co-author presenting) | Publications → Abstracts | Same, presenting author first |
 | Invited talk / seminar / keynote | Invited Talks | `Org, role/series: "Title" (MM/YYYY)` — date always at the end |
-| Grant / fellowship | Grants and Fellowships | Funder, role, amount, period, project description |
-| Committee / editorial / society role | Professional Service Activities | Underlined lead-in `Org, Role:` then description + years |
-| Award | Honors and Awards | `Org, Award name: description (YYYY)` |
-| Clinical tool/project | Clinical Projects and Responsibilities | Underlined `Site, Project:` lead-in + description |
-| Research position/project | Research Experience | Institution lead-in + description |
+| Grant / fellowship | Grants and Fellowships | Date column + underlined funder/award lead-in, then role, amount, period, description |
+| Committee / editorial / society role | Professional Service Activities | Under the org's subhead — date column + underlined `Role:` lead-in. Mirror the change in `Professional Service Activities.docx` |
+| Award | Honors and Awards | Date column + underlined `Org, Award name:` lead-in + description |
+| Clinical tool/project | Clinical Projects and Responsibilities | Under the institution subhead — date column + underlined `Project:` lead-in (no site prefix) |
+| Research position/project | Research Experience | Under the institution subhead — date column if dated (four legacy entries, UCSD ×2 / UNC ×2, are undated plain paragraphs) |
 | Mentee | No dedicated section exists yet — ask Brian where he wants it (likely a new small-caps `Heading 1` section, e.g. "Mentorship") before inventing one |
+
+## Date-column entry layout (every section except Publications and Invited Talks)
+
+Dated entries use a left date column: `YYYY` / `YYYY – YYYY` / `YYYY – Present`
+(occasionally `YYYY, YYYY`), then a tab, then the underlined lead-in and the
+description after a colon. Paragraph properties: `Normal` style, left indent
+2016 twips (1.4"), hanging first-line indent, left tab stop at 2016 twips —
+copying a sibling entry's paragraph XML carries all of this over. Publications
+and Invited Talks are the exception: auto-numbered lists with the date at the
+**end** of each entry.
 
 ## Citation style (match exactly)
 

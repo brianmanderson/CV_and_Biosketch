@@ -41,7 +41,7 @@ reuse the existing styles and never reformat paragraphs you aren't changing.
 **Styles:**
 - `Name` — the 3-line header block (name 20pt bold small-caps, then title/institution 8pt). Contact info follows in a 1×2 borderless table (phone/email | address).
 - `Heading 1` — section headings: 12pt bold small-caps with a bottom border and hanging left indent.
-- `Normal` — body entries in most sections; lead-in phrases (org/role, e.g. "UCSD, Chief Resident:") are underlined, description follows after a colon.
+- `Normal` — body entries in most sections; lead-in phrases (role/project/award, e.g. "Chief Resident:") are underlined, description follows after a colon. Dated entries add the left date column described below.
 - `List Paragraph` + numbering — used for Invited Talks and everything under Publications (auto-numbered lists).
 
 **Section order** (do not reorder):
@@ -58,8 +58,14 @@ reuse the existing styles and never reformat paragraphs you aren't changing.
 11. Professional Training
 12. Other
 
+**Entry layout — left date column** (service section 08/2026, extended CV-wide 08/2026):
+Dated entries in Education, Grants and Fellowships, Professional Service Activities, Clinical Projects and Responsibilities, Honors and Awards, Research Experience, Professional Training, and Other all share one layout: the year or range in a left column (`YYYY`, `YYYY – YYYY`, `YYYY – Present`, occasionally `YYYY, YYYY`), a tab, then the underlined lead-in with the description after a colon. Mechanically: `Normal` style with left indent 1.4" (2016 twips), hanging first-line indent, and a left tab stop at 1.4" — copy a sibling entry's paragraph properties when adding. Exceptions:
+- *Publications* and *Invited Talks* keep their auto-numbered lists with the date at the **end** of each entry — no date column.
+- Four *Research Experience* entries (UCSD ×2, UNC ×2) are undated and have no date column; the dated MD Anderson entries (dissertation, thesis) do.
+- *Major Contributions to the Field* and *Clinical Competency and Skills* are undated — no date column.
+
 **Within-section groupings** (added 08/2026):
-- *Professional Service Activities* mirrors the standalone service document exactly — org subheads (bold + underline), italic underlined inner labels, entries with a left date column (tab stop + hanging indent at 1.4"). **Keep this CV section and `Professional Service Activities.docx` in lockstep** — a change to one must be applied to the other.
+- *Professional Service Activities* mirrors the standalone service document exactly — org subheads (bold + underline), italic underlined inner labels, date-column entries. **Keep this CV section and `Professional Service Activities.docx` in lockstep** — a change to one must be applied to the other.
 - *Clinical Competency and Skills* (Treatment Planning & Information Systems / Linear Accelerators / Brachytherapy), *Clinical Projects and Responsibilities* (by institution), and *Research Experience* (by institution) use bold + underline subheads; entries under them omit the org/institution prefix.
 
 **Citation format** (Papers/Oral/Poster/Abstracts, numbered lists, newest first):
