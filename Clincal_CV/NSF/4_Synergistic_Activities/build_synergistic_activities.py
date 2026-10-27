@@ -82,7 +82,8 @@ ITEMS = [
      "(2019–2021), which helps international graduate students with the transition "
      "to the United States; STEM outreach to local students through AAPM WizKids "
      "(2018–2019) and UTHealth Science Night (2017–2019); and Co-Investigator "
-     "on a 2024 AHRQ R01 evaluating AI-assisted simulation review in rural settings."),
+     "on AHRQ R18 HS029474 (2024–2027), developing AI-enhanced pre-treatment peer "
+     "review to improve patient safety in radiation oncology."),
 ]
 
 

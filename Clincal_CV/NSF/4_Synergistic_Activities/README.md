@@ -71,7 +71,7 @@ All claims trace to `Clincal_CV/BMAnderson CV.docx` (section → entry).
 | 5 | | Medical Physicists for World Benefit member (2017–present) | Professional Service → MPWB |
 | 5 | | Founding member and domestic liaison, International Students Association (2019–2021) | Professional Service → MD Anderson → ISA |
 | 5 | | AAPM WizKids (2018–2019); UTHealth Science Night (2017–2019) | Professional Service → AAPM → Other Service; MD Anderson → Science Night |
-| 5 | | Co-Investigator, AHRQ R01 (2024), AI-assisted sim review in rural settings | Grants and Fellowships → 2024 |
+| 5 | | Co-Investigator, AHRQ R18 HS029474 (2024–2027), AI-enhanced pre-treatment peer review | Grants and Fellowships → 2024 – 2027 |
 
 ### Deliberately left out
 
@@ -100,7 +100,7 @@ All claims trace to `Clincal_CV/BMAnderson CV.docx` (section → entry).
 - **Item 4:** pick the guest lectures and workshop venues closest to the proposal's audience.
   Invited talks (ESTRO-AAPM 2023, AAPM Therapy Symposium 2024, MGH 2025, AAPM Symposium 2026)
   can replace a venue, but keep the item framed as one training activity, not a talk list.
-- **Item 5:** the AHRQ R01 sentence overlaps with Current and Pending Support; keep it when the
+- **Item 5:** the AHRQ R18 sentence overlaps with Current and Pending Support; keep it when the
   proposal touches rural or low-resource settings, otherwise replace it with the 2018 Medical
   Physics Slam (AAPM People's Choice; SWAAPM 1st place) as lay-audience science communication.
 - **Numbers to refresh before each submission:** DicomRTTool downloads, stars, and forks;
