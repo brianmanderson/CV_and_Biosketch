@@ -1,0 +1,4616 @@
+{
+ "reference_date": "10/27/2026",
+ "table1": [
+  {
+   "name": "Anderson, Brian M.",
+   "org": "University of California, San Diego",
+   "optional": "Clinical Assistant Professor, Department of Radiation Medicine and Applied Sciences (primary)",
+   "last": ""
+  },
+  {
+   "name": "",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "Adjunct Assistant Professor, Department of Radiation Oncology (2025-present)",
+   "last": ""
+  }
+ ],
+ "table2": [],
+ "table3": [
+  {
+   "type": "G",
+   "name": "Brock, Kristy K.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Imaging Physics; Ph.D. advisor (2017-2021)",
+   "last": ""
+  }
+ ],
+ "table4": [
+  {
+   "key": "Abdou M",
+   "variants": [
+    "Abdou M"
+   ],
+   "name": "Abdou, Maya",
+   "org": "University of California, San Diego",
+   "optional": "Department of Radiation Medicine and Applied Sciences",
+   "url": "https://radonc.ucsd.edu/education/radiation-oncology-residency/our-residents/index.html",
+   "conf": "high",
+   "notes": "Listed as PGY-3 radiation oncology resident on the UCSD residency page. First author of the ASTRO 2026 replan abstract (\"M. Abdou, UCSD Radiation Medicine and Applied Sciences\").",
+   "entries": [
+    [
+     "E187",
+     "Abstract",
+     "Root Cause Analysis of Unscheduled Replans Across 19,249 Radiation Therapy Plans",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Abdulkadir Y",
+   "variants": [
+    "Abdulkadir Y"
+   ],
+   "name": "Abdulkadir, Yasin",
+   "org": "University of California, Los Angeles",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://www.uclahealth.org/departments/radonc/education/residents/yasin-abdulkadir-phd",
+   "conf": "high",
+   "notes": "UCLA page lists him as a Radiation Oncology (medical physics) resident; PhD in Physics and Biology in Medicine, UCLA, defended 04/2026 (advisor James Lamb). 2026 papers (PMID 42733413, 42094941) list UCLA Dept of Radiation Oncology.",
+   "entries": [
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Adapa K",
+   "variants": [
+    "Adapa K"
+   ],
+   "name": "Adapa, Karthik",
+   "org": "World Health Organization, Regional Office for South-East Asia",
+   "optional": "Regional Adviser, Digital Health; also Adjunct Faculty, UNC Chapel Hill",
+   "url": "https://orcid.org/0000-0002-3970-588X",
+   "conf": "high",
+   "notes": "MOVED. Regional Adviser, Digital Health, WHO-SEARO (2024-present per ORCID); concurrently Adjunct Faculty, UNC Chapel Hill (Division of Healthcare Engineering / CHIP, 2022-present). Oct 2026 paper (PMID 42880120) lists WHO-SEARO first, email adapak@who.int.",
+   "entries": [
+    [
+     "E123",
+     "Paper",
+     "Using a Deep Learning System to Delineate the Elective Pelvis Nodal Volumes in Patients with Prostate Cancer",
+     "Advances in Radiation Oncology",
+     "07/2026"
+    ],
+    [
+     "E126",
+     "Paper",
+     "Towards better understanding of factors contributing to medical physicist well-being in academic medical centers",
+     "Journal of Applied Clinical Medical Physics",
+     "05/2025"
+    ],
+    [
+     "E188",
+     "Abstract",
+     "Prospective Assessment of the Impact of AI on Peer Review of Elective Pelvic Nodal Segmentations",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E189",
+     "Abstract",
+     "Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Albuquerque J",
+   "variants": [
+    "Albuquerque J"
+   ],
+   "name": "Albuquerque, Jessica",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42155920/",
+   "conf": "high",
+   "notes": "Research staff (non-faculty) in Dept. of Interventional Radiology; no faculty page. Byline on JVIR Aug 2026 (PMID 42155920) and medRxiv 27 Aug 2026 (PMID 42620482) both list MD Anderson.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Altaie M",
+   "variants": [
+    "Altaie M"
+   ],
+   "name": "Altaie, Mais",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Imaging Physics",
+   "url": "https://www.mdanderson.org/research/departments-labs-institutes/labs/morfeus-laboratory/lab-members.html",
+   "conf": "high",
+   "notes": "Research Investigator, Morfeus Lab (joined 04/2022). Sept-2026 paper lists MDA Imaging Physics.",
+   "entries": [
+    [
+     "E125",
+     "Preprint",
+     "Quality versus quantity of training datasets for artificial intelligence-based whole liver segmentation",
+     "medRxiv",
+     "02/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Awais M",
+   "variants": [
+    "Awais M"
+   ],
+   "name": "Awais, Muhammad",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "[CONFIRM] last known (Imaging Physics, 2024); current employer not found",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH%3A%22Awais%20M%22%20AND%20AFF%3A%22MD%20Anderson%22%20sort_date%3Ay&resultType=core&format=json&pageSize=4",
+   "conf": "low",
+   "notes": "Last affiliation: MDA Department of Imaging Physics on an Oct-2024 paper (ultrasound liver vessel segmentation). Morfeus lab page lists him as alumni (Postdoctoral Fellow). No 2025-26 publication or ORCID with an MDA affiliation found. Best guess: left MDA after 2024; current employer not located.",
+   "entries": [
+    [
+     "E135",
+     "Paper",
+     "Deep Learning Models for Automated Assessment of Breast Density Using Multiple Mammographic Image Types",
+     "Cancers",
+     "10/2022"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Balter P",
+   "variants": [
+    "Balter P"
+   ],
+   "name": "Balter, Peter A.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Radiation Physics",
+   "url": "https://faculty.mdanderson.org/profiles/peter_balter.html",
+   "conf": "high",
+   "notes": "Professor; Service Chief, Infrastructure, Radiation Physics.",
+   "entries": [
+    [
+     "E136",
+     "Paper",
+     "Leveraging deep learning-based segmentation and contours-driven deformable registration for dose accumulation in abdominal structures",
+     "Frontiers in Oncology",
+     "10/2022"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Barker M",
+   "variants": [
+    "Barker M"
+   ],
+   "name": "Barker, Margaret",
+   "org": "MemorialCare",
+   "optional": "Radiation Oncology, MemorialCare",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH:%22Barker%20M%22%20AND%20AFF:%22MemorialCare%22&sort=P_PDATE_D%20desc&resultType=core&format=json&pageSize=4",
+   "conf": "high",
+   "notes": "03/2026 JACMP paper (work-from-home survey of Southern California medical physicists) lists \"Radiation Oncology, MemorialCare, Long Beach, California\", same as the 2024 TG-263U1 paper. Likely MemorialCare Long Beach Medical Center; job title not confirmed (presumably medical physicist).",
+   "entries": [
+    [
+     "E131",
+     "Paper",
+     "Perceptions on roadblocks to implementation of standardized nomenclature in radiation oncology: survey from TG-263U1",
+     "Journal of Applied Clinical Medical Physics",
+     "06/2024"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Baughan N",
+   "variants": [
+    "Baughan N"
+   ],
+   "name": "Baughan, Natalie",
+   "org": "Henry Ford Health",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41806049/",
+   "conf": "high",
+   "notes": "2026 J Imaging Inform Med paper lists \"Department of Radiation Oncology, Henry Ford Health, Detroit\" (nbaugha1@hfhs.org). ORCID 0000-0002-3219-9291 employment: Henry Ford Hospital, Radiation Oncology, Jul 2025 - present. Was a UNC medical physics resident in 2024; no longer on UNC's 2026 resident list.",
+   "entries": [
+    [
+     "E180",
+     "Poster",
+     "Unlocking Insights: A Python-Based RayStation Data Mining Tool",
+     "AAPM",
+     "07/2024"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Beadle BM",
+   "variants": [
+    "Beadle BM"
+   ],
+   "name": "Beadle, Beth M.",
+   "org": "Stanford University",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://stanfordhealthcare.org/doctors/b/beth-beadle.html",
+   "conf": "high",
+   "notes": "Professor of Radiation Oncology; Director, Head and Neck Radiation Oncology. At Stanford since 2017 (formerly MD Anderson).",
+   "entries": [
+    [
+     "E132",
+     "Paper",
+     "Identifying the optimal deep learning architecture and parameters for automatic beam aperture definition in 3D radiotherapy",
+     "Journal of Applied Clinical Medical Physics",
+     "12/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Bhattacharya S",
+   "variants": [
+    "Bhattacharya S"
+   ],
+   "name": "Bhattacharya, Sambit",
+   "org": "Fayetteville State University",
+   "optional": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42810617/",
+   "conf": "high",
+   "notes": "Dept of Mathematics and Computer Science (Intelligent Systems Laboratory), FSU, per Sept 2026 PRO paper; ORCID 0000-0001-6407-0217; Oct 2026 Crossref records also FSU. The ASTRO 2025 abstract loosely listed \"UNC\", but the journal affiliation is FSU.",
+   "entries": [
+    [
+     "E122",
+     "Paper",
+     "Deep Learning-Based Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "Practical Radiation Oncology",
+     "09/2026"
+    ],
+    [
+     "E123",
+     "Paper",
+     "Using a Deep Learning System to Delineate the Elective Pelvis Nodal Volumes in Patients with Prostate Cancer",
+     "Advances in Radiation Oncology",
+     "07/2026"
+    ],
+    [
+     "E189",
+     "Abstract",
+     "Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E194",
+     "Abstract",
+     "Automated Detection of Hip Replacements and Fiducial Markers in Pelvic CT Scans",
+     "IEEE Conference on AI",
+     "06/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Blumberg J",
+   "variants": [
+    "Blumberg J"
+   ],
+   "name": "Blumberg, Jeffrey M.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "Department of Otolaryngology/Head and Neck Surgery",
+   "url": "https://www.med.unc.edu/ent/directory/jeffrey-blumberg-md-facs/",
+   "conf": "high",
+   "notes": "Associate Professor; Associate Director, Head and Neck Oncology Fellowship. At UNC on PMID 42024417 (2026).",
+   "entries": [
+    [
+     "E190",
+     "Abstract",
+     "Predicting Dysphagia and Identifying Anatomical Regions Responsible for Dysphagia Following IMRT for Oropharyngeal Carcinoma",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Bojechko C",
+   "variants": [
+    "Bojechko C"
+   ],
+   "name": "Bojechko, Casey",
+   "org": "University of California, San Diego",
+   "optional": "Department of Radiation Medicine & Applied Sciences",
+   "url": "https://radonc.ucsd.edu/faculty/medical-physics/bojechko-casey.html",
+   "conf": "high",
+   "notes": "Associate Professor, Medical Physics Division; listed in the 2026 UCSD medical physics faculty directory.",
+   "entries": [
+    [
+     "E128",
+     "Paper",
+     "DICOM Attribute Manipulation Tool",
+     "Journal of Applied Clinical Medical Physics",
+     "04/2025"
+    ],
+    [
+     "E129",
+     "Paper",
+     "Rapid in vivo EPID image prediction using analytically calculated attenuation and AI predicted scatter",
+     "Medical Physics",
+     "02/2025"
+    ],
+    [
+     "E130",
+     "Paper",
+     "Open RT Structures: A Solution for TG-263 Accessibility",
+     "International Journal of Radiation Oncology, Biology, Physics",
+     "06/2024"
+    ],
+    [
+     "E165",
+     "Oral presentation",
+     "Enabling Adoption of TG-263 Standardization of Nomenclature: A Tool to Reduce the Headache",
+     "AAMD Annual Conference",
+     "06/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Briones-Dimayuga M",
+   "variants": [
+    "Briones-Dimayuga M"
+   ],
+   "name": "Briones-Dimayuga, Maria",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "[CONFIRM] research staff; only evidence is the 2025 Lancet byline",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40090348/",
+   "conf": "medium",
+   "notes": "Research staff (likely clinical research coordinator), Dept. of Interventional Radiology, per the 2025 Lancet byline. Only two PubMed records (2022, 2025); no faculty/directory page and no newer paper found, so a move cannot be excluded.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Brock KK",
+   "variants": [
+    "Brock K",
+    "Brock KK"
+   ],
+   "name": "Brock, Kristy K.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/kristy_brock.html",
+   "conf": "high",
+   "notes": "Professor, Dept. of Imaging Physics (joint Professor, Radiation Physics); Founding Director, Image-Guided Cancer Therapy Program. Brian's PhD advisor — belongs in NSF COA Table 2 (graduate advisor), not only Table 4. ORCID 0000-0001-9364-5040.",
+   "entries": [
+    [
+     "E119",
+     "Book chapter",
+     "Artificial Intelligence in Adaptive Radiation Therapy, Ch. 9: Imaging Registration and Auto-Segmentation",
+     "Book (organized by Yi Wang, MGH)",
+     "undated"
+    ],
+    [
+     "E125",
+     "Preprint",
+     "Quality versus quantity of training datasets for artificial intelligence-based whole liver segmentation",
+     "medRxiv",
+     "02/2026"
+    ],
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ],
+    [
+     "E132",
+     "Paper",
+     "Identifying the optimal deep learning architecture and parameters for automatic beam aperture definition in 3D radiotherapy",
+     "Journal of Applied Clinical Medical Physics",
+     "12/2023"
+    ],
+    [
+     "E133",
+     "Paper",
+     "Comparison of Machine-Learning and Deep-Learning Methods for the Prediction of Osteoradionecrosis",
+     "Advances in Radiation Oncology",
+     "07/2023"
+    ],
+    [
+     "E134",
+     "Paper",
+     "Ablative Margins of Colorectal Liver Metastases Using Deformable CT Image Registration and Autosegmentation",
+     "Radiology",
+     "04/2023"
+    ],
+    [
+     "E135",
+     "Paper",
+     "Deep Learning Models for Automated Assessment of Breast Density Using Multiple Mammographic Image Types",
+     "Cancers",
+     "10/2022"
+    ],
+    [
+     "E136",
+     "Paper",
+     "Leveraging deep learning-based segmentation and contours-driven deformable registration for dose accumulation in abdominal structures",
+     "Frontiers in Oncology",
+     "10/2022"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Byrd E",
+   "variants": [
+    "Byrd E"
+   ],
+   "name": "Byrd, Elizabeth",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42810617/",
+   "conf": "high",
+   "notes": "PhD student, School of Information and Library Science / Carolina Health Informatics Program (ORCID 0009-0009-5375-0941); Dept of Radiation Oncology affiliation on the Sept 2026 PRO paper.",
+   "entries": [
+    [
+     "E122",
+     "Paper",
+     "Deep Learning-Based Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "Practical Radiation Oncology",
+     "09/2026"
+    ],
+    [
+     "E123",
+     "Paper",
+     "Using a Deep Learning System to Delineate the Elective Pelvis Nodal Volumes in Patients with Prostate Cancer",
+     "Advances in Radiation Oncology",
+     "07/2026"
+    ],
+    [
+     "E188",
+     "Abstract",
+     "Prospective Assessment of the Impact of AI on Peer Review of Elective Pelvic Nodal Segmentations",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E189",
+     "Abstract",
+     "Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E195",
+     "Abstract",
+     "Navigating Variability in Prostate RT Planning: Real-Time Insights for Human-Centered CDS Design",
+     "AMIA Annual Symposium",
+     "02/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Cardenas C",
+   "variants": [
+    "Cardenas C"
+   ],
+   "name": "Cardenas, Carlos E.",
+   "org": "The University of Alabama at Birmingham",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://amportal.astro.org/carlos-cardenas-phd-135315897",
+   "conf": "high",
+   "notes": "Associate Professor; Director of Automated Treatment Planning (promoted 10/2024 per UAB news). UAB faculty page (https://www.uab.edu/medicine/radonc/faculty) could not be fetched (certificate error) but search snippets agree. Joined UAB 2021 from MD Anderson.",
+   "entries": [
+    [
+     "E132",
+     "Paper",
+     "Identifying the optimal deep learning architecture and parameters for automatic beam aperture definition in 3D radiotherapy",
+     "Journal of Applied Clinical Medical Physics",
+     "12/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Casey D",
+   "variants": [
+    "Casey D"
+   ],
+   "name": "Casey, Dana",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://www.med.unc.edu/radonc/directory/dana-casey/",
+   "conf": "high",
+   "notes": "Associate Professor; MD Residency Program Director; Director of Pediatric and Young Adult Malignancies; Vice Chair of Education.",
+   "entries": [
+    [
+     "E193",
+     "Abstract",
+     "Rapid Semi-Automated Planning for VMAT Craniospinal Irradiation Using Raystation",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Castelo A",
+   "variants": [
+    "Castelo A"
+   ],
+   "name": "Castelo, Austin",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Imaging Physics",
+   "url": "https://www.mdanderson.org/research/departments-labs-institutes/labs/morfeus-laboratory/lab-members.html",
+   "conf": "high",
+   "notes": "Associate Data Scientist, Morfeus Lab (joined 03/2022). Sept-2026 paper still lists MDA Imaging Physics; ORCID 0009-0009-3015-3570 (updated 09/2026) lists MDA as sole employer.",
+   "entries": [
+    [
+     "E125",
+     "Preprint",
+     "Quality versus quantity of training datasets for artificial intelligence-based whole liver segmentation",
+     "medRxiv",
+     "02/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Cazoulat G",
+   "variants": [
+    "Cazoulat G"
+   ],
+   "name": "Cazoulat, Guillaume",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "[CONFIRM] last known (Imaging Physics, 2024); current employer not found",
+   "url": "https://www.mdanderson.org/research/departments-labs-institutes/labs/morfeus-laboratory/lab-members.html",
+   "conf": "low",
+   "notes": "Morfeus lab alumni (was Research Assistant Professor, Imaging Physics). Last publication affiliation: MDA Imaging Physics (Feb 2024). ORCID 0000-0003-2042-7602 (modified 08/2026) carries no employment entry. No 2025-26 publications found. Best guess: left MDA in 2024-25, possibly to industry; employer not located.",
+   "entries": [
+    [
+     "E136",
+     "Paper",
+     "Leveraging deep learning-based segmentation and contours-driven deformable registration for dose accumulation in abdominal structures",
+     "Frontiers in Oncology",
+     "10/2022"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Charguia N",
+   "variants": [
+    "Charguia N"
+   ],
+   "name": "Charguia, Nadia",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "UNC Health Integrated Well-Being Program",
+   "url": "https://www.med.unc.edu/psych/people/nadia-charguia-md/",
+   "conf": "high",
+   "notes": "Associate Professor and child psychiatrist; Executive Medical Director, UNC Health Integrated Well-Being Program; Director, Taking Care of Our Own Program.",
+   "entries": [
+    [
+     "E126",
+     "Paper",
+     "Towards better understanding of factors contributing to medical physicist well-being in academic medical centers",
+     "Journal of Applied Clinical Medical Physics",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Chen S",
+   "variants": [
+    "Chen S"
+   ],
+   "name": "Chen, S.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "[CONFIRM] identity not resolved; co-authors all UNC Radiation Oncology (AAPM 2024 posters)",
+   "url": "(none found)",
+   "conf": "low",
+   "notes": "Not on the 2026 UNC physics roster, resident list, or dosimetrist list; no PubMed co-publication \"Chen S\" with Das/Marks/Yanagihara since 2008 (those were Duke-era). Best guess: a UNC Rad Onc trainee/student in 2024, or possibly a mis-keyed \"Chang S\" (Sha Chang, PhD, Adjunct Professor, UNC Rad Onc physics). Check the AAPM 2024 poster PDF for the full name.",
+   "entries": [
+    [
+     "E180",
+     "Poster",
+     "Unlocking Insights: A Python-Based RayStation Data Mining Tool",
+     "AAPM",
+     "07/2024"
+    ],
+    [
+     "E181",
+     "Poster",
+     "Predicting Dysphagia in Head and Neck Radiation Therapy with Deep Learning",
+     "AAPM",
+     "07/2024"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Chen X",
+   "variants": [
+    "Chen X"
+   ],
+   "name": "Chen, Xuguang",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "UNC Lineberger Comprehensive Cancer Center",
+   "url": "https://unclineberger.org/directory/xuguang-scott-chen/",
+   "conf": "high",
+   "notes": "Assistant Professor, Radiation Oncology; H&N and lung. Appears as \"X. S. Chen\" (UNC) on the ASTRO 2026 abstract and as \"Xuguang S Chen\" (UNC Rad Onc) on PMID 42024417 (2026). \"Cen X\" on the 2024 poster is almost certainly the same person (typo).",
+   "entries": [
+    [
+     "E179",
+     "Poster",
+     "Simple Method for Functional Sparing of Parotid Glands in Head and Neck IMRT",
+     "ASTRO",
+     "09/2024"
+    ],
+    [
+     "E190",
+     "Abstract",
+     "Predicting Dysphagia and Identifying Anatomical Regions Responsible for Dysphagia Following IMRT for Oropharyngeal Carcinoma",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Chera B",
+   "variants": [
+    "Chera B"
+   ],
+   "name": "Chera, Bhishamjit S.",
+   "org": "Medical University of South Carolina",
+   "optional": "Department of Radiation Oncology, Hollings Cancer Center",
+   "url": "https://researchers.hcc.musc.edu/ProfilePage?id=cherabs",
+   "conf": "high",
+   "notes": "Professor of Radiation Oncology & Otolaryngology, Wendy & Keith Wellin Endowed Chair, Vice Chair for Safety and Quality (2022-present). At UNC 2009-2022. ASTRO 2026 abstract and PMID 42024417 also place him in Charleston/MUSC.",
+   "entries": [
+    [
+     "E190",
+     "Abstract",
+     "Predicting Dysphagia and Identifying Anatomical Regions Responsible for Dysphagia Following IMRT for Oropharyngeal Carcinoma",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Chiang TYD",
+   "variants": [
+    "Chiang TYD"
+   ],
+   "name": "Chiang, Ting-Yu D.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "[CONFIRM] last known (Diagnostic Imaging, 2022); no newer record found",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH%3A%22Chiang%20TD%22%20sort_date%3Ay&resultType=core&format=json&pageSize=5",
+   "conf": "low",
+   "notes": "Only indexed record is the Oct-2022 Cancers paper: Division of Diagnostic Imaging, MDA (research staff; no faculty profile). No newer paper, ORCID or directory hit. Best guess: still MDA Division of Diagnostic Imaging.",
+   "entries": [
+    [
+     "E135",
+     "Paper",
+     "Deep Learning Models for Automated Assessment of Breast Density Using Multiple Mammographic Image Types",
+     "Cancers",
+     "10/2022"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Chun YS",
+   "variants": [
+    "Chun YS"
+   ],
+   "name": "Chun, Yun Shin",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/yunshin_chun.html",
+   "conf": "high",
+   "notes": "Professor, Dept. of Surgical Oncology.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Court L",
+   "variants": [
+    "Court L"
+   ],
+   "name": "Court, Laurence E.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Radiation Physics",
+   "url": "https://faculty.mdanderson.org/profiles/laurence_court.html",
+   "conf": "high",
+   "notes": "Professor, Radiation Physics - Patient Care; directs the Radiation Planning Assistant project.",
+   "entries": [
+    [
+     "E132",
+     "Paper",
+     "Identifying the optimal deep learning architecture and parameters for automatic beam aperture definition in 3D radiotherapy",
+     "Journal of Applied Clinical Medical Physics",
+     "12/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Covington E",
+   "variants": [
+    "Covington E"
+   ],
+   "name": "Covington, Elizabeth L.",
+   "org": "University of Michigan",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://am25.astro.org/elizabeth-covington-phd-135234390",
+   "conf": "high",
+   "notes": "Associate Professor; Director of Quality and Safety, Radiation Oncology (ASTRO 2025 speaker profile). TG-263U1 survey first author.",
+   "entries": [
+    [
+     "E130",
+     "Paper",
+     "Open RT Structures: A Solution for TG-263 Accessibility",
+     "International Journal of Radiation Oncology, Biology, Physics",
+     "06/2024"
+    ],
+    [
+     "E131",
+     "Paper",
+     "Perceptions on roadblocks to implementation of standardized nomenclature in radiation oncology: survey from TG-263U1",
+     "Journal of Applied Clinical Medical Physics",
+     "06/2024"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Cox VL",
+   "variants": [
+    "Cox VL"
+   ],
+   "name": "Cox, Veronica L.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/veronica_cox.html",
+   "conf": "high",
+   "notes": "Clinical Associate Professor, Dept. of Abdominal Imaging.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Dance M",
+   "variants": [
+    "Dance M"
+   ],
+   "name": "Dance, Michael J.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://www.med.unc.edu/radonc/directory/michael-dance/",
+   "conf": "high",
+   "notes": "Instructor, Medical Physicist, UNC Medical Center; on the 2026 physics roster. 2026 PubMed papers (e.g., Semin Radiat Oncol 2026, \"Dance MJ\") with UNC authors; ORCID 0000-0003-0948-3849 (UNC Rad Onc, 2018-present).",
+   "entries": [
+    [
+     "E193",
+     "Abstract",
+     "Rapid Semi-Automated Planning for VMAT Craniospinal Irradiation Using Raystation",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Das SD",
+   "variants": [
+    "Das S",
+    "Das SD"
+   ],
+   "name": "Das, Shiva K.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "",
+   "url": "https://www.med.unc.edu/radonc/directory/shiva-das/",
+   "conf": "high",
+   "notes": "Professor and Head of Medical Physics Division, Dept of Radiation Oncology.",
+   "entries": [
+    [
+     "E122",
+     "Paper",
+     "Deep Learning-Based Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "Practical Radiation Oncology",
+     "09/2026"
+    ],
+    [
+     "E123",
+     "Paper",
+     "Using a Deep Learning System to Delineate the Elective Pelvis Nodal Volumes in Patients with Prostate Cancer",
+     "Advances in Radiation Oncology",
+     "07/2026"
+    ],
+    [
+     "E126",
+     "Paper",
+     "Towards better understanding of factors contributing to medical physicist well-being in academic medical centers",
+     "Journal of Applied Clinical Medical Physics",
+     "05/2025"
+    ],
+    [
+     "E178",
+     "Poster",
+     "Predicting Elective Nodal Volumes with Deep Learning: A Tool to Facilitate Peer Review",
+     "UNC Chapel Hill Research Retreat",
+     "05/2025"
+    ],
+    [
+     "E179",
+     "Poster",
+     "Simple Method for Functional Sparing of Parotid Glands in Head and Neck IMRT",
+     "ASTRO",
+     "09/2024"
+    ],
+    [
+     "E180",
+     "Poster",
+     "Unlocking Insights: A Python-Based RayStation Data Mining Tool",
+     "AAPM",
+     "07/2024"
+    ],
+    [
+     "E181",
+     "Poster",
+     "Predicting Dysphagia in Head and Neck Radiation Therapy with Deep Learning",
+     "AAPM",
+     "07/2024"
+    ],
+    [
+     "E188",
+     "Abstract",
+     "Prospective Assessment of the Impact of AI on Peer Review of Elective Pelvic Nodal Segmentations",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E189",
+     "Abstract",
+     "Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E190",
+     "Abstract",
+     "Predicting Dysphagia and Identifying Anatomical Regions Responsible for Dysphagia Following IMRT for Oropharyngeal Carcinoma",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E193",
+     "Abstract",
+     "Rapid Semi-Automated Planning for VMAT Craniospinal Irradiation Using Raystation",
+     "AAPM Annual Conference",
+     "07/2026"
+    ],
+    [
+     "E194",
+     "Abstract",
+     "Automated Detection of Hip Replacements and Fiducial Markers in Pelvic CT Scans",
+     "IEEE Conference on AI",
+     "06/2026"
+    ],
+    [
+     "E195",
+     "Abstract",
+     "Navigating Variability in Prostate RT Planning: Real-Time Insights for Human-Centered CDS Design",
+     "AMIA Annual Symposium",
+     "02/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Sousa C",
+   "variants": [
+    "Sousa C"
+   ],
+   "name": "de Sousa, Cecilia F. P. M.",
+   "org": "Johns Hopkins University",
+   "optional": "[CONFIRM] ASTRO 2026 listing prints first author as 'C. D. S. Smith'; same person under a changed surname?",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41655817/",
+   "conf": "low",
+   "notes": "Corresponding author of IJROBP 2026 esophagitis-recovery paper (JHU Rad Onc); presenting author at ASTRO 2025 (Johns Hopkins Medicine). The ASTRO 2026 listing prints the first author as \"C. D. S. Smith\" (affiliation JHU Rad Onc) — likely the same person under a changed surname; confirm with Brian.",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "De B",
+   "variants": [
+    "De B"
+   ],
+   "name": "De, Brian",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of CNS Radiation Oncology, Division of Radiation Oncology",
+   "url": "https://faculty.mdanderson.org/profiles/brian_de.html",
+   "conf": "high",
+   "notes": "Assistant Professor (completed MDA radiation oncology residency 2023).",
+   "entries": [
+    [
+     "E136",
+     "Paper",
+     "Leveraging deep learning-based segmentation and contours-driven deformable registration for dose accumulation in abdominal structures",
+     "Frontiers in Oncology",
+     "10/2022"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Dennison JB",
+   "variants": [
+    "Dennison JB"
+   ],
+   "name": "Dennison, Jennifer B.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Clinical Cancer Prevention",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH%3A%22Dennison%20JB%22%20sort_date%3Ay&resultType=core&format=json&pageSize=5",
+   "conf": "high",
+   "notes": "Affiliation on Sept-2026 paper (blood-based metabolic signature for lung cancer) and May-2026 PLCO paper, both Hanash lab. Also listed as staff on the EDRN MD Anderson site page (https://edrn.cancer.gov/about-edrn/sites/151-the-university-of-texas-md-anderson-cancer-center). Research staff, not faculty (no MDA faculty profile).",
+   "entries": [
+    [
+     "E135",
+     "Paper",
+     "Deep Learning Models for Automated Assessment of Breast Density Using Multiple Mammographic Image Types",
+     "Cancers",
+     "10/2022"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Dess K",
+   "variants": [
+    "Dess K"
+   ],
+   "name": "Dess, Kathryn J.",
+   "org": "University of Michigan",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://orcid.org/0009-0005-0489-2047",
+   "conf": "high",
+   "notes": "ORCID employment: Medical Physicist, University of Michigan–Ann Arbor, Radiation Oncology, 07/2021–present (no end date). Latest paper (2024) lists UM Radiation Oncology and VA Ann Arbor Health System.",
+   "entries": [
+    [
+     "E131",
+     "Paper",
+     "Perceptions on roadblocks to implementation of standardized nomenclature in radiation oncology: survey from TG-263U1",
+     "Journal of Applied Clinical Medical Physics",
+     "06/2024"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Dong F",
+   "variants": [
+    "Dong F"
+   ],
+   "name": "Dong, F.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "[CONFIRM] first name not found; ASTRO 2026 listing gives UNC Radiation Oncology",
+   "url": "https://amportal.astro.org/sessions/ss-13-22877/predicting-dysphagia-and-identifying-anatomical-regions-responsible-for-dysphagia-following-i-111139",
+   "conf": "low",
+   "notes": "ASTRO 2026 abstract (Sep 2026; also DOI 10.1016/j.ijrobp.2026.06.072) lists \"F. Dong, University of North Carolina Department of Radiation Oncology\". Not on the 2026 UNC physics faculty roster or resident list, so likely a student/postdoc in the Das group; no PubMed/ORCID match. Organization is reasonably solid; full name is not.",
+   "entries": [
+    [
+     "E181",
+     "Poster",
+     "Predicting Dysphagia in Head and Neck Radiation Therapy with Deep Learning",
+     "AAPM",
+     "07/2024"
+    ],
+    [
+     "E190",
+     "Abstract",
+     "Predicting Dysphagia and Identifying Anatomical Regions Responsible for Dysphagia Following IMRT for Oropharyngeal Carcinoma",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Dooley J",
+   "variants": [
+    "Dooley J"
+   ],
+   "name": "Dooley, John",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "",
+   "url": "https://www.med.unc.edu/radonc/directory/john-dooley/",
+   "conf": "high",
+   "notes": "Clinical Software Engineer, Dept of Radiation Oncology; also on the Sept 2026 PRO paper with UNC affiliation.",
+   "entries": [
+    [
+     "E122",
+     "Paper",
+     "Deep Learning-Based Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "Practical Radiation Oncology",
+     "09/2026"
+    ],
+    [
+     "E189",
+     "Abstract",
+     "Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E193",
+     "Abstract",
+     "Rapid Semi-Automated Planning for VMAT Craniospinal Irradiation Using Raystation",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Doss V",
+   "variants": [
+    "Doss V"
+   ],
+   "name": "Doss, Victoria L.",
+   "org": "Johns Hopkins University",
+   "optional": "Department of Radiation Oncology and Molecular Radiation Sciences",
+   "url": "https://amportal.astro.org/sessions/pqa-04-22880/cumulative-eqd2-esophageal-dose-and-toxicity-after-thoracic-reirradiation-114345",
+   "conf": "high",
+   "notes": "\"V. L. Doss\" with JHU Rad Onc affiliation on the ASTRO 2026 listing; full name from PMID 41655817 and ASTRO 2025 (presenting author, Johns Hopkins Medicine).",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Elganainy D",
+   "variants": [
+    "Elganainy D"
+   ],
+   "name": "Elganainy, Dalia",
+   "org": "Dana-Farber Cancer Institute",
+   "optional": "Department of Medical Oncology",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH%3A%22Elganainy%20D%22%20sort_date%3Ay&resultType=core&format=json&pageSize=5",
+   "conf": "high",
+   "notes": "May-2026 paper lists Dana-Farber Medical Oncology and Harvard Medical School; Koay lab alumni page says \"Postdoctoral Research Fellow, Dana-Farber Cancer Institute.\"",
+   "entries": [
+    [
+     "E136",
+     "Paper",
+     "Leveraging deep learning-based segmentation and contours-driven deformable registration for dose accumulation in abdominal structures",
+     "Frontiers in Oncology",
+     "10/2022"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Estes C",
+   "variants": [
+    "Estes C"
+   ],
+   "name": "Estes, Christopher",
+   "org": "Mercy Hospital Springfield",
+   "optional": "[CONFIRM] newest evidence 2024-25 bylines (Mercy Springfield); no 2026 source",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH:%22Estes%20C%22%20AND%20AFF:%22Springfield%22&sort=P_PDATE_D%20desc&resultType=core&format=json&pageSize=3",
+   "conf": "medium",
+   "notes": "Newest evidence is the Practical Radiation Oncology Delphi paper (epub 11/2024, print 05-06/2025) listing Mercy Hospital, Springfield, MO (same as the 2024 IJROBP paper). No 2026 source, ORCID record, or Mercy directory page found; role/degree unknown.",
+   "entries": [
+    [
+     "E130",
+     "Paper",
+     "Open RT Structures: A Solution for TG-263 Accessibility",
+     "International Journal of Radiation Oncology, Biology, Physics",
+     "06/2024"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Fellman BM",
+   "variants": [
+    "Fellman BM"
+   ],
+   "name": "Fellman, Bryan M.",
+   "org": "Baylor College of Medicine",
+   "optional": "[CONFIRM] Baylor directory lists him; 2026 bylines still MD Anderson Biostatistics (recent move)",
+   "url": "https://www.bcm.edu/people-search/bryan-fellman-205405",
+   "conf": "medium",
+   "notes": "BCM people directory lists him as Senior Biostatistician, Pediatrics – Epidemiology (bcm.edu email). However his newest PubMed bylines still read \"Department of Biostatistics, MD Anderson\" (Clin Cancer Res Apr 2026, PMID 41528970; Eur Urol Nov 2025, PMID 40750497), so the BCM move appears recent. Non-faculty statistician; MD Anderson Pure directory could not be checked (HTTP 403).",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ],
+    [
+     "E134",
+     "Paper",
+     "Ablative Margins of Colorectal Liver Metastases Using Deformable CT Image Registration and Autosegmentation",
+     "Radiology",
+     "04/2023"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Fields E",
+   "variants": [
+    "Fields E"
+   ],
+   "name": "Fields, Emma C.",
+   "org": "Virginia Commonwealth University",
+   "optional": "VCU Massey Comprehensive Cancer Center, Department of Radiation Oncology",
+   "url": "https://radonc.vcu.edu/about/team",
+   "conf": "high",
+   "notes": "Professor; Director, Radiation Oncology Residency Program. 2026 Brachytherapy paper (PMID 41826114) lists \"Department of Radiation Oncology, VCU Massey Comprehensive Cancer Center, Richmond, VA\".",
+   "entries": [
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Floyd W",
+   "variants": [
+    "Floyd W"
+   ],
+   "name": "Floyd, Robert Warren",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Radiation Oncology, resident physician",
+   "url": "https://www.mdanderson.org/research/departments-labs-institutes/labs/fuller-laboratory/lab-members.html",
+   "conf": "high",
+   "notes": "Listed as Resident/Postdoctoral Researcher in the Fuller lab; Radiation Oncology residency 2023-2027 (ASTRO/Doximity profiles). MD/PhD from Duke.",
+   "entries": [
+    [
+     "E124",
+     "Paper",
+     "Large language models for scalable standardization in radiation oncology",
+     "Physics and Imaging in Radiation Oncology",
+     "04/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Foster M",
+   "variants": [
+    "Foster M"
+   ],
+   "name": "Foster, Meagan",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "[CONFIRM] newest evidence 2025 (UNC Division of Healthcare Engineering); no 2026 source",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41726441/",
+   "conf": "medium",
+   "notes": "Dept of Radiation Oncology (Division of Healthcare Engineering research staff) per the AMIA proceedings paper (published May 2025) and the Sept 2025 ASTRO abstracts; ORCID 0000-0001-9730-5158 (2022-2023 works with the same group). No 2026-dated source found after extra PubMed/Crossref/ORCID checks; still-at-UNC not confirmed.",
+   "entries": [
+    [
+     "E178",
+     "Poster",
+     "Predicting Elective Nodal Volumes with Deep Learning: A Tool to Facilitate Peer Review",
+     "UNC Chapel Hill Research Retreat",
+     "05/2025"
+    ],
+    [
+     "E195",
+     "Abstract",
+     "Navigating Variability in Prostate RT Planning: Real-Time Insights for Human-Centered CDS Design",
+     "AMIA Annual Symposium",
+     "02/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Fried D",
+   "variants": [
+    "Fried D"
+   ],
+   "name": "Fried, David",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://www.med.unc.edu/radonc/directory/david-fried/",
+   "conf": "high",
+   "notes": "Associate Professor, Medical Physicist, UNC Medical Center; listed on the 2026 UNC Therapeutic Medical Physics Division roster (https://www.med.unc.edu/radonc/about/physics/).",
+   "entries": [
+    [
+     "E179",
+     "Poster",
+     "Simple Method for Functional Sparing of Parotid Glands in Head and Neck IMRT",
+     "ASTRO",
+     "09/2024"
+    ],
+    [
+     "E181",
+     "Poster",
+     "Predicting Dysphagia in Head and Neck Radiation Therapy with Deep Learning",
+     "AAPM",
+     "07/2024"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Friend D",
+   "variants": [
+    "Friend D"
+   ],
+   "name": "Friend, D.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "[CONFIRM] identity not resolved; co-authors all UNC Radiation Oncology (AAPM 2026 abstract)",
+   "url": "(none found)",
+   "conf": "low",
+   "notes": "No match in the 2026 UNC physics roster, resident list, or dosimetrist list; no PubMed or ORCID record. All other co-authors on the AAPM 2026 CSI abstract are UNC Rad Onc, so best guess is a UNC Rad Onc trainee (e.g., dosimetry student) in 2026 - or a misspelling of David Fried (UNC, above). The AAPM 2026 program (confex app) could not be queried.",
+   "entries": [
+    [
+     "E193",
+     "Abstract",
+     "Rapid Semi-Automated Planning for VMAT Craniospinal Irradiation Using Raystation",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Fuller C",
+   "variants": [
+    "Fuller C"
+   ],
+   "name": "Fuller, Clifton David",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://faculty.mdanderson.org/profiles/clifton_fuller.html",
+   "conf": "high",
+   "notes": "Professor & Distinguished Educator, Radiation Oncology.",
+   "entries": [
+    [
+     "E133",
+     "Paper",
+     "Comparison of Machine-Learning and Deep-Learning Methods for the Prediction of Osteoradionecrosis",
+     "Advances in Radiation Oncology",
+     "07/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Gao Y",
+   "variants": [
+    "Gao Y"
+   ],
+   "name": "Gao, Yuan",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42810617/",
+   "conf": "high",
+   "notes": "PhD student, Carolina Health Informatics Program, and research assistant, Dept of Radiation Oncology; first/corresponding author (yuan_gao@med.unc.edu) of the Sept 2026 PRO paper. ASTRO profile: https://amportal.astro.org/yuan-gao-ms-135367847",
+   "entries": [
+    [
+     "E122",
+     "Paper",
+     "Deep Learning-Based Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "Practical Radiation Oncology",
+     "09/2026"
+    ],
+    [
+     "E123",
+     "Paper",
+     "Using a Deep Learning System to Delineate the Elective Pelvis Nodal Volumes in Patients with Prostate Cancer",
+     "Advances in Radiation Oncology",
+     "07/2026"
+    ],
+    [
+     "E188",
+     "Abstract",
+     "Prospective Assessment of the Impact of AI on Peer Review of Elective Pelvic Nodal Segmentations",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E189",
+     "Abstract",
+     "Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E194",
+     "Abstract",
+     "Automated Detection of Hip Replacements and Fiducial Markers in Pelvic CT Scans",
+     "IEEE Conference on AI",
+     "06/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Gay S",
+   "variants": [
+    "Gay S"
+   ],
+   "name": "Gay, Skylar",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Radiation Physics; [CONFIRM] Ph.D. student in Court lab through early 2026; may have started a residency elsewhere",
+   "url": "https://www.mdanderson.org/research/departments-labs-institutes/labs/court-laboratory/lab-members.html",
+   "conf": "medium",
+   "notes": "Court lab page lists her as Graduate Research Assistant; GSBS news item dated 02/27/2026 (https://gsbs.uth.edu/medphys/) still calls her a Medical Physics PhD student in Laurence Court's lab. LinkedIn shows PhD 2021-2026, so she may have defended and started a residency by late 2026; no source confirms a move.",
+   "entries": [
+    [
+     "E132",
+     "Paper",
+     "Identifying the optimal deep learning architecture and parameters for automatic beam aperture definition in 3D radiotherapy",
+     "Journal of Applied Clinical Medical Physics",
+     "12/2023"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Gebre T",
+   "variants": [
+    "Gebre T"
+   ],
+   "name": "Gebre, Tsion",
+   "org": "Johns Hopkins University",
+   "optional": "Department of Radiation Oncology and Molecular Radiation Sciences, School of Medicine; Bloomberg School of Public Health per ASTRO 2025 listing; [CONFIRM] likely student; last evidence 01/2026 IJROBP byline; not on the ASTRO 2026 listing",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41655817/",
+   "conf": "medium",
+   "notes": "Same basis as Hagan: 01/2026 IJROBP affiliation; not on ASTRO 2026 listing; likely student; current status unverified.",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Ger R",
+   "variants": [
+    "Ger R"
+   ],
+   "name": "Ger, Rachel B.",
+   "org": "Johns Hopkins University",
+   "optional": "Department of Radiation Oncology and Molecular Radiation Sciences",
+   "url": "https://www.hopkinsmedicine.org/profiles/details/rachel-ger",
+   "conf": "high",
+   "notes": "Assistant Professor of Radiation Oncology and Molecular Radiation Sciences (secondary: Oncology); senior author on the IJROBP 2026 and ASTRO 2026 work.",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Gryshkevych S",
+   "variants": [
+    "Gryshkevych S"
+   ],
+   "name": "Gryshkevych, Sergii",
+   "org": "RaySearch Laboratories AB",
+   "optional": "[CONFIRM] last known (2022); no newer record found",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH%3A%22Gryshkevych%20S%22%20sort_date%3Ay&resultType=core&format=json&pageSize=5",
+   "conf": "low",
+   "notes": "Last affiliation: RaySearch Laboratories, Stockholm (Nov 2022; 2020 paper: Department of Machine Learning, RaySearch Laboratories AB). No 2023-26 papers, no ORCID, not on TheOrg RaySearch chart. Best guess: still RaySearch Laboratories AB.",
+   "entries": [
+    [
+     "E136",
+     "Paper",
+     "Leveraging deep learning-based segmentation and contours-driven deformable registration for dose accumulation in abdominal structures",
+     "Frontiers in Oncology",
+     "10/2022"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Gupta A",
+   "variants": [
+    "Gupta A"
+   ],
+   "name": "Gupta, Aashish Chandra",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "[CONFIRM] last known (Ph.D. 2026, Imaging Physics); current employer not found",
+   "url": "https://orcid.org/0000-0002-0178-0921",
+   "conf": "low",
+   "notes": "ORCID (updated 05/2026): Graduate Research Assistant, Imaging Physics, MDA, 06/2022 to 05/2026 (PhD, MD Anderson UTHealth Houston GSBS). Morfeus lab page now lists him as alumni (\"M.S., Ph.D.\"); Feb-2026 medRxiv preprint and an early-2026 letter list MDA Imaging Physics. Best guess: graduated mid-2026 and started a medical-physics residency or postdoc elsewhere; not located. If an as-of-collaboration affiliation is acceptable, use The University of Texas MD Anderson Cancer Center.",
+   "entries": [
+    [
+     "E125",
+     "Preprint",
+     "Quality versus quantity of training datasets for artificial intelligence-based whole liver segmentation",
+     "medRxiv",
+     "02/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Gupta S",
+   "variants": [
+    "Gupta S"
+   ],
+   "name": "Gupta, Sanjay",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/sanjay_gupta.html",
+   "conf": "high",
+   "notes": "Professor and Chair, Dept. of Interventional Radiology; Robert D. and Alma W. Moreton Endowed Professor.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Habibollahi P",
+   "variants": [
+    "Habibollahi P"
+   ],
+   "name": "Habibollahi, Peiman",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/peiman_habibollahi.html",
+   "conf": "high",
+   "notes": "Associate Professor, Dept. of Interventional Radiology.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Hackman T",
+   "variants": [
+    "Hackman T"
+   ],
+   "name": "Hackman, Trevor G.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "Department of Otolaryngology/Head and Neck Surgery",
+   "url": "https://www.med.unc.edu/ent/directory/trevor-g-hackman-md-facs/",
+   "conf": "high",
+   "notes": "Professor; Director, Head & Neck Oncology Fellowship; Vice Chair of Inpatient Operations & Improvement (leadership page). Also https://unclineberger.org/directory/trevor-hackman/.",
+   "entries": [
+    [
+     "E190",
+     "Abstract",
+     "Predicting Dysphagia and Identifying Anatomical Regions Responsible for Dysphagia Following IMRT for Oropharyngeal Carcinoma",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Hagan E",
+   "variants": [
+    "Hagan E"
+   ],
+   "name": "Hagan, Esi",
+   "org": "Johns Hopkins University",
+   "optional": "Department of Radiation Oncology and Molecular Radiation Sciences, School of Medicine; Bloomberg School of Public Health per ASTRO 2025 listing; [CONFIRM] likely student; last evidence 01/2026 IJROBP byline; not on the ASTRO 2026 listing",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41655817/",
+   "conf": "medium",
+   "notes": "Most recent affiliation is the 01/2026 IJROBP paper; not on the ASTRO 2026 listing. Likely a student (ASTRO 2025 listed Bloomberg School of Public Health); current status as of late 2026 unverified.",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Hales E",
+   "variants": [
+    "Hales E"
+   ],
+   "name": "Hales, Elaina",
+   "org": "Johns Hopkins University",
+   "optional": "Department of Radiation Oncology and Molecular Radiation Sciences",
+   "url": "https://amportal.astro.org/sessions/pqa-04-22880/cumulative-eqd2-esophageal-dose-and-toxicity-after-thoracic-reirradiation-114345",
+   "conf": "high",
+   "notes": "\"E. Hales\" with JHU Rad Onc affiliation on ASTRO 2026 listing; full name from PMID 41655817. Role (student/research staff) not stated; distinct from Russell K. Hales.",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Hales R",
+   "variants": [
+    "Hales R"
+   ],
+   "name": "Hales, Russell K.",
+   "org": "Johns Hopkins University",
+   "optional": "Department of Radiation Oncology and Molecular Radiation Sciences",
+   "url": "https://profiles.hopkinsmedicine.org/provider/Russell+Hales/2702665",
+   "conf": "high",
+   "notes": "Assistant Professor; Director, Thoracic Oncology Multidisciplinary Program (Johns Hopkins Bayview).",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Hanash SM",
+   "variants": [
+    "Hanash SM"
+   ],
+   "name": "Hanash, Samir M.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Clinical Cancer Prevention",
+   "url": "https://faculty.mdanderson.org/profiles/samir_hanash.html",
+   "conf": "high",
+   "notes": "Professor, Clinical Cancer Prevention (joint: Molecular Pathology); Director, McCombs Institute for the Early Detection and Treatment of Cancer.",
+   "entries": [
+    [
+     "E135",
+     "Paper",
+     "Deep Learning Models for Automated Assessment of Breast Density Using Multiple Mammographic Image Types",
+     "Cancers",
+     "10/2022"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Hawkins M",
+   "variants": [
+    "Hawkins M"
+   ],
+   "name": "Hawkins, Matt",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://www.med.unc.edu/radonc/directory/matt-hawkins/",
+   "conf": "high",
+   "notes": "Certified medical dosimetrist on the 2026 UNC Rad Onc dosimetrists roster (https://www.med.unc.edu/radonc/about/for-professionals-2/dosimetrists/). Only \"Hawkins\" in the department; fits a planning poster co-author. No PubMed record.",
+   "entries": [
+    [
+     "E179",
+     "Poster",
+     "Simple Method for Functional Sparing of Parotid Glands in Head and Neck IMRT",
+     "ASTRO",
+     "09/2024"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Hink JB",
+   "variants": [
+    "Hink JB"
+   ],
+   "name": "Hink, Justin",
+   "org": "University of California, Los Angeles",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42733413/",
+   "conf": "high",
+   "notes": "Adv Radiat Oncol 2026 (data-consolidation framework with Abdulkadir, Lamb, Neylon) lists UCLA Dept of Radiation Oncology; ORCID 0000-0003-0739-9846 (institution: University of California, Los Angeles). Middle initial \"B\" not verified.",
+   "entries": [
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Hong DS",
+   "variants": [
+    "Hong DS"
+   ],
+   "name": "Hong, David S.",
+   "org": "University of California, Irvine",
+   "optional": "Department of Radiation Oncology (radiation oncologist)",
+   "url": "https://medschool.uci.edu/research/clinical-departments/radiation-oncology/radiation-oncology-faculty?page=1",
+   "conf": "high",
+   "notes": "Radiation oncologist, not a physicist: UCI lists \"David Hong, MD, Assistant Professor, Radiation Oncology; Director of Quality\". Was at USC on the 2024 IJROBP paper; 11/2024 and 12/2025 papers (Europe PMC) list \"Hong DS, David S\" at UC Irvine Dept of Radiation Oncology. Not the MD Anderson medical oncologist David S. Hong.",
+   "entries": [
+    [
+     "E130",
+     "Paper",
+     "Open RT Structures: A Solution for TG-263 Accessibility",
+     "International Journal of Radiation Oncology, Biology, Physics",
+     "06/2024"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Hsu D",
+   "variants": [
+    "Hsu D"
+   ],
+   "name": "Hsu, Dylan G.",
+   "org": "Memorial Sloan Kettering Cancer Center",
+   "optional": "[CONFIRM] identity inferred (Dylan G. Hsu); not confirmed against the AAPM 2026 listing",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40374598/",
+   "conf": "low",
+   "notes": "Identity inferred only: Dylan Hsu (MSK Medical Physics) co-authored the 2025 Nature Communications brain-metastases atlas with Gilmer Valdes; 2026 JACMP and AJNR papers still list MSK Dept of Medical Physics. Could not confirm against the AAPM 2026 listing; if the abstract's Hsu is a different person, treat as UNKNOWN.",
+   "entries": [
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Hu C",
+   "variants": [
+    "Hu C"
+   ],
+   "name": "Hu, Chen",
+   "org": "Johns Hopkins University",
+   "optional": "Division of Biostatistics and Bioinformatics, Sidney Kimmel Comprehensive Cancer Center; also Department of Biostatistics, Bloomberg School of Public Health",
+   "url": "https://amportal.astro.org/sessions/pqa-04-22880/cumulative-eqd2-esophageal-dose-and-toxicity-after-thoracic-reirradiation-114345",
+   "conf": "high",
+   "notes": "ASTRO 2026 listing affiliations 1 and 4; PMID 41655817 also lists JHU Bloomberg Biostatistics. Hopkins profile pages returned 403, so no directory URL.",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Huang SY",
+   "variants": [
+    "Huang SY"
+   ],
+   "name": "Huang, Steven Y.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/steven_huang.html",
+   "conf": "high",
+   "notes": "Professor, Dept. of Interventional Radiology; Director, Clinical Program and Operations, IR.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Javle MM",
+   "variants": [
+    "Javle MM"
+   ],
+   "name": "Javle, Milind M.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/milind_javle.html",
+   "conf": "high",
+   "notes": "Professor and Clinical Medical Director, Dept. of Gastrointestinal Medical Oncology.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Jhingran A",
+   "variants": [
+    "Jhingran A"
+   ],
+   "name": "Jhingran, Anuja",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://faculty.mdanderson.org/profiles/anuja_jhingran.html",
+   "conf": "high",
+   "notes": "Professor of Radiation Oncology; Executive Director, Cancer Network.",
+   "entries": [
+    [
+     "E132",
+     "Paper",
+     "Identifying the optimal deep learning architecture and parameters for automatic beam aperture definition in 3D radiotherapy",
+     "Journal of Applied Clinical Medical Physics",
+     "12/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Jia X",
+   "variants": [
+    "Jia X"
+   ],
+   "name": "Jia, Xun",
+   "org": "Johns Hopkins University",
+   "optional": "Department of Radiation Oncology and Molecular Radiation Sciences",
+   "url": "https://profiles.hopkinsmedicine.org/provider/Xun+Jia/2777405",
+   "conf": "high",
+   "notes": "Professor; Chief, Medical Physics Division.",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Jones AK",
+   "variants": [
+    "Jones AK",
+    "Jones KA"
+   ],
+   "name": "Jones, A. Kyle",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/aaron_jones.html",
+   "conf": "high",
+   "notes": "Professor, Dept. of Imaging Physics (joint Professor, IR); Deputy Program Director, Medical Physics Graduate Program. Indexed as \"Jones AK\" in Lancet record and \"Jones KA\" in the Radiology 2023 record. ORCID 0000-0001-8245-8573.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ],
+    [
+     "E134",
+     "Paper",
+     "Ablative Margins of Colorectal Liver Metastases Using Deformable CT Image Registration and Autosegmentation",
+     "Radiology",
+     "04/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Kang HSC",
+   "variants": [
+    "Kang HSC"
+   ],
+   "name": "Kang, HyunSeon Christine",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/hyunseon_kang.html",
+   "conf": "high",
+   "notes": "Professor, Dept. of Abdominal Imaging. PubMed indexes as \"Kang HC\".",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Karunaker A",
+   "variants": [
+    "Karunaker A"
+   ],
+   "name": "Karunaker, Anirudh",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "[CONFIRM] trainee; evidence is the 05/2026 IEEE CAI byline; printed Anirudh/Aniruddh",
+   "url": "https://doi.org/10.1109/CAI68641.2026.11536379",
+   "conf": "medium",
+   "notes": "May 2026 IEEE CAI paper lists \"University of North Carolina at Chapel Hill, Division of Healthcare Engineering, Radiation Oncology, School of Medicine\"; \"Anirudh\" on PubMed 41726441, \"Aniruddh\" on the IEEE record. Probably a student/trainee; no ORCID; exact role not verified.",
+   "entries": [
+    [
+     "E178",
+     "Poster",
+     "Predicting Elective Nodal Volumes with Deep Learning: A Tool to Facilitate Peer Review",
+     "UNC Chapel Hill Research Retreat",
+     "05/2025"
+    ],
+    [
+     "E194",
+     "Abstract",
+     "Automated Detection of Hip Replacements and Fiducial Markers in Pelvic CT Scans",
+     "IEEE Conference on AI",
+     "06/2026"
+    ],
+    [
+     "E195",
+     "Abstract",
+     "Navigating Variability in Prostate RT Planning: Real-Time Insights for Human-Centered CDS Design",
+     "AMIA Annual Symposium",
+     "02/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Kaseb A",
+   "variants": [
+    "Kaseb A"
+   ],
+   "name": "Kaseb, Ahmed O.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/ahmed_kaseb.html",
+   "conf": "high",
+   "notes": "Professor, Dept. of Gastrointestinal Medical Oncology; John E. and Dorothy J. Harris Professor in GI Cancer Research.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Katz MS",
+   "variants": [
+    "Katz MS"
+   ],
+   "name": "Katz, Matthew S.",
+   "org": "Lowell General Hospital",
+   "optional": "[CONFIRM] no 2026 source; 2025 byline Lowell General; also Radiation Oncology Associates (Elliot Hospital, NH)",
+   "url": "https://elliothospital.org/providers/matthew-s-katz-md",
+   "conf": "medium",
+   "notes": "Radiation oncologist (Medical Director of Radiation Oncology at Lowell General per an undated LBBC bio). 01/2025 paper lists \"Department of Radiation Oncology, Lowell General Hospital\". Elliot Health System page (2026 copyright) shows him with Radiation Oncology Associates, PA practicing at Elliot Hospital (Manchester, NH) and Saints Medical Center (Lowell, MA). No 2026 paper found; practice group unchanged, so medium.",
+   "entries": [
+    [
+     "E130",
+     "Paper",
+     "Open RT Structures: A Solution for TG-263 Accessibility",
+     "International Journal of Radiation Oncology, Biology, Physics",
+     "06/2024"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Kim S",
+   "variants": [
+    "Kim S"
+   ],
+   "name": "Kim, Sangwoo Shawn",
+   "org": "University of California, San Diego",
+   "optional": "[CONFIRM] identity inferred (Sangwoo Shawn Kim, MD); could be a different S. Kim on staff",
+   "url": "https://radonc.ucsd.edu/faculty/radiation-oncology/kim-shawn.html",
+   "conf": "low",
+   "notes": "Identity inferred: the abstract's \"S. Kim, UC San Diego, Moores Cancer Center, Department of Radiation Medicine and Applied Sciences\" matches Dr. Kim's published affiliation and he is the only Kim on the UCSD radiation oncology faculty (Associate Physician; GI and palliative). Could instead be a dosimetrist/staff \"S. Kim\" not in any directory — confirm with Brian.",
+   "entries": [
+    [
+     "E187",
+     "Abstract",
+     "Root Cause Analysis of Unscheduled Replans Across 19,249 Radiation Therapy Plans",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Kirimli E",
+   "variants": [
+    "Kirimli E"
+   ],
+   "name": "Kirimli, Ezgi",
+   "org": "Republic of Türkiye Ministry of Health",
+   "optional": "T.C. Sağlık Bakanlığı; [CONFIRM] per Koay-lab alumni page (family medicine physician, Turkiye Ministry of Health); unverified",
+   "url": "https://www.mdanderson.org/research/departments-labs-institutes/labs/koay-laboratory/lab-members.html",
+   "conf": "medium",
+   "notes": "Koay lab alumni page: \"now Family Medicine Physician, T.C. Sağlık Bakanlığı.\" Consistent with a June-2026 paper by \"Kırımlı E\" affiliated with İstanbul Provincial Health Directorate, Turkey (first name not printed, so not confirmed). ORCID 0000-0001-8220-1874 is stale (2019, MDA Research Assistant II).",
+   "entries": [
+    [
+     "E136",
+     "Paper",
+     "Leveraging deep learning-based segmentation and contours-driven deformable registration for dose accumulation in abdominal structures",
+     "Frontiers in Oncology",
+     "10/2022"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Kisling K",
+   "variants": [
+    "Kisling K"
+   ],
+   "name": "Kisling, Kelly",
+   "org": "University of California, San Diego",
+   "optional": "Department of Radiation Medicine and Applied Sciences",
+   "url": "https://radonc.ucsd.edu/faculty/medical-physics/kisling-kelly.html",
+   "conf": "high",
+   "notes": "Associate Professor, Medical Physics Division.",
+   "entries": [
+    [
+     "E132",
+     "Paper",
+     "Identifying the optimal deep learning architecture and parameters for automatic beam aperture definition in 3D radiotherapy",
+     "Journal of Applied Clinical Medical Physics",
+     "12/2023"
+    ],
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Klopp A",
+   "variants": [
+    "Klopp A"
+   ],
+   "name": "Klopp, Ann H.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://amportal.astro.org/ann-klopp-md-phd-35179121",
+   "conf": "high",
+   "notes": "Professor of Radiation Oncology; Director of Brachytherapy. MD Anderson profile (https://faculty.mdanderson.org/profiles/ann_klopp.html) could not be fetched (certificate error), but search snippets of it agree.",
+   "entries": [
+    [
+     "E132",
+     "Paper",
+     "Identifying the optimal deep learning architecture and parameters for automatic beam aperture definition in 3D radiotherapy",
+     "Journal of Applied Clinical Medical Physics",
+     "12/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Knausl B",
+   "variants": [
+    "Knausl B"
+   ],
+   "name": "Knäusl, Barbara",
+   "org": "Medical University of Vienna",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://radioonkologie.meduniwien.ac.at/forschung/drittmittelfinanzierte-projekte/pair/knaeusl/",
+   "conf": "high",
+   "notes": "Senior Post-Doc and Medical Physicist, Division of Medical Physics; habilitation 2024.",
+   "entries": [
+    [
+     "E124",
+     "Paper",
+     "Large language models for scalable standardization in radiation oncology",
+     "Physics and Imaging in Radiation Oncology",
+     "04/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Koay EJ",
+   "variants": [
+    "Koay E",
+    "Koay EJ"
+   ],
+   "name": "Koay, Eugene J.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of GI Radiation Oncology",
+   "url": "https://faculty.mdanderson.org/profiles/eugene_koay.html",
+   "conf": "high",
+   "notes": "Professor; Scientific Director, Ahmed Center for Pancreatic Cancer Research; adjunct faculty, Rice University Bioengineering.",
+   "entries": [
+    [
+     "E125",
+     "Preprint",
+     "Quality versus quantity of training datasets for artificial intelligence-based whole liver segmentation",
+     "medRxiv",
+     "02/2026"
+    ],
+    [
+     "E136",
+     "Paper",
+     "Leveraging deep learning-based segmentation and contours-driven deformable registration for dose accumulation in abdominal structures",
+     "Frontiers in Oncology",
+     "10/2022"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Kooner",
+   "variants": [
+    "Kooner"
+   ],
+   "name": "Kooner, Harkiran K.",
+   "org": "Johns Hopkins University",
+   "optional": "Department of Radiation Oncology and Molecular Radiation Sciences",
+   "url": "https://amportal.astro.org/sessions/pqa-04-22880/cumulative-eqd2-esophageal-dose-and-toxicity-after-thoracic-reirradiation-114345",
+   "conf": "high",
+   "notes": "Printed as \"H. K. Kooner\" with JHU Rad Onc affiliation on the ASTRO 2026 listing. Full name from Europe PMC records (Harkiran K. Kooner; PhD Medical Biophysics, Western University/Robarts); Acad Radiol 2025 (PMID 39581785) already lists \"Department of Radiation Oncology, Johns Hopkins University\". Role at JHU (postdoc/physics resident) not stated.",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Kopetz S",
+   "variants": [
+    "Kopetz S"
+   ],
+   "name": "Kopetz, Scott",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/e_kopetz.html",
+   "conf": "high",
+   "notes": "Now Chair, Dept. of Colorectal Medical Oncology (Division of Cancer Medicine); Professor, GI Medical Oncology; Assoc. VP for Translational Integration.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Krupein A",
+   "variants": [
+    "Krupein A"
+   ],
+   "name": "Krupien, Andrew J.",
+   "org": "University of California, Los Angeles",
+   "optional": "Department of Radiation Oncology; [CONFIRM] CV spelling 'Krupein' not found anywhere; Andrew J. Krupien (UCLA) is the likely match",
+   "url": "https://europepmc.org/search?query=AUTH%3A%22Krupien%20AJ%22",
+   "conf": "medium",
+   "notes": "No \"Krupein\" exists in PubMed/Europe PMC/ORCID. \"Krupien AJ\" (Andrew J.) is listed at UCLA Dept of Radiation Oncology on JACMP 2025 (open-source deep-learning segmentation for brachytherapy) and IJROBP 2026. Confirm spelling with Brian/abstract.",
+   "entries": [
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Kuban J",
+   "variants": [
+    "Kuban J"
+   ],
+   "name": "Kuban, Joshua D.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/joshua_kuban.html",
+   "conf": "high",
+   "notes": "Associate Professor, Dept. of Interventional Radiology; IR Residency/Fellowship Program Director; Assoc. VP Education & Alumni Relations.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Kwong E",
+   "variants": [
+    "Kwong E"
+   ],
+   "name": "Kwong, Elizabeth K.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42696830/",
+   "conf": "high",
+   "notes": "PhD candidate, Carolina Health Informatics Program (ORCID 0000-0003-1581-6865: PhD Health Informatics, 2021-present) and Division of Healthcare Engineering; Sept 2026 J Surg Res paper still lists CHIP / UNC. Graduation status not verified.",
+   "entries": [
+    [
+     "E126",
+     "Paper",
+     "Towards better understanding of factors contributing to medical physicist well-being in academic medical centers",
+     "Journal of Applied Clinical Medical Physics",
+     "05/2025"
+    ],
+    [
+     "E195",
+     "Abstract",
+     "Navigating Variability in Prostate RT Planning: Real-Time Insights for Human-Centered CDS Design",
+     "AMIA Annual Symposium",
+     "02/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Lai S",
+   "variants": [
+    "Lai S"
+   ],
+   "name": "Lai, Stephen Y.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Head and Neck Surgery",
+   "url": "https://faculty.mdanderson.org/profiles/stephen_lai.html",
+   "conf": "high",
+   "notes": "Professor, Head and Neck Surgery; joint appointment in Radiation Oncology.",
+   "entries": [
+    [
+     "E133",
+     "Paper",
+     "Comparison of Machine-Learning and Deep-Learning Methods for the Prediction of Osteoradionecrosis",
+     "Advances in Radiation Oncology",
+     "07/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Lamb J",
+   "variants": [
+    "Lamb J"
+   ],
+   "name": "Lamb, James M.",
+   "org": "University of California, Los Angeles",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://www.uclahealth.org/node/110161",
+   "conf": "high",
+   "notes": "Professor; Vice Chair and Director of Medical Physics.",
+   "entries": [
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Lavrova L",
+   "variants": [
+    "Lavrova L"
+   ],
+   "name": "Lavrova, Elizaveta",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "",
+   "url": "https://www.med.unc.edu/radonc/directory/elizaveta-lavrova/",
+   "conf": "high",
+   "notes": "PGY-3 radiation oncology resident (directory page updated June 2026). Printed as \"E. Lavrova\" on the ASTRO/IJROBP abstract and \"Liza Lavrova\" on the PRO paper.",
+   "entries": [
+    [
+     "E122",
+     "Paper",
+     "Deep Learning-Based Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "Practical Radiation Oncology",
+     "09/2026"
+    ],
+    [
+     "E189",
+     "Abstract",
+     "Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Li H",
+   "variants": [
+    "Li H"
+   ],
+   "name": "Li, Heng",
+   "org": "Johns Hopkins University",
+   "optional": "Department of Radiation Oncology and Molecular Radiation Sciences",
+   "url": "https://hopkinsmedicine.org/profiles/results/directory/profile/10004736/heng-li",
+   "conf": "high",
+   "notes": "Associate Professor; Chief Proton Physicist, Johns Hopkins National Proton Center (Sibley Memorial Hospital).",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Lin CT",
+   "variants": [],
+   "name": "Lin, C. T.",
+   "org": "Johns Hopkins University",
+   "optional": "[CONFIRM] named on the ASTRO 2026 listing of this abstract but not in the CV entry",
+   "url": "https://amportal.astro.org/sessions/pqa-04-22880/cumulative-eqd2-esophageal-dose-and-toxicity-after-thoracic-reirradiation-114345",
+   "conf": "low",
+   "notes": "Not in the CV author list; added from the ASTRO 2026 program listing. Confirm final author list.",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Lin YM",
+   "variants": [
+    "Lin YM"
+   ],
+   "name": "Lin, Yuan-Mao",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/yuan-mao_lin.html",
+   "conf": "high",
+   "notes": "Now Assistant Professor, Dept. of Interventional Radiology (was research/clinical fellow when the papers were written). ORCID 0000-0002-0275-9593.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ],
+    [
+     "E134",
+     "Paper",
+     "Ablative Margins of Colorectal Liver Metastases Using Deformable CT Image Registration and Autosegmentation",
+     "Radiology",
+     "04/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Liu CC",
+   "variants": [
+    "Liu CC"
+   ],
+   "name": "Liu, Chao-Chin",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "[CONFIRM] 2026 byline UNC; 2025 bylines and ORCID say Georgetown University",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42186289/",
+   "conf": "medium",
+   "notes": "Affiliation alternates: the 2026 J Nurs Manag paper lists Division of Healthcare Engineering + School of Information and Library Science, UNC; the JACMP 2025 paper, a Jul 2025 Patient Educ Couns paper, and ORCID 0009-0002-0960-2211 list Georgetown University (Dept of Computer Science). Probably a student who moved from Georgetown to UNC in 2026; UNC is the most recent, Georgetown the alternative.",
+   "entries": [
+    [
+     "E126",
+     "Paper",
+     "Towards better understanding of factors contributing to medical physicist well-being in academic medical centers",
+     "Journal of Applied Clinical Medical Physics",
+     "05/2025"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Liu D",
+   "variants": [
+    "Liu D"
+   ],
+   "name": "Liu, Dezhi",
+   "org": "Johns Hopkins University",
+   "optional": "Department of Radiation Oncology and Molecular Radiation Sciences",
+   "url": "https://amportal.astro.org/sessions/pqa-04-22880/cumulative-eqd2-esophageal-dose-and-toxicity-after-thoracic-reirradiation-114345",
+   "conf": "high",
+   "notes": "\"D. Liu\" with JHU Rad Onc affiliation on ASTRO 2026 listing; full name from PMID 41655817.",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Lumley C",
+   "variants": [
+    "Lumley C"
+   ],
+   "name": "Lumley, Catherine J.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "Department of Otolaryngology/Head and Neck Surgery",
+   "url": "https://www.med.unc.edu/ent/people/catherine-j-lumley-md/",
+   "conf": "high",
+   "notes": "Assistant Professor, Head and Neck Oncology; Medical Director of the Head and Neck Clinic. At UNC on PMID 42024417 (2026).",
+   "entries": [
+    [
+     "E190",
+     "Abstract",
+     "Predicting Dysphagia and Identifying Anatomical Regions Responsible for Dysphagia Following IMRT for Oropharyngeal Carcinoma",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Marks LB",
+   "variants": [
+    "Marks L",
+    "Marks LB"
+   ],
+   "name": "Marks, Lawrence B.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "",
+   "url": "https://www.med.unc.edu/radonc/directory/lawrence-marks/",
+   "conf": "high",
+   "notes": "Sidney K. Simon Distinguished Professor of Oncology Research, Dept of Radiation Oncology; co-PI of the AHRQ project.",
+   "entries": [
+    [
+     "E122",
+     "Paper",
+     "Deep Learning-Based Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "Practical Radiation Oncology",
+     "09/2026"
+    ],
+    [
+     "E123",
+     "Paper",
+     "Using a Deep Learning System to Delineate the Elective Pelvis Nodal Volumes in Patients with Prostate Cancer",
+     "Advances in Radiation Oncology",
+     "07/2026"
+    ],
+    [
+     "E126",
+     "Paper",
+     "Towards better understanding of factors contributing to medical physicist well-being in academic medical centers",
+     "Journal of Applied Clinical Medical Physics",
+     "05/2025"
+    ],
+    [
+     "E178",
+     "Poster",
+     "Predicting Elective Nodal Volumes with Deep Learning: A Tool to Facilitate Peer Review",
+     "UNC Chapel Hill Research Retreat",
+     "05/2025"
+    ],
+    [
+     "E180",
+     "Poster",
+     "Unlocking Insights: A Python-Based RayStation Data Mining Tool",
+     "AAPM",
+     "07/2024"
+    ],
+    [
+     "E188",
+     "Abstract",
+     "Prospective Assessment of the Impact of AI on Peer Review of Elective Pelvic Nodal Segmentations",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E189",
+     "Abstract",
+     "Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E194",
+     "Abstract",
+     "Automated Detection of Hip Replacements and Fiducial Markers in Pelvic CT Scans",
+     "IEEE Conference on AI",
+     "06/2026"
+    ],
+    [
+     "E195",
+     "Abstract",
+     "Navigating Variability in Prostate RT Planning: Real-Time Insights for Human-Centered CDS Design",
+     "AMIA Annual Symposium",
+     "02/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Mathew RT",
+   "variants": [
+    "Mathew RT"
+   ],
+   "name": "Mathew, Ryan T.",
+   "org": "Swedish Medical Center",
+   "optional": "[CONFIRM] per Koay-lab alumni page ('Clinical Research Coordinator II, Swedish'); unverified",
+   "url": "https://www.mdanderson.org/research/departments-labs-institutes/labs/koay-laboratory/lab-members.html",
+   "conf": "low",
+   "notes": "Koay lab alumni list has \"Ryan Matthew, B.S.\" (undergraduate researcher) \"now Clinical Research Coordinator II, Swedish\" (spelling differs from the paper's \"Mathew\"; \"Swedish\" most likely Swedish Medical Center / Swedish Cancer Institute, Seattle). Paper affiliation was MDA Radiation Oncology (2022). No ORCID or later publications. Best guess: Swedish Medical Center, Seattle.",
+   "entries": [
+    [
+     "E136",
+     "Paper",
+     "Leveraging deep learning-based segmentation and contours-driven deformable registration for dose accumulation in abdominal structures",
+     "Frontiers in Oncology",
+     "10/2022"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Matney J",
+   "variants": [
+    "Matney J"
+   ],
+   "name": "Matney, Jason",
+   "org": "University of California, Davis",
+   "optional": "UC Davis Health, Department of Radiation Oncology",
+   "url": "https://health.ucdavis.edu/radiation-oncology/team/42971/jason-matney",
+   "conf": "high",
+   "notes": "Associate Professor, medical physics; formerly Clinical Assistant Professor at UNC Chapel Hill. Identity as the abstract's \"Matney J\" inferred (only J. Matney medical physicist found).",
+   "entries": [
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Maxin P",
+   "variants": [
+    "Maxin P"
+   ],
+   "name": "Maxim, Peter G.",
+   "org": "University of California, Irvine",
+   "optional": "Department of Radiation Oncology, Chao Family Comprehensive Cancer Center; [CONFIRM] CV spelling 'Maxin' not found anywhere; Peter G. Maxim (UC Irvine) is the likely match",
+   "url": "https://europepmc.org/search?query=AUTH%3A%22Maxim%20PG%22",
+   "conf": "medium",
+   "notes": "No \"Maxin P\" exists in PubMed/Europe PMC/ORCID. Peter G. Maxim (medical physicist) is listed at UC Irvine Dept of Radiation Oncology on IJROBP 2026 (epub 05/2026) and JACMP 08/2026. Confirm spelling with Brian/abstract.",
+   "entries": [
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Mayo C",
+   "variants": [
+    "Mayo C"
+   ],
+   "name": "Mayo, Charles S.",
+   "org": "University of Michigan",
+   "optional": "Department of Radiation Oncology; [CONFIRM] one 10/2026 byline adds Brigham and Women's/Dana-Farber; a move may be in progress",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH:%22Mayo%20CS%22&sort=P_PDATE_D%20desc&resultType=core&format=json&pageSize=8",
+   "conf": "medium",
+   "notes": "TG-263 chair; UM profile lists Clinical Professor (https://medschool.umich.edu/profile/2727/charles-s-mayo, fetch blocked 403). Newest paper (epub 10/23/2026) lists University of Michigan Medical School, but one 10/2026 paper lists a dual affiliation \"Brigham and Women's Hospital/Dana-Farber Cancer Institute\" + University of Michigan (cmayo@med.umich.edu) — a move may be in progress; verify.",
+   "entries": [
+    [
+     "E131",
+     "Paper",
+     "Perceptions on roadblocks to implementation of standardized nomenclature in radiation oncology: survey from TG-263U1",
+     "Journal of Applied Clinical Medical Physics",
+     "06/2024"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Mazur LM",
+   "variants": [
+    "Mazur L",
+    "Mazur LM"
+   ],
+   "name": "Mazur, Lukasz M.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "",
+   "url": "https://www.med.unc.edu/radonc/directory/lukasz-mazur/",
+   "conf": "high",
+   "notes": "Professor of Radiation Oncology and Information & Library Science; Director, Division of Healthcare Engineering; PI of the AHRQ project.",
+   "entries": [
+    [
+     "E122",
+     "Paper",
+     "Deep Learning-Based Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "Practical Radiation Oncology",
+     "09/2026"
+    ],
+    [
+     "E123",
+     "Paper",
+     "Using a Deep Learning System to Delineate the Elective Pelvis Nodal Volumes in Patients with Prostate Cancer",
+     "Advances in Radiation Oncology",
+     "07/2026"
+    ],
+    [
+     "E126",
+     "Paper",
+     "Towards better understanding of factors contributing to medical physicist well-being in academic medical centers",
+     "Journal of Applied Clinical Medical Physics",
+     "05/2025"
+    ],
+    [
+     "E178",
+     "Poster",
+     "Predicting Elective Nodal Volumes with Deep Learning: A Tool to Facilitate Peer Review",
+     "UNC Chapel Hill Research Retreat",
+     "05/2025"
+    ],
+    [
+     "E188",
+     "Abstract",
+     "Prospective Assessment of the Impact of AI on Peer Review of Elective Pelvic Nodal Segmentations",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E189",
+     "Abstract",
+     "Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E194",
+     "Abstract",
+     "Automated Detection of Hip Replacements and Fiducial Markers in Pelvic CT Scans",
+     "IEEE Conference on AI",
+     "06/2026"
+    ],
+    [
+     "E195",
+     "Abstract",
+     "Navigating Variability in Prostate RT Planning: Real-Time Insights for Human-Centered CDS Design",
+     "AMIA Annual Symposium",
+     "02/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "McCulloch MM",
+   "variants": [
+    "McCulloch MM"
+   ],
+   "name": "McCulloch, Molly M.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "[CONFIRM] last known (Imaging Physics, 2022); current employer not found",
+   "url": "https://www.mdanderson.org/research/departments-labs-institutes/labs/morfeus-laboratory/lab-members.html",
+   "conf": "low",
+   "notes": "Morfeus lab alumni (\"Graduate Student and Postdoctoral Fellow\"). Last publication affiliation: MDA Imaging Physics (Nov 2022). ORCID 0000-0002-7531-1263 lists MDA postdoctoral fellow but was last updated 02/2020. No 2023-26 publications under \"McCulloch MM\" found; may have changed name or left academia. Best guess: no longer at MDA; employer not located.",
+   "entries": [
+    [
+     "E136",
+     "Paper",
+     "Leveraging deep learning-based segmentation and contours-driven deformable registration for dose accumulation in abdominal structures",
+     "Frontiers in Oncology",
+     "10/2022"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "McGurk R",
+   "variants": [
+    "McGurk R"
+   ],
+   "name": "McGurk, Ross",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "",
+   "url": "https://www.med.unc.edu/radonc/directory/ross-mcgurk/",
+   "conf": "high",
+   "notes": "Assistant Professor, Medical Physicist, Dept of Radiation Oncology; 2026 papers consistent.",
+   "entries": [
+    [
+     "E122",
+     "Paper",
+     "Deep Learning-Based Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "Practical Radiation Oncology",
+     "09/2026"
+    ],
+    [
+     "E123",
+     "Paper",
+     "Using a Deep Learning System to Delineate the Elective Pelvis Nodal Volumes in Patients with Prostate Cancer",
+     "Advances in Radiation Oncology",
+     "07/2026"
+    ],
+    [
+     "E188",
+     "Abstract",
+     "Prospective Assessment of the Impact of AI on Peer Review of Elective Pelvic Nodal Segmentations",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E189",
+     "Abstract",
+     "Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E195",
+     "Abstract",
+     "Navigating Variability in Prostate RT Planning: Real-Time Insights for Human-Centered CDS Design",
+     "AMIA Annual Symposium",
+     "02/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "McHugh D",
+   "variants": [
+    "McHugh D"
+   ],
+   "name": "McHugh, Damian",
+   "org": "Curi",
+   "optional": "[CONFIRM] ORCID and JACMP 2025: Physician Liaison, Curi (Raleigh, NC); record last updated 2023",
+   "url": "https://orcid.org/0009-0005-1305-2074",
+   "conf": "medium",
+   "notes": "ORCID employment: Curi, Physician Liaison, Feb 2022 - present (record last updated Nov 2023). JACMP 2025 paper (https://pmc.ncbi.nlm.nih.gov/articles/PMC12148786/) gives affiliation \"Curi, Raleigh, North Carolina, USA\". Curi is a physician-owned insurance/advisory company, not an academic center.",
+   "entries": [
+    [
+     "E126",
+     "Paper",
+     "Towards better understanding of factors contributing to medical physicist well-being in academic medical centers",
+     "Journal of Applied Clinical Medical Physics",
+     "05/2025"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "McNutt T",
+   "variants": [
+    "McNutt T"
+   ],
+   "name": "McNutt, Todd R.",
+   "org": "Johns Hopkins University",
+   "optional": "Department of Radiation Oncology and Molecular Radiation Sciences",
+   "url": "https://profiles.hopkinsmedicine.org/provider/Todd+McNutt/2777561",
+   "conf": "high",
+   "notes": "Professor; Director of Clinical Informatics. Listed as presenter of ASTRO 2026 abstract 2722.",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Metwalli ZA",
+   "variants": [
+    "Metwalli ZA"
+   ],
+   "name": "Metwalli, Zeyad A.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/zeyad_metwalli.html",
+   "conf": "high",
+   "notes": "Associate Professor, Dept. of Interventional Radiology; Patient Safety and Quality Officer, IR.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Miften M",
+   "variants": [
+    "Miften M"
+   ],
+   "name": "Miften, Moyed",
+   "org": "University of Colorado School of Medicine",
+   "optional": "",
+   "url": "https://som.cuanschutz.edu/Profiles/Faculty/Profile/6745",
+   "conf": "high",
+   "notes": "Professor and Director, Medical Physics Division.",
+   "entries": [
+    [
+     "E126",
+     "Paper",
+     "Towards better understanding of factors contributing to medical physicist well-being in academic medical centers",
+     "Journal of Applied Clinical Medical Physics",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Mohamed ASR",
+   "variants": [
+    "Mohamed ASR"
+   ],
+   "name": "Mohamed, Abdallah Sherif Radwan",
+   "org": "Baylor College of Medicine",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://www.bcm.edu/people-search/abdallah-mohamed-134506",
+   "conf": "high",
+   "notes": "Assistant Professor; moved from MD Anderson.",
+   "entries": [
+    [
+     "E133",
+     "Paper",
+     "Comparison of Machine-Learning and Deep-Learning Methods for the Prediction of Osteoradionecrosis",
+     "Advances in Radiation Oncology",
+     "07/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Moncio A",
+   "variants": [
+    "Moncio A"
+   ],
+   "name": "Moncion, Alexander",
+   "org": "University of Michigan",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH:%22Moncion%20A%22&sort=P_PDATE_D%20desc&resultType=core&format=json&pageSize=3",
+   "conf": "high",
+   "notes": "CV spelling \"Moncio\" is a typo for \"Moncion\" (JACMP author list reads Moncion A). Papers through 10/2026 list University of Michigan Radiation Oncology; UM profile page https://medschool.umich.edu/profile/6790/alexander-moncion exists (fetch blocked 403).",
+   "entries": [
+    [
+     "E131",
+     "Paper",
+     "Perceptions on roadblocks to implementation of standardized nomenclature in radiation oncology: survey from TG-263U1",
+     "Journal of Applied Clinical Medical Physics",
+     "06/2024"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Moore K",
+   "variants": [
+    "Moore K"
+   ],
+   "name": "Moore, Kevin L.",
+   "org": "Varian Medical Systems, Inc.",
+   "optional": "[CONFIRM] 2024-25 bylines list Varian (one also UC San Diego); absent from 2026 UCSD faculty directory",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH:%22Moore%20KL%22%20AND%20AFF:%22Varian%22&sort=P_PDATE_D%20desc&resultType=core&format=json&pageSize=6",
+   "conf": "low",
+   "notes": "09/2024 Practical Radiation Oncology paper lists Varian Medical Systems only; 11/2025 ARTIA-Cervix paper lists UCSD RMAS AND Varian. He is absent from the 2026 UCSD medical physics faculty directory (https://radonc.ucsd.edu/faculty/medical-physics/index.html) and profiles.ucsd.edu/kevin.moore returns 404, although his UCSD lab page is still online. Treat Varian as primary; verify with Brian.",
+   "entries": [
+    [
+     "E130",
+     "Paper",
+     "Open RT Structures: A Solution for TG-263 Accessibility",
+     "International Journal of Radiation Oncology, Biology, Physics",
+     "06/2024"
+    ],
+    [
+     "E165",
+     "Oral presentation",
+     "Enabling Adoption of TG-263 Standardization of Nomenclature: A Tool to Reduce the Headache",
+     "AAMD Annual Conference",
+     "06/2023"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Moore L",
+   "variants": [
+    "Moore L"
+   ],
+   "name": "Moore, Lance C.",
+   "org": "University of California, San Diego",
+   "optional": "Department of Radiation Medicine and Applied Sciences",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42114806/",
+   "conf": "high",
+   "notes": "Pract Radiat Oncol 2026 and Brachytherapy 2026 (with Kelly Kisling) list UCSD Dept of Radiation Medicine and Applied Sciences.",
+   "entries": [
+    [
+     "E129",
+     "Paper",
+     "Rapid in vivo EPID image prediction using analytically calculated attenuation and AI predicted scatter",
+     "Medical Physics",
+     "02/2025"
+    ],
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Moreno AC",
+   "variants": [
+    "Moreno AC"
+   ],
+   "name": "Moreno, Amy C.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://faculty.mdanderson.org/profiles/amy_moreno.html",
+   "conf": "high",
+   "notes": "Associate Professor per current profile (older pages say Assistant Professor).",
+   "entries": [
+    [
+     "E124",
+     "Paper",
+     "Large language models for scalable standardization in radiation oncology",
+     "Physics and Imaging in Radiation Oncology",
+     "04/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Morris VK",
+   "variants": [
+    "Morris VK"
+   ],
+   "name": "Morris, Van K.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/van_morris.html",
+   "conf": "high",
+   "notes": "Associate Professor, Dept. of Gastrointestinal Medical Oncology; Section Chief, Colorectal Cancer.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Morse R",
+   "variants": [
+    "Morse R"
+   ],
+   "name": "Morse, Ryan T.",
+   "org": "University of Kansas School of Medicine",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://www.kucancercenter.org/find-a-researcher/researcher-finder-results/ryan-morse-md",
+   "conf": "high",
+   "notes": "Assistant Professor. UNC Rad Onc resident 2020-2024 (chief resident). PMID 42024417 (2026) flags him \"Now with ... University of Kansas Medical Center\".",
+   "entries": [
+    [
+     "E181",
+     "Poster",
+     "Predicting Dysphagia in Head and Neck Radiation Therapy with Deep Learning",
+     "AAPM",
+     "07/2024"
+    ],
+    [
+     "E190",
+     "Abstract",
+     "Predicting Dysphagia and Identifying Anatomical Regions Responsible for Dysphagia Following IMRT for Oropharyngeal Carcinoma",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Negassa M",
+   "variants": [
+    "Negassa M"
+   ],
+   "name": "Negassa, Meti",
+   "org": "Johns Hopkins University",
+   "optional": "Department of Radiation Oncology and Molecular Radiation Sciences, School of Medicine; Bloomberg School of Public Health per ASTRO 2025 listing; [CONFIRM] likely student; last evidence 01/2026 IJROBP byline; not on the ASTRO 2026 listing",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41655817/",
+   "conf": "medium",
+   "notes": "Same basis as Hagan: 01/2026 IJROBP affiliation; not on ASTRO 2026 listing; likely student; current status unverified.",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Netherton T",
+   "variants": [
+    "Netherton T"
+   ],
+   "name": "Netherton, Tucker",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Radiation Physics",
+   "url": "https://faculty.mdanderson.org/profiles/tucker_netherton.html",
+   "conf": "high",
+   "notes": "Assistant Professor; adjunct at Rice University.",
+   "entries": [
+    [
+     "E132",
+     "Paper",
+     "Identifying the optimal deep learning architecture and parameters for automatic beam aperture definition in 3D radiotherapy",
+     "Journal of Applied Clinical Medical Physics",
+     "12/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Newhook T",
+   "variants": [
+    "Newhook T"
+   ],
+   "name": "Newhook, Timothy E.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/timothy_newhook.html",
+   "conf": "high",
+   "notes": "Associate Professor, Dept. of Surgical Oncology; HPB Fellowship Associate Program Director.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Neylon J",
+   "variants": [
+    "Neylon J"
+   ],
+   "name": "Neylon, Jack",
+   "org": "University of California, Los Angeles",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://uclahealth.org/node/110201",
+   "conf": "high",
+   "notes": "Associate Professor; Director, Therapeutic Medical Physics Residency Program.",
+   "entries": [
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Nguyen C",
+   "variants": [
+    "Nguyen C"
+   ],
+   "name": "Nguyen, Callistus",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Radiation Physics",
+   "url": "https://www.mdanderson.org/research/departments-labs-institutes/labs/court-laboratory/lab-members.html",
+   "conf": "high",
+   "notes": "Senior Data Scientist, Radiation Physics (Court lab page).",
+   "entries": [
+    [
+     "E132",
+     "Paper",
+     "Identifying the optimal deep learning architecture and parameters for automatic beam aperture definition in 3D radiotherapy",
+     "Journal of Applied Clinical Medical Physics",
+     "12/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "O'Connor CS",
+   "variants": [
+    "O'Connor C",
+    "O'Connor CS"
+   ],
+   "name": "O'Connor, Caleb S.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42520860/",
+   "conf": "high",
+   "notes": "Research staff (non-faculty), Dept. of Imaging Physics (Brock lab); no faculty page. Byline on Int J Radiat Oncol Biol Phys Nov 2026 (PMID 42520860) and medRxiv Aug 2026 (PMID 42620482) both list MD Anderson.",
+   "entries": [
+    [
+     "E125",
+     "Preprint",
+     "Quality versus quantity of training datasets for artificial intelligence-based whole liver segmentation",
+     "medRxiv",
+     "02/2026"
+    ],
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ],
+    [
+     "E134",
+     "Paper",
+     "Ablative Margins of Colorectal Liver Metastases Using Deformable CT Image Registration and Autosegmentation",
+     "Radiology",
+     "04/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Obaideen A",
+   "variants": [
+    "Obaideen A"
+   ],
+   "name": "Obaideen, Anas",
+   "org": "Johns Hopkins University",
+   "optional": "Department of Radiation Oncology and Molecular Radiation Sciences, School of Medicine; Bloomberg School of Public Health per ASTRO 2025 listing; [CONFIRM] likely student; last evidence 01/2026 IJROBP byline; not on the ASTRO 2026 listing",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41655817/",
+   "conf": "medium",
+   "notes": "Same basis as Hagan: 01/2026 IJROBP affiliation; not on ASTRO 2026 listing; likely student; current status unverified.",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Odisio BC",
+   "variants": [
+    "Odisio B",
+    "Odisio BC"
+   ],
+   "name": "Odisio, Bruno C.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/bruno_odisio.html",
+   "conf": "high",
+   "notes": "Professor, Dept. of Interventional Radiology; Co-Director of Research, IR; Medical Director, Image-Guided Cancer Therapy Program. Corresponding author of COVER-ALL.",
+   "entries": [
+    [
+     "E125",
+     "Preprint",
+     "Quality versus quantity of training datasets for artificial intelligence-based whole liver segmentation",
+     "medRxiv",
+     "02/2026"
+    ],
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ],
+    [
+     "E134",
+     "Paper",
+     "Ablative Margins of Colorectal Liver Metastases Using Deformable CT Image Registration and Autosegmentation",
+     "Radiology",
+     "04/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Padilla L",
+   "variants": [
+    "Padilla L"
+   ],
+   "name": "Padilla, Laura",
+   "org": "University of California, San Diego",
+   "optional": "Department of Radiation Medicine & Applied Sciences",
+   "url": "https://radonc.ucsd.edu/faculty/medical-physics/padilla-laura.html",
+   "conf": "high",
+   "notes": "Associate Professor and Associate Division Director (Medical Physics Residency); listed in the 2026 UCSD faculty directory.",
+   "entries": [
+    [
+     "E130",
+     "Paper",
+     "Open RT Structures: A Solution for TG-263 Accessibility",
+     "International Journal of Radiation Oncology, Biology, Physics",
+     "06/2024"
+    ],
+    [
+     "E165",
+     "Oral presentation",
+     "Enabling Adoption of TG-263 Standardization of Nomenclature: A Tool to Reduce the Headache",
+     "AAMD Annual Conference",
+     "06/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Paolucci I",
+   "variants": [
+    "Paolucci I"
+   ],
+   "name": "Paolucci, Iwan",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/iwan_paolucci.html",
+   "conf": "high",
+   "notes": "Now Assistant Professor, Dept. of Interventional Radiology (was postdoc when the papers were written). ORCID 0000-0002-9393-3015.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ],
+    [
+     "E134",
+     "Paper",
+     "Ablative Margins of Colorectal Liver Metastases Using Deformable CT Image Registration and Autosegmentation",
+     "Radiology",
+     "04/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Patel M",
+   "variants": [
+    "Patel M"
+   ],
+   "name": "Patel, Milan N.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/milan_patel.html",
+   "conf": "high",
+   "notes": "Assistant Professor, Dept. of Interventional Radiology; Clinical Medical Director, IR.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Patel S",
+   "variants": [
+    "Patel S"
+   ],
+   "name": "Patel, Shetal",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "[CONFIRM] probably Shetal Patel (UNC Medical Oncology); if Samip Patel, it is Mayo Clinic Florida",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42024417/",
+   "conf": "low",
+   "notes": "Identity is ambiguous. The 2026 JAMA Otolaryngol HNS paper on the same UNC cohort has TWO S. Patels: Shetal Patel (Division of Medical Oncology, UNC) and Samip Patel (Otolaryngology-HNS, Mayo Clinic in Florida, Jacksonville; ORCID 0000-0003-1575-4043). The ASTRO 2026 abstract lists one \"S. Patel, University of North Carolina Hospitals\" placed between Weiss and Sheth (the medical oncologists), which points to Shetal Patel. If Brian means the H&N surgeon Samip Patel, his current organization is Mayo Clinic in Florida (Jacksonville), Department of Otolaryngology-Head and Neck Surgery; Mayo's bio pages (mayo.edu/research/faculty/patel-samip-m-d/bio-20535323) blocked automated fetch.",
+   "entries": [
+    [
+     "E190",
+     "Abstract",
+     "Predicting Dysphagia and Identifying Anatomical Regions Responsible for Dysphagia Following IMRT for Oropharyngeal Carcinoma",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Pawlicki T",
+   "variants": [
+    "Pawlicki T"
+   ],
+   "name": "Pawlicki, Todd A.",
+   "org": "University of California, San Diego",
+   "optional": "Department of Radiation Medicine and Applied Sciences",
+   "url": "https://radonc.ucsd.edu/faculty/medical-physics/pawlicki-todd.html",
+   "conf": "high",
+   "notes": "Professor and Vice Chair for Medical Physics; Director, Division of Medical Physics (page copyright 2026). Same institution as Brian.",
+   "entries": [
+    [
+     "E126",
+     "Paper",
+     "Towards better understanding of factors contributing to medical physicist well-being in academic medical centers",
+     "Journal of Applied Clinical Medical Physics",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Peterson CB",
+   "variants": [
+    "Peterson CB"
+   ],
+   "name": "Peterson, Christine B.",
+   "org": "Rice University",
+   "optional": "Department of Statistics",
+   "url": "https://profiles.rice.edu/faculty/christine-peterson",
+   "conf": "high",
+   "notes": "Associate Professor of Statistics, Rice University. Moved from MDA Biostatistics: her MDA faculty profile URL now returns 404, and her 2026 papers list Rice Department of Statistics (one Aug-2026 paper still carries MDA Biostatistics).",
+   "entries": [
+    [
+     "E136",
+     "Paper",
+     "Leveraging deep learning-based segmentation and contours-driven deformable registration for dose accumulation in abdominal structures",
+     "Frontiers in Oncology",
+     "10/2022"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Price J",
+   "variants": [
+    "Price J"
+   ],
+   "name": "Price, Jeremy G.",
+   "org": "Fox Chase Cancer Center",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH:%22Price%20JG%22%20AND%20AFF:%22Radiation%20Oncology%22&sort=P_PDATE_D%20desc&resultType=core&format=json&pageSize=4",
+   "conf": "high",
+   "notes": "Radiation oncologist. Printed as \"Price JG\" on the JACMP paper. Papers epub 11/2025 and 04/2026 list Fox Chase Cancer Center.",
+   "entries": [
+    [
+     "E131",
+     "Paper",
+     "Perceptions on roadblocks to implementation of standardized nomenclature in radiation oncology: survey from TG-263U1",
+     "Journal of Applied Clinical Medical Physics",
+     "06/2024"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Rajasekar A",
+   "variants": [
+    "Arcot R",
+    "Rajasekar A"
+   ],
+   "name": "Rajasekar, Arcot",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "",
+   "url": "https://sdis.unc.edu/person/arcot-rajasekar/",
+   "conf": "high",
+   "notes": "Professor, UNC School of Data and Information Sciences (the former SILS; page updated Aug 2026); Chief Scientist, Renaissance Computing Institute (RENCI). Same person as the \"Arcot R\" row.",
+   "entries": [
+    [
+     "E122",
+     "Paper",
+     "Deep Learning-Based Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "Practical Radiation Oncology",
+     "09/2026"
+    ],
+    [
+     "E123",
+     "Paper",
+     "Using a Deep Learning System to Delineate the Elective Pelvis Nodal Volumes in Patients with Prostate Cancer",
+     "Advances in Radiation Oncology",
+     "07/2026"
+    ],
+    [
+     "E189",
+     "Abstract",
+     "Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E194",
+     "Abstract",
+     "Automated Detection of Hip Replacements and Fiducial Markers in Pelvic CT Scans",
+     "IEEE Conference on AI",
+     "06/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Reber B",
+   "variants": [
+    "Reber B"
+   ],
+   "name": "Reber, Brandon",
+   "org": "Mayo Clinic",
+   "optional": "Rochester, MN; medical physics resident",
+   "url": "https://college.mayo.edu/academics/residencies-and-fellowships/radiation-oncology-clinical-medical-physics-residency-minnesota/meet-our-trainees/",
+   "conf": "high",
+   "notes": "Medical physics resident, Class of 2027. PhD (Medical Physics, Spring 2024) from UTHealth Houston GSBS / MD Anderson, advisor Kristy Brock.",
+   "entries": [
+    [
+     "E133",
+     "Paper",
+     "Comparison of Machine-Learning and Deep-Learning Methods for the Prediction of Osteoradionecrosis",
+     "Advances in Radiation Oncology",
+     "07/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Repka MC",
+   "variants": [
+    "Repka M",
+    "Repka MC"
+   ],
+   "name": "Repka, Michael C.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "",
+   "url": "https://www.med.unc.edu/radonc/directory/michael-repka/",
+   "conf": "high",
+   "notes": "Assistant Professor, Dept of Radiation Oncology (GU / head and neck); directory entry updated Feb 2026; UNC affiliation on the Sept 2026 PRO paper.",
+   "entries": [
+    [
+     "E122",
+     "Paper",
+     "Deep Learning-Based Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "Practical Radiation Oncology",
+     "09/2026"
+    ],
+    [
+     "E123",
+     "Paper",
+     "Using a Deep Learning System to Delineate the Elective Pelvis Nodal Volumes in Patients with Prostate Cancer",
+     "Advances in Radiation Oncology",
+     "07/2026"
+    ],
+    [
+     "E178",
+     "Poster",
+     "Predicting Elective Nodal Volumes with Deep Learning: A Tool to Facilitate Peer Review",
+     "UNC Chapel Hill Research Retreat",
+     "05/2025"
+    ],
+    [
+     "E179",
+     "Poster",
+     "Simple Method for Functional Sparing of Parotid Glands in Head and Neck IMRT",
+     "ASTRO",
+     "09/2024"
+    ],
+    [
+     "E181",
+     "Poster",
+     "Predicting Dysphagia in Head and Neck Radiation Therapy with Deep Learning",
+     "AAPM",
+     "07/2024"
+    ],
+    [
+     "E188",
+     "Abstract",
+     "Prospective Assessment of the Impact of AI on Peer Review of Elective Pelvic Nodal Segmentations",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E189",
+     "Abstract",
+     "Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E190",
+     "Abstract",
+     "Predicting Dysphagia and Identifying Anatomical Regions Responsible for Dysphagia Following IMRT for Oropharyngeal Carcinoma",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E195",
+     "Abstract",
+     "Navigating Variability in Prostate RT Planning: Real-Time Insights for Human-Centered CDS Design",
+     "AMIA Annual Symposium",
+     "02/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Rhee DJ",
+   "variants": [
+    "Rhee DJ"
+   ],
+   "name": "Rhee, Dong Joo",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Radiation Physics",
+   "url": "https://faculty.mdanderson.org/profiles/dongjoo_rhee.html",
+   "conf": "high",
+   "notes": "Assistant Professor, Radiation Physics - Patient Care.",
+   "entries": [
+    [
+     "E132",
+     "Paper",
+     "Identifying the optimal deep learning architecture and parameters for automatic beam aperture definition in 3D radiotherapy",
+     "Journal of Applied Clinical Medical Physics",
+     "12/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Rigaud B",
+   "variants": [
+    "Rigaud B"
+   ],
+   "name": "Rigaud, Bastien",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "[CONFIRM] 2025-26 bylines say MD Anderson; one unverified listing says Promaton (Amsterdam)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41702795/",
+   "conf": "low",
+   "notes": "CONFLICTING EVIDENCE. Most recent PubMed bylines (Oral Surg Oral Med Oral Pathol Oral Radiol May 2026, PMID 41702795; J Clin Oncol reply May 2026, PMID 41812087; J Clin Oncol Nov 2025, PMID 41032739) all say \"Department of Radiation Physics, MD Anderson\", but those are outputs of his earlier MDA projects (CCSS dose reconstruction, H&N MRI). A third-party org chart (theorg.com; page returned 404 on re-fetch, so unverified) listed him as Senior Machine Learning Researcher at Promaton (Amsterdam, Netherlands) since 07/2022, after postdoc/research-scientist roles at MD Anderson. ORCID 0000-0002-0038-429X has no employment entries; Promaton's website lists no staff. Best guess: Promaton — Brian should confirm directly (former Brock-lab colleague).",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ],
+    [
+     "E134",
+     "Paper",
+     "Ablative Margins of Colorectal Liver Metastases Using Deformable CT Image Registration and Autosegmentation",
+     "Radiology",
+     "04/2023"
+    ],
+    [
+     "E135",
+     "Paper",
+     "Deep Learning Models for Automated Assessment of Breast Density Using Multiple Mammographic Image Types",
+     "Cancers",
+     "10/2022"
+    ],
+    [
+     "E136",
+     "Paper",
+     "Leveraging deep learning-based segmentation and contours-driven deformable registration for dose accumulation in abdominal structures",
+     "Frontiers in Oncology",
+     "10/2022"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Ritter T",
+   "variants": [
+    "Ritter T"
+   ],
+   "name": "Ritter, Timothy A.",
+   "org": "Virginia Commonwealth University Health System",
+   "optional": "Department of Radiation Oncology; also VA Richmond Healthcare System",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42733413/",
+   "conf": "high",
+   "notes": "Adv Radiat Oncol 2026 lists both \"Virginia Commonwealth University Health System, Department of Radiation Oncology, Richmond, VA\" and \"VA Richmond Healthcare System, Department of Radiation Oncology\". Middle initial A from \"Ritter TA\" (VA STARPORT, IJROBP 2022).",
+   "entries": [
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Ryckman J",
+   "variants": [
+    "Ryckman J"
+   ],
+   "name": "Ryckman, Jeffrey M.",
+   "org": "West Virginia University",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://wvumedicine.org/doctors/details/?ser=22637",
+   "conf": "high",
+   "notes": "Radiation oncologist (holds an MS in medical physics). Printed as \"Ryckman JM\" on the IJROBP paper. 10/2026 paper (Europe PMC) still lists \"Radiation Oncology, West Virginia University, Camden Clark Medical Center, Parkersburg\".",
+   "entries": [
+    [
+     "E130",
+     "Paper",
+     "Open RT Structures: A Solution for TG-263 Accessibility",
+     "International Journal of Radiation Oncology, Biology, Physics",
+     "06/2024"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Santanam L",
+   "variants": [
+    "Santanam L"
+   ],
+   "name": "Santanam, Lakshmi",
+   "org": "Memorial Sloan Kettering Cancer Center",
+   "optional": "Department of Medical Physics",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH:%22Santanam%20L%22&sort=P_PDATE_D%20desc&resultType=core&format=json&pageSize=5",
+   "conf": "high",
+   "notes": "Papers epub 08/2025, 10/2025 and 08/2026 all list MSKCC Department of Medical Physics.",
+   "entries": [
+    [
+     "E131",
+     "Paper",
+     "Perceptions on roadblocks to implementation of standardized nomenclature in radiation oncology: survey from TG-263U1",
+     "Journal of Applied Clinical Medical Physics",
+     "06/2024"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Savjani R",
+   "variants": [
+    "Savjani R"
+   ],
+   "name": "Savjani, Ricky R.",
+   "org": "University of California, Los Angeles",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://profiles.ucla.edu/ricky.savjani",
+   "conf": "high",
+   "notes": "Assistant Professor-in-Residence, Radiation Oncology (UCLA Profiles).",
+   "entries": [
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Sawant A",
+   "variants": [
+    "Sawant A"
+   ],
+   "name": "Sawant, Amit",
+   "org": "University of Maryland School of Medicine",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://www.medschool.umaryland.edu/profiles/sawant-amit/",
+   "conf": "high",
+   "notes": "Carl M. Mansfield, MD Professor of Radiation Oncology; Vice Chair of Medical Physics. Profile page content is dated; the department's 2026 review-course agenda (https://www.medschool.umaryland.edu/media/som/departments/radiation-oncology-/documents/Review-Course-Agenda-2026.pdf) still lists him as Vice Chair for Medical Physics and Professor.",
+   "entries": [
+    [
+     "E126",
+     "Paper",
+     "Towards better understanding of factors contributing to medical physicist well-being in academic medical centers",
+     "Journal of Applied Clinical Medical Physics",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Shan KY",
+   "variants": [
+    "Shan KY"
+   ],
+   "name": "Shah, Ketan Y.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/ketan_shah.html",
+   "conf": "high",
+   "notes": "CV key \"Shan KY\" is a typo — PubMed record reads \"Shah, Ketan Y\". Associate Professor, Dept. of Interventional Radiology; Associate Program Director. Consider correcting the CV author list.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Shen C",
+   "variants": [
+    "Shen C"
+   ],
+   "name": "Shen, Colette J.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "UNC Lineberger Comprehensive Cancer Center",
+   "url": "https://unclineberger.org/directory/colette-shen/",
+   "conf": "high",
+   "notes": "Associate Professor, Radiation Oncology. Also at UNC on the ASTRO 2026 abstract and the 2026 JAMA Otolaryngol HNS paper (PMID 42024417). ORCID 0000-0002-3855-7360.",
+   "entries": [
+    [
+     "E179",
+     "Poster",
+     "Simple Method for Functional Sparing of Parotid Glands in Head and Neck IMRT",
+     "ASTRO",
+     "09/2024"
+    ],
+    [
+     "E181",
+     "Poster",
+     "Predicting Dysphagia in Head and Neck Radiation Therapy with Deep Learning",
+     "AAPM",
+     "07/2024"
+    ],
+    [
+     "E190",
+     "Abstract",
+     "Predicting Dysphagia and Identifying Anatomical Regions Responsible for Dysphagia Following IMRT for Oropharyngeal Carcinoma",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E193",
+     "Abstract",
+     "Rapid Semi-Automated Planning for VMAT Craniospinal Irradiation Using Raystation",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Sheth R",
+   "variants": [
+    "Sheth R"
+   ],
+   "name": "Sheth, Rahul A.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/rahul_sheth.html",
+   "conf": "high",
+   "notes": "Dept. of Interventional Radiology; profile lists \"Professor with Tenure\" as present title (appointment history shows Associate Professor 2021–2026).",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Sheth S",
+   "variants": [
+    "Sheth S"
+   ],
+   "name": "Sheth, Siddharth",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "UNC Lineberger Comprehensive Cancer Center",
+   "url": "https://unclineberger.org/directory/siddharth-sheth/",
+   "conf": "high",
+   "notes": "Associate Professor, Oncology; Head and Neck Oncology Program. At UNC on PMID 42024417 (2026).",
+   "entries": [
+    [
+     "E190",
+     "Abstract",
+     "Predicting Dysphagia and Identifying Anatomical Regions Responsible for Dysphagia Following IMRT for Oropharyngeal Carcinoma",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Simonds H",
+   "variants": [
+    "Simonds H"
+   ],
+   "name": "Simonds, Hannah",
+   "org": "University Hospitals Plymouth NHS Trust",
+   "optional": "Plymouth, United Kingdom",
+   "url": "https://www.poher-usa.org/faculty",
+   "conf": "high",
+   "notes": "Clinical Oncologist at University Hospitals Plymouth (faculty page for a Nov 2026 symposium); previously Head of the Clinical and Radiation Oncology Division, Stellenbosch University / Tygerberg Hospital, South Africa. Plymouth NHS patient leaflets also list \"Professor H Simonds\".",
+   "entries": [
+    [
+     "E132",
+     "Paper",
+     "Identifying the optimal deep learning architecture and parameters for automatic beam aperture definition in 3D radiotherapy",
+     "Journal of Applied Clinical Medical Physics",
+     "12/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Stark J",
+   "variants": [
+    "Stark J"
+   ],
+   "name": "Stark, Joshua",
+   "org": "University of California, San Diego",
+   "optional": "Department of Radiation Medicine and Applied Sciences",
+   "url": "https://radonc.ucsd.edu/education/radiation-oncology-residency/our-residents/index.html",
+   "conf": "high",
+   "notes": "Listed as PGY-3 radiation oncology resident on the UCSD residency page; the abstract lists \"J. M. Stark, University of California San Diego\".",
+   "entries": [
+    [
+     "E187",
+     "Abstract",
+     "Root Cause Analysis of Unscheduled Replans Across 19,249 Radiation Therapy Plans",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Suresh K",
+   "variants": [
+    "Suresh K"
+   ],
+   "name": "Suresh, Krithika",
+   "org": "University of Michigan",
+   "optional": "Department of Biostatistics, School of Public Health; Department of Radiation Oncology; Rogel Cancer Center",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH:%22Suresh%20K%22%20AND%20AFF:%22Michigan%22%20AND%20AFF:%22Radiation%20Oncology%22&sort=P_PDATE_D%20desc&resultType=core&format=json&pageSize=3",
+   "conf": "high",
+   "notes": "Biostatistician; Research Assistant Professor in Biostatistics and Radiation Oncology (UM SPH profile https://sph.umich.edu/faculty-profiles/suresh-krithika.html, fetch blocked). Papers through 09-11/2026 list University of Michigan.",
+   "entries": [
+    [
+     "E131",
+     "Paper",
+     "Perceptions on roadblocks to implementation of standardized nomenclature in radiation oncology: survey from TG-263U1",
+     "Journal of Applied Clinical Medical Physics",
+     "06/2024"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Svensson S",
+   "variants": [
+    "Svensson S"
+   ],
+   "name": "Svensson, Stina",
+   "org": "RaySearch Laboratories AB",
+   "optional": "",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH%3A%22Svensson%20S%22%20AND%20AFF%3A%22RaySearch%22%20sort_date%3Ay&resultType=core&format=json&pageSize=5",
+   "conf": "high",
+   "notes": "Senior Research Engineer (TheOrg: https://theorg.com/org/raysearch-laboratories/org-chart/stina-svensson). RaySearch affiliation on five papers dated 10/2025 through 07/2026.",
+   "entries": [
+    [
+     "E136",
+     "Paper",
+     "Leveraging deep learning-based segmentation and contours-driven deformable registration for dose accumulation in abdominal structures",
+     "Frontiers in Oncology",
+     "10/2022"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Tang T",
+   "variants": [
+    "Tang T"
+   ],
+   "name": "Tang, Tien T.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Imaging Physics",
+   "url": "https://faculty.mdanderson.org/profiles/tien_tang.html",
+   "conf": "high",
+   "notes": "Assistant Professor (Morfeus lab page: Research Assistant Professor, joined 2023).",
+   "entries": [
+    [
+     "E125",
+     "Preprint",
+     "Quality versus quantity of training datasets for artificial intelligence-based whole liver segmentation",
+     "medRxiv",
+     "02/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Cao HT",
+   "variants": [
+    "Cao HT"
+   ],
+   "name": "Tran Cao, Hop S.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/hop_trancao.html",
+   "conf": "high",
+   "notes": "Surname is \"Tran Cao\" (PubMed indexes as \"Cao, Hop-Tran\"). Associate Professor and Vice Chair of Clinical Operations, Dept. of Surgical Oncology; Medical Director, MINTOS; Adjunct Professor of Surgery, Baylor College of Medicine.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Tzeng CW",
+   "variants": [
+    "Tzeng CW"
+   ],
+   "name": "Tzeng, Ching-Wei D.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/ching-wei_tzeng.html",
+   "conf": "high",
+   "notes": "Professor, Dept. of Surgical Oncology; Chief of Hepatobiliary Surgery; HPB Fellowship Program Director.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Vaccarelli M",
+   "variants": [
+    "Vaccarelli M"
+   ],
+   "name": "Vaccarelli, Marissa Joyce",
+   "org": "Northwell Health",
+   "optional": "",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH:%22Vaccarelli%20M%22&sort=P_PDATE_D%20desc&resultType=core&format=json&pageSize=4",
+   "conf": "high",
+   "notes": "Printed as \"Vaccarelli MJ\" on the JACMP paper (Northwell Health, Lake Success, NY). 05/2026 paper lists Hofstra MS Medical Physics Program; Northwell; Zucker School of Medicine.",
+   "entries": [
+    [
+     "E131",
+     "Paper",
+     "Perceptions on roadblocks to implementation of standardized nomenclature in radiation oncology: survey from TG-263U1",
+     "Journal of Applied Clinical Medical Physics",
+     "06/2024"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Valdes G",
+   "variants": [
+    "Valdes G"
+   ],
+   "name": "Valdes, Gilmer",
+   "org": "H. Lee Moffitt Cancer Center and Research Institute",
+   "optional": "Department of Machine Learning / Clinical Machine Learning Program; [CONFIRM] 2026 bylines Moffitt; a 2026 speaker bio says 'previously Moffitt' (OncoBrain AI); may have moved",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42055400/",
+   "conf": "medium",
+   "notes": "Most recent oncology papers (JNCCN 03/2026; Adv Radiat Oncol 01/2026) list Moffitt Dept of Machine Learning; a 05/2026 J Hosp Med paper still lists UCSF Radiation Oncology (prior post). A 2026 conference speaker bio describes him as Co-Founder and CEO of OncoBrain AI / The BlueScrubs and lists Moffitt as \"previously\" — he may have moved to industry; Moffitt researcher page returned 403.",
+   "entries": [
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Van Dijk L",
+   "variants": [
+    "Van Dijk L"
+   ],
+   "name": "van Dijk, Lisanne V.",
+   "org": "University Medical Center Groningen",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://www.rug.nl/staff/l.v.van.dijk/?lang=en",
+   "conf": "high",
+   "notes": "Associate Professor / Technical Physician; staff page last modified 20 April 2026. Former MD Anderson postdoc.",
+   "entries": [
+    [
+     "E133",
+     "Paper",
+     "Comparison of Machine-Learning and Deep-Learning Methods for the Prediction of Osteoradionecrosis",
+     "Advances in Radiation Oncology",
+     "07/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Vasconcelos N",
+   "variants": [
+    "Vasconcelos N"
+   ],
+   "name": "Vasconcelos, Nuno",
+   "org": "University of California, San Diego",
+   "optional": "Department of Electrical and Computer Engineering, Jacobs School of Engineering",
+   "url": "https://profiles.ucsd.edu/nuno.vasconcelos",
+   "conf": "high",
+   "notes": "Professor, Electrical and Computer Engineering; heads the Statistical Visual Computing Laboratory.",
+   "entries": [
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Vauthey JN",
+   "variants": [
+    "Vauthey JN"
+   ],
+   "name": "Vauthey, Jean-Nicolas",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "",
+   "url": "https://faculty.mdanderson.org/profiles/jean-nicolas_vauthey.html",
+   "conf": "high",
+   "notes": "Professor, Dept. of Surgical Oncology; Dallas/Fort Worth Living Legend Chair for Cancer Research.",
+   "entries": [
+    [
+     "E127",
+     "Paper",
+     "Software-based versus visual assessment of the minimal ablative margin (COVER-ALL): a randomised controlled phase 2 trial",
+     "The Lancet Gastroenterology & Hepatology",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Vinogradskiy Y",
+   "variants": [
+    "Vinogradskiy Y"
+   ],
+   "name": "Vinogradskiy, Yevgeniy",
+   "org": "Thomas Jefferson University",
+   "optional": "Department of Radiation Oncology, Division of Medical Physics",
+   "url": "https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/radiation-oncology/divisions/medical-physics.html",
+   "conf": "high",
+   "notes": "Professor; Enterprise Vice Chair and Director, Division of Medical Physics.",
+   "entries": [
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Viswanathan A",
+   "variants": [
+    "Viswanathan A"
+   ],
+   "name": "Viswanathan, Akila N.",
+   "org": "Johns Hopkins University",
+   "optional": "Department of Radiation Oncology and Molecular Radiation Sciences",
+   "url": "https://profiles.hopkinsmedicine.org/provider/Akila+Viswanathan/2709368",
+   "conf": "high",
+   "notes": "Director, Johns Hopkins Radiation Oncology and Molecular Radiation Sciences; Professor.",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Vizer L",
+   "variants": [
+    "Vizer L"
+   ],
+   "name": "Vizer, Lisa M.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "",
+   "url": "https://www.med.unc.edu/medicine/im/people/lisa-vizer-phd",
+   "conf": "high",
+   "notes": "Assistant Professor of Medicine, Division of General Medicine and Clinical Epidemiology; also Division of Healthcare Engineering (Radiation Oncology). 2026 papers consistent.",
+   "entries": [
+    [
+     "E126",
+     "Paper",
+     "Towards better understanding of factors contributing to medical physicist well-being in academic medical centers",
+     "Journal of Applied Clinical Medical Physics",
+     "05/2025"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Voong KR",
+   "variants": [
+    "Voong KR"
+   ],
+   "name": "Voong, K. Ranh",
+   "org": "Johns Hopkins University",
+   "optional": "Department of Radiation Oncology and Molecular Radiation Sciences",
+   "url": "https://profiles.hopkinsmedicine.org/provider/Khinh+Voong/2704925",
+   "conf": "high",
+   "notes": "Associate Professor of Clinical Radiation Oncology; Director, Thoracic Radiation Oncology Program; Residency Program Director.",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Wahid KA",
+   "variants": [
+    "Wahid KA"
+   ],
+   "name": "Wahid, Kareem A.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Radiation Oncology Residency Program",
+   "url": "https://mdanderson.org/education-training/research-training/postdoctoral-training/postdoctoral-fellowships/igct-t32-training-program/current-trainees-alumni.html",
+   "conf": "high",
+   "notes": "T32 alumni page states he is a resident in MD Anderson's Radiation Oncology Residency Program; Fuller lab page lists \"Postdoctoral Fellow/Resident Physician\". Was a 4th-year MD student at UTHealth McGovern Medical School as of 09/2025 (ASTRO bio); T32 fellowship 05/2023-04/2025.",
+   "entries": [
+    [
+     "E124",
+     "Paper",
+     "Large language models for scalable standardization in radiation oncology",
+     "Physics and Imaging in Radiation Oncology",
+     "04/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Weaver OO",
+   "variants": [
+    "Weaver OO"
+   ],
+   "name": "Weaver, Olena O.",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Breast Imaging",
+   "url": "https://faculty.mdanderson.org/profiles/olena_weaver.html",
+   "conf": "high",
+   "notes": "Associate Professor; directs contrast-enhanced mammography program.",
+   "entries": [
+    [
+     "E135",
+     "Paper",
+     "Deep Learning Models for Automated Assessment of Breast Density Using Multiple Mammographic Image Types",
+     "Cancers",
+     "10/2022"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Weiss J",
+   "variants": [
+    "Weiss J"
+   ],
+   "name": "Weiss, Jared",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "UNC Lineberger Comprehensive Cancer Center",
+   "url": "https://unclineberger.org/directory/jared-weiss/",
+   "conf": "high",
+   "notes": "Professor of Medicine-Oncology; Section Chief, Thoracic and Head/Neck Oncology. At UNC on PMID 42024417 (2026).",
+   "entries": [
+    [
+     "E190",
+     "Abstract",
+     "Predicting Dysphagia and Identifying Anatomical Regions Responsible for Dysphagia Following IMRT for Oropharyngeal Carcinoma",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Wells D",
+   "variants": [
+    "Wells D"
+   ],
+   "name": "Wells, Daxell",
+   "org": "Fayetteville State University",
+   "optional": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42810617/",
+   "conf": "high",
+   "notes": "Dept of Mathematics and Computer Science, FSU (Sept 2026 PRO paper); ORCID 0009-0002-0532-6125 lists \"ML Researcher, Intelligent Systems Laboratory, FSU\" - most likely a student/trainee in the Bhattacharya lab.",
+   "entries": [
+    [
+     "E122",
+     "Paper",
+     "Deep Learning-Based Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "Practical Radiation Oncology",
+     "09/2026"
+    ],
+    [
+     "E189",
+     "Abstract",
+     "Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ],
+    [
+     "E194",
+     "Abstract",
+     "Automated Detection of Hip Replacements and Fiducial Markers in Pelvic CT Scans",
+     "IEEE Conference on AI",
+     "06/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Witztum A",
+   "variants": [
+    "Witztum A"
+   ],
+   "name": "Witztum, Alon",
+   "org": "University of California, San Francisco",
+   "optional": "Department of Radiation Oncology, Division of Physics",
+   "url": "https://radonc.ucsf.edu/about/our-team/alon-witztum-phd/",
+   "conf": "high",
+   "notes": "Associate Professor; Director, CADDI Lab; Director, Reporting and Analytics. JACMP 2026 (PMID 42870568) lists UCSF Dept of Radiation Oncology.",
+   "entries": [
+    [
+     "E192",
+     "Abstract",
+     "Head and Neck Gross Tumor Deep-Learning Autocontouring Model Using BigROC Collaborative Data",
+     "AAPM Annual Conference",
+     "07/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Woodland M",
+   "variants": [
+    "Woodland M"
+   ],
+   "name": "Woodland, McKell",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Imaging Physics, Morfeus Lab",
+   "url": "https://www.mdanderson.org/research/departments-labs-institutes/labs/morfeus-laboratory/lab-members.html",
+   "conf": "high",
+   "notes": "Data Scientist (joined 08/2024); PhD in Computer Science, Rice University. Personal site https://mckellwoodland.github.io confirms the role and lists a 2026 MICCAI UNSURE workshop award.",
+   "entries": [
+    [
+     "E125",
+     "Preprint",
+     "Quality versus quantity of training datasets for artificial intelligence-based whole liver segmentation",
+     "medRxiv",
+     "02/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Woods K",
+   "variants": [
+    "Woods K"
+   ],
+   "name": "Woods, Kaley E.",
+   "org": "University of Southern California",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://profiles.sc-ctsi.org/kaley.woods",
+   "conf": "high",
+   "notes": "Assistant Professor of Clinical Radiation Oncology; Associate Director, Medical Physics Residency Program; profile lists a 10/2026 publication.",
+   "entries": [
+    [
+     "E130",
+     "Paper",
+     "Open RT Structures: A Solution for TG-263 Accessibility",
+     "International Journal of Radiation Oncology, Biology, Physics",
+     "06/2024"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Wright JL",
+   "variants": [
+    "Wright J",
+    "Wright JL"
+   ],
+   "name": "Wright, Jean L.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "",
+   "url": "https://www.med.unc.edu/radonc/directory/jean-wright/",
+   "conf": "high",
+   "notes": "Chair and Distinguished Professor, Dept of Radiation Oncology. Both 2026 papers and the JACMP 2025 paper print \"Jean L. Wright\"; no Jennifer Wright exists in the UNC Radiation Oncology directory (slug returns 404). Correct the first name on the COA form (and in the CV if it is expanded there).",
+   "entries": [
+    [
+     "E122",
+     "Paper",
+     "Deep Learning-Based Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "Practical Radiation Oncology",
+     "09/2026"
+    ],
+    [
+     "E123",
+     "Paper",
+     "Using a Deep Learning System to Delineate the Elective Pelvis Nodal Volumes in Patients with Prostate Cancer",
+     "Advances in Radiation Oncology",
+     "07/2026"
+    ],
+    [
+     "E126",
+     "Paper",
+     "Towards better understanding of factors contributing to medical physicist well-being in academic medical centers",
+     "Journal of Applied Clinical Medical Physics",
+     "05/2025"
+    ],
+    [
+     "E189",
+     "Abstract",
+     "Deep Learning-Based Pelvic Vessel Auto-Segmentation for Standardized Lymph Node Delineation in Prostate Cancer Radiotherapy",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Xiao Y",
+   "variants": [
+    "Xiao Y"
+   ],
+   "name": "Xiao, Ying",
+   "org": "University of Pennsylvania",
+   "optional": "Perelman School of Medicine, Department of Radiation Oncology",
+   "url": "https://curf.upenn.edu/profile/ying-xiao",
+   "conf": "high",
+   "notes": "Professor of Radiation Oncology; also IROC Philadelphia RT QA Center. 2026 papers (Europe PMC) list Department of Radiation Oncology, University of Pennsylvania.",
+   "entries": [
+    [
+     "E131",
+     "Paper",
+     "Perceptions on roadblocks to implementation of standardized nomenclature in radiation oncology: survey from TG-263U1",
+     "Journal of Applied Clinical Medical Physics",
+     "06/2024"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Yanagihara T",
+   "variants": [
+    "Yanagihara T"
+   ],
+   "name": "Yanagihara, Theodore K.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "Department of Radiation Oncology",
+   "url": "https://www.med.unc.edu/radonc/directory/theodore-yanagihara/",
+   "conf": "high",
+   "notes": "Assistant Professor; Director of Healthcare Informatics. Also https://unclineberger.org/directory/ted-yanagihara/.",
+   "entries": [
+    [
+     "E180",
+     "Poster",
+     "Unlocking Insights: A Python-Based RayStation Data Mining Tool",
+     "AAPM",
+     "07/2024"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Yang J",
+   "variants": [
+    "Yang J"
+   ],
+   "name": "Yang, Jinzhong",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Radiation Physics",
+   "url": "https://faculty.mdanderson.org/profiles/jinzhong_yang.html",
+   "conf": "high",
+   "notes": "Associate Professor (tenured) per current profile; older pages say Assistant Professor.",
+   "entries": [
+    [
+     "E132",
+     "Paper",
+     "Identifying the optimal deep learning architecture and parameters for automatic beam aperture definition in 3D radiotherapy",
+     "Journal of Applied Clinical Medical Physics",
+     "12/2023"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Yang WT",
+   "variants": [
+    "Yang WT"
+   ],
+   "name": "Yang, Wei Tse",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Breast Imaging",
+   "url": "https://faculty.mdanderson.org/profiles/wei_yang.html",
+   "conf": "high",
+   "notes": "Professor; Robert D. Moreton Distinguished Chair in Radiology.",
+   "entries": [
+    [
+     "E135",
+     "Paper",
+     "Deep Learning Models for Automated Assessment of Breast Density Using Multiple Mammographic Image Types",
+     "Cancers",
+     "10/2022"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Yarbrough W",
+   "variants": [
+    "Yarbrough W"
+   ],
+   "name": "Yarbrough, Wendell G.",
+   "org": "University of North Carolina at Chapel Hill",
+   "optional": "Department of Otolaryngology/Head and Neck Surgery",
+   "url": "https://med.unc.edu/ent/about-us/leadership",
+   "conf": "high",
+   "notes": "Chair of the department; Thomas J. Dark Distinguished Professor. Listed at UNC Otolaryngology-HNS on PMID 42024417 (2026).",
+   "entries": [
+    [
+     "E190",
+     "Abstract",
+     "Predicting Dysphagia and Identifying Anatomical Regions Responsible for Dysphagia Following IMRT for Oropharyngeal Carcinoma",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Yu K",
+   "variants": [],
+   "name": "Yu, K.",
+   "org": "Johns Hopkins University",
+   "optional": "[CONFIRM] named on the ASTRO 2026 listing of this abstract but not in the CV entry",
+   "url": "https://amportal.astro.org/sessions/pqa-04-22880/cumulative-eqd2-esophageal-dose-and-toxicity-after-thoracic-reirradiation-114345",
+   "conf": "low",
+   "notes": "Not in the CV author list; added from the ASTRO 2026 program listing. Confirm final author list.",
+   "entries": [
+    [
+     "E191",
+     "Abstract",
+     "Cumulative EQD2 Esophageal Dose and Severe Toxicity After Thoracic Reirradiation",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Zaid M",
+   "variants": [
+    "Zaid M"
+   ],
+   "name": "Zaid, Mohamed",
+   "org": "AstraZeneca",
+   "optional": "[CONFIRM] per Koay-lab alumni page (Global Clinical Lead, AstraZeneca); latest byline still MD Anderson",
+   "url": "https://www.mdanderson.org/research/departments-labs-institutes/labs/koay-laboratory/lab-members.html",
+   "conf": "medium",
+   "notes": "Koay lab alumni page: \"now Global Clinical Lead, AstraZeneca.\" His most recent paper (Dec 2025, npj Systems Biology and Applications) still lists MDA Radiation Oncology, presumably a legacy affiliation for work done there; no publication with an AstraZeneca affiliation indexed yet.",
+   "entries": [
+    [
+     "E136",
+     "Paper",
+     "Leveraging deep learning-based segmentation and contours-driven deformable registration for dose accumulation in abdominal structures",
+     "Frontiers in Oncology",
+     "10/2022"
+    ]
+   ],
+   "flag": true
+  },
+  {
+   "key": "Zegers B",
+   "variants": [
+    "Zegers B"
+   ],
+   "name": "Zegers, Brian",
+   "org": "University of California, San Diego",
+   "optional": "Department of Radiation Medicine and Applied Sciences",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=AUTH:%22Zegers%20B%22&sort=P_PDATE_D%20desc&resultType=core&format=json&pageSize=6",
+   "conf": "high",
+   "notes": "04/2026 paper (domain-specific cognition-sparing SRS planning) lists \"Zegers B, Brian, Radiation Medicine and Applied Sciences, UCSD School of Medicine\". Not on the UCSD faculty or resident pages, so likely a dosimetrist/staff member; degree unknown.",
+   "entries": [
+    [
+     "E187",
+     "Abstract",
+     "Root Cause Analysis of Unscheduled Replans Across 19,249 Radiation Therapy Plans",
+     "ASTRO Annual Conference",
+     "09/2026"
+    ]
+   ],
+   "flag": false
+  },
+  {
+   "key": "Zhang L",
+   "variants": [
+    "Zhang L"
+   ],
+   "name": "Zhang, Lifei Joy",
+   "org": "The University of Texas MD Anderson Cancer Center",
+   "optional": "Department of Radiation Physics",
+   "url": "https://www.mdanderson.org/research/departments-labs-institutes/labs/court-laboratory/lab-members.html",
+   "conf": "high",
+   "notes": "Manager, Scientific Computing Research, Radiation Physics (Court lab page). No individual faculty profile page exists (404).",
+   "entries": [
+    [
+     "E132",
+     "Paper",
+     "Identifying the optimal deep learning architecture and parameters for automatic beam aperture definition in 3D radiotherapy",
+     "Journal of Applied Clinical Medical Physics",
+     "12/2023"
+    ]
+   ],
+   "flag": false
+  }
+ ],
+ "table5": [
+  {
+   "name": "Boone, John M.",
+   "relationship": "Editor-in-Chief (Brian is an Associate Editor, 2023-present)",
+   "org": "University of California, Davis",
+   "optional": "Medical Physics (AAPM/Wiley); EIC 2021-2026",
+   "last": ""
+  }
+ ]
+}

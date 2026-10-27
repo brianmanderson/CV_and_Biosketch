@@ -1,0 +1,496 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NSF Senior Personnel Documents</title>
+<meta name="description" content="Walkthrough of the four NSF senior/key personnel documents for Brian Mark Anderson: SciENcv biosketch, current and pending support, COA spreadsheet, and synergistic activities.">
+<style>
+  :root {
+    --bg: #f6f4ef;
+    --surface: #ffffff;
+    --surface-2: #efece4;
+    --text: #1f1d1a;
+    --muted: #5f5a52;
+    --line: #d9d4c9;
+    --accent: #1f4e79;
+    --accent-soft: #e3ecf5;
+    --warn: #8a5a00;
+    --warn-soft: #fbf1d9;
+    --ok: #2d6a3e;
+    --ok-soft: #e3f1e6;
+    --code-bg: #ece9e1;
+    --shadow: 0 1px 2px rgba(0,0,0,.06), 0 4px 14px rgba(0,0,0,.05);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #15171a;
+      --surface: #1e2126;
+      --surface-2: #262a30;
+      --text: #e8e6e1;
+      --muted: #a8a49c;
+      --line: #353a42;
+      --accent: #8fb7e0;
+      --accent-soft: #233447;
+      --warn: #e4b45a;
+      --warn-soft: #3a3020;
+      --ok: #8fcf9f;
+      --ok-soft: #22352a;
+      --code-bg: #2a2e35;
+      --shadow: 0 1px 2px rgba(0,0,0,.4), 0 4px 14px rgba(0,0,0,.3);
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #15171a;
+    --surface: #1e2126;
+    --surface-2: #262a30;
+    --text: #e8e6e1;
+    --muted: #a8a49c;
+    --line: #353a42;
+    --accent: #8fb7e0;
+    --accent-soft: #233447;
+    --warn: #e4b45a;
+    --warn-soft: #3a3020;
+    --ok: #8fcf9f;
+    --ok-soft: #22352a;
+    --code-bg: #2a2e35;
+    --shadow: 0 1px 2px rgba(0,0,0,.4), 0 4px 14px rgba(0,0,0,.3);
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 16px/1.55 "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif;
+  }
+  a { color: var(--accent); }
+  code, kbd {
+    font: 0.92em/1.4 Consolas, "SFMono-Regular", Menlo, monospace;
+    background: var(--code-bg);
+    padding: .08em .35em;
+    border-radius: 4px;
+  }
+  .wrap {
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 0 16px 64px;
+  }
+  header.hero {
+    padding: 40px 0 20px;
+    border-bottom: 1px solid var(--line);
+    margin-bottom: 24px;
+  }
+  .eyebrow {
+    text-transform: uppercase;
+    letter-spacing: .12em;
+    font-size: .75rem;
+    color: var(--muted);
+    margin: 0 0 8px;
+  }
+  h1 { font-size: clamp(1.7rem, 3.5vw, 2.4rem); line-height: 1.15; margin: 0 0 10px; }
+  .lede { color: var(--muted); max-width: 70ch; margin: 0 0 14px; }
+  .meta { display: flex; flex-wrap: wrap; gap: 8px 18px; font-size: .9rem; color: var(--muted); }
+  .layout { display: grid; grid-template-columns: 1fr; gap: 28px; }
+  @media (min-width: 960px) {
+    .layout { grid-template-columns: 230px minmax(0, 1fr); }
+    nav.toc { position: sticky; top: 16px; align-self: start; }
+  }
+  nav.toc {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 14px 16px;
+    font-size: .92rem;
+  }
+  nav.toc strong { display: block; margin-bottom: 6px; font-size: .8rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+  nav.toc ol { margin: 0; padding-left: 20px; }
+  nav.toc li { margin: 4px 0; }
+  nav.toc a { text-decoration: none; }
+  nav.toc a:hover { text-decoration: underline; }
+  main > section { margin-bottom: 44px; scroll-margin-top: 16px; }
+  h2 {
+    font-size: 1.45rem;
+    margin: 0 0 6px;
+    padding-top: 8px;
+    border-top: 3px solid var(--accent);
+    display: inline-block;
+  }
+  h2 .num { color: var(--accent); margin-right: .4em; }
+  h3 { font-size: 1.08rem; margin: 22px 0 8px; }
+  .sub { color: var(--muted); margin: 0 0 16px; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 14px; margin: 18px 0; }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 14px 16px;
+    box-shadow: var(--shadow);
+    display: flex; flex-direction: column; gap: 6px;
+  }
+  .card h4 { margin: 0; font-size: 1rem; }
+  .card .tag { font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
+  .card p { margin: 0; font-size: .92rem; }
+  .card a.jump { margin-top: auto; font-size: .88rem; text-decoration: none; }
+  .pill { display: inline-block; font-size: .75rem; padding: 2px 8px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+  .callout {
+    border-left: 4px solid var(--accent);
+    background: var(--accent-soft);
+    padding: 10px 14px;
+    border-radius: 0 8px 8px 0;
+    margin: 14px 0;
+    font-size: .95rem;
+  }
+  .callout.warn { border-color: var(--warn); background: var(--warn-soft); }
+  .callout.ok { border-color: var(--ok); background: var(--ok-soft); }
+  .callout p { margin: 0; }
+  .callout p + p { margin-top: 6px; }
+  table { width: 100%; border-collapse: collapse; font-size: .92rem; margin: 10px 0 18px; background: var(--surface); }
+  th, td { text-align: left; vertical-align: top; padding: 8px 10px; border: 1px solid var(--line); }
+  th { background: var(--surface-2); font-weight: 600; }
+  .scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  ol.steps { padding-left: 22px; }
+  ol.steps li { margin: 8px 0; }
+  ol.steps li::marker { color: var(--accent); font-weight: 700; }
+  ul.tight { margin: 6px 0; padding-left: 20px; }
+  ul.tight li { margin: 3px 0; }
+  .checklist { list-style: none; padding: 0; margin: 10px 0; }
+  .checklist li { display: flex; gap: 10px; align-items: flex-start; padding: 7px 0; border-bottom: 1px dashed var(--line); }
+  .checklist input { margin-top: 5px; width: 17px; height: 17px; accent-color: var(--accent); flex: none; }
+  .checklist label { cursor: pointer; }
+  .checklist li.done label { color: var(--muted); text-decoration: line-through; }
+  .path { font-family: Consolas, Menlo, monospace; font-size: .88rem; color: var(--muted); }
+  .files { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; margin: 14px 0; font-size: .92rem; }
+  .files dl { margin: 0; }
+  .files dt { font-weight: 600; margin-top: 8px; }
+  .files dt:first-child { margin-top: 0; }
+  .files dd { margin: 2px 0 0 0; color: var(--muted); }
+  footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--line); font-size: .85rem; color: var(--muted); }
+  footer ul { padding-left: 18px; }
+  @media print {
+    body { background: #fff; color: #000; font-size: 11pt; }
+    nav.toc, .card a.jump { display: none; }
+    .layout { display: block; }
+    main > section { break-inside: avoid-page; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="hero">
+  <p class="eyebrow">NSF proposal &middot; Senior/Key Personnel Documents</p>
+  <h1>NSF Senior Personnel Documents</h1>
+  <p class="lede">A walkthrough of the four documents NSF requires from each senior/key person, tailored to Brian Mark Anderson, PhD, DABR. Two are generated inside SciENcv, one is NSF's Excel template, and one is a one-page upload you write yourself.</p>
+  <div class="meta">
+    <span>Governing rule: PAPPG 24-1, Chapter II.D.2.h</span>
+    <span>Prepared 10/27/2026</span>
+    <span>eRA Commons: <code>BrianMAnderson</code></span>
+    <span>ORCID: <code>0000-0002-2748-1444</code></span>
+  </div>
+</header>
+
+<div class="layout">
+<nav class="toc" aria-label="Contents">
+  <strong>Contents</strong>
+  <ol>
+    <li><a href="#overview">Overview and checklist</a></li>
+    <li><a href="#biosketch">Biographical Sketch</a></li>
+    <li><a href="#cps">Current &amp; Pending Support</a></li>
+    <li><a href="#coa">Collaborators &amp; Affiliations</a></li>
+    <li><a href="#synergistic">Synergistic Activities</a></li>
+    <li><a href="#submit">Formatting and submission</a></li>
+    <li><a href="#sources">Sources</a></li>
+  </ol>
+</nav>
+
+<main>
+
+<section id="overview">
+  <h2><span class="num">0</span>Overview and checklist</h2>
+  <p class="sub">What each document is, where it comes from, and where the drafts for it land in this repo.</p>
+
+  <div class="cards">
+    <div class="card">
+      <span class="tag">Document 1</span>
+      <h4>Biographical Sketch</h4>
+      <p><span class="pill">SciENcv</span> No page limit. Five sections, ten products max. You certify it yourself.</p>
+      <p class="path">NSF/1_Biosketch/</p>
+      <a class="jump" href="#biosketch">Walkthrough &darr;</a>
+    </div>
+    <div class="card">
+      <span class="tag">Document 2</span>
+      <h4>Current &amp; Pending (Other) Support</h4>
+      <p><span class="pill">SciENcv</span> Every active and pending project, in-kind support worth $5,000+, consulting. Certified by you.</p>
+      <p class="path">NSF/2_Current_and_Pending/</p>
+      <a class="jump" href="#cps">Walkthrough &darr;</a>
+    </div>
+    <div class="card">
+      <span class="tag">Document 3</span>
+      <h4>Collaborators &amp; Other Affiliations</h4>
+      <p><span class="pill">NSF Excel template</span> Five tables. Co-authors from the last 48 months, editors from the last 24. Upload as .xlsx.</p>
+      <p class="path">NSF/3_COA/</p>
+      <a class="jump" href="#coa">Walkthrough &darr;</a>
+    </div>
+    <div class="card">
+      <span class="tag">Document 4</span>
+      <h4>Synergistic Activities</h4>
+      <p><span class="pill">Your own PDF</span> One page, up to five examples of broader impact. No longer part of the biosketch.</p>
+      <p class="path">NSF/4_Synergistic_Activities/</p>
+      <a class="jump" href="#synergistic">Walkthrough &darr;</a>
+    </div>
+  </div>
+
+  <div class="callout">
+    <p><strong>How the work is split.</strong> A separate Claude session is drafting each document into the folder shown on its card, under <code>Clincal_CV/NSF/</code>. Nothing is committed: review each draft, then commit the four folders together with this guide. The two SciENcv documents cannot be produced outside SciENcv, so those sessions produce entry worksheets you paste in, not the final PDFs.</p>
+  </div>
+
+  <h3>Master checklist</h3>
+  <p class="sub">Ticks are remembered in this browser only.</p>
+  <ul class="checklist" data-store="nsf-master">
+    <li><input type="checkbox" id="c-acct"><label for="c-acct">Sign in to SciENcv (ncbi.nlm.nih.gov/sciencv) with eRA Commons or ORCID and confirm ORCID is linked under NCBI account settings.</label></li>
+    <li><input type="checkbox" id="c-orcid"><label for="c-orcid">Bring ORCID up to date (works from 2022 onward were missing at last check) or plan to add products by hand in SciENcv.</label></li>
+    <li><input type="checkbox" id="c-bio"><label for="c-bio">Biographical Sketch generated in SciENcv, certified, PDF downloaded.</label></li>
+    <li><input type="checkbox" id="c-cps"><label for="c-cps">Current &amp; Pending (Other) Support generated in SciENcv with award numbers and person-months from UNC and UCSD sponsored projects, certified, PDF downloaded.</label></li>
+    <li><input type="checkbox" id="c-coa"><label for="c-coa">COA template filled, reviewed against the source list, saved as .xlsx.</label></li>
+    <li><input type="checkbox" id="c-syn"><label for="c-syn">Synergistic Activities checked at one page, saved as PDF.</label></li>
+    <li><input type="checkbox" id="c-upload"><label for="c-upload">All four uploaded under Senior Personnel Documents in Research.gov (or as Grants.gov attachments), one set per senior/key person.</label></li>
+    <li><input type="checkbox" id="c-commit"><label for="c-commit">Final files saved under <code>Clincal_CV/NSF/</code> and committed.</label></li>
+  </ul>
+</section>
+
+<section id="biosketch">
+  <h2><span class="num">1</span>NSF Biographical Sketch (SciENcv)</h2>
+  <p class="sub">PAPPG 24-1 II.D.2.h(i). Must be prepared in SciENcv, which generates an NSF-compliant PDF. There is no page limit.</p>
+
+  <h3>Sections SciENcv will ask for</h3>
+  <div class="scroll">
+  <table>
+    <tr><th style="width:26%">Section</th><th>What goes in</th><th style="width:30%">Your entries (from the CV)</th></tr>
+    <tr><td>Identifying information</td><td>Name, ORCID (optional but recommended), current position title.</td><td>Brian Mark Anderson; <code>0000-0002-2748-1444</code>; Clinical Assistant Professor of Medical Physics.</td></tr>
+    <tr><td>Organization and location</td><td>Primary organization, city, state, country.</td><td>University of California, San Diego; San Diego, CA, USA.</td></tr>
+    <tr><td>Professional preparation</td><td>Reverse chronological by <em>start</em> date: organization, location, degree or training, program start date, month/year received, field. Residency counts as training.</td><td>UCSD residency (2021 to 07/2023); MD Anderson / UT GSBS Ph.D. (2017 to 05/2021); S.M.S. (2015 to 07/2017); Georgia Tech B.S. (2010 to 05/2015).</td></tr>
+    <tr><td>Appointments and positions</td><td>Reverse chronological, starting with the current one. Every titled academic, professional, or institutional position, paid or unpaid, full- or part-time, including adjunct, visiting, and honorary.</td><td>UCSD Clinical Assistant Professor, Chair of Technical Innovation and Implementation, Technical Service Chief CNS (all 2025 to present); UNC Adjunct Assistant Professor (2025 to present); Medical Physics Associate Editor (2023 to present); UNC Clinical Assistant Professor (2023 to 2025); UCSD Clinical Resident (2021 to 2023); MD Anderson Graduate Student Researcher (2015 to 2021).</td></tr>
+    <tr><td>Products</td><td>Up to five products most closely related to the proposal, then up to five other significant products. Only these ten are considered. Each needs authors, title, date, and a URL or persistent identifier (DOI). "et al." is allowed. Software, datasets, and models count if citable and accessible.</td><td>See the candidate list below. Swap the "related" five to match the proposal's topic.</td></tr>
+    <tr><td>Certification</td><td>You certify the information is current, accurate, and complete, and that you are not party to a malign foreign talent recruitment program. Cannot be delegated.</td><td>Done inside SciENcv before you download.</td></tr>
+  </table>
+  </div>
+
+  <h3>Candidate products (assuming an AI-for-radiation-oncology proposal)</h3>
+  <div class="scroll">
+  <table>
+    <tr><th style="width:9%">Slot</th><th>Product</th><th style="width:22%">Venue, date</th></tr>
+    <tr><td>Related 1</td><td>Simple Python Module for DICOM and RT: conversions to images and masks, and predictions to DICOM-RT structures (DicomRTTool)</td><td>Practical Radiation Oncology, 02/2021</td></tr>
+    <tr><td>Related 2</td><td>Open RT Structures: a solution for TG-263 accessibility</td><td>IJROBP (Red Journal), 06/2024</td></tr>
+    <tr><td>Related 3</td><td>Using a deep learning system to delineate the elective pelvic nodal volumes in prostate cancer</td><td>Advances in Radiation Oncology, 07/2026</td></tr>
+    <tr><td>Related 4</td><td>Rapid in vivo EPID image prediction using analytic attenuation and AI-predicted scatter</td><td>Medical Physics, 02/2025</td></tr>
+    <tr><td>Related 5</td><td>Automated contouring of contrast and non-contrast CT liver images with fully convolutional networks</td><td>Advances in Radiation Oncology, 05/2020</td></tr>
+    <tr><td>Other 1</td><td>COVER-ALL: software-based versus visual assessment of the minimal ablative margin, randomised phase 2 trial</td><td>Lancet Gastroenterology &amp; Hepatology, 05/2025</td></tr>
+    <tr><td>Other 2</td><td>A novel use of biomechanical model based deformable image registration for assessing colorectal liver metastases ablation outcomes</td><td>Medical Physics, 07/2021</td></tr>
+    <tr><td>Other 3</td><td>DICOM Attribute Manipulation Tool</td><td>JACMP, 04/2025</td></tr>
+    <tr><td>Other 4</td><td>DicomRTTool software (GitHub / PyPI) as a software product</td><td>2020 to present</td></tr>
+    <tr><td>Other 5</td><td>reconstruct_patches operation and ReconstructPatches2D/3D layers merged into Keras core</td><td>Keras, 2026</td></tr>
+  </table>
+  </div>
+  <div class="callout warn">
+    <p><strong>DOIs are mandatory in practice.</strong> SciENcv asks for a URL or persistent identifier on every product. The biosketch session is looking each DOI up and flags any it cannot verify as <code>[DOI NEEDED]</code>; never type a DOI from memory.</p>
+  </div>
+
+  <h3>Click path</h3>
+  <ol class="steps">
+    <li>Go to <a href="https://www.ncbi.nlm.nih.gov/sciencv/" target="_blank" rel="noopener">ncbi.nlm.nih.gov/sciencv</a> and sign in. Use eRA Commons (<code>BrianMAnderson</code>) or ORCID; both routes land in the same NCBI account once linked.</li>
+    <li>Open <em>SciENcv</em> from My NCBI and choose <em>Create New Document</em>. Name it (for example "NSF Biosketch 2026"), pick format <em>NSF Biographical Sketch</em>, and choose the data source: an existing profile, ORCID, or start from scratch.</li>
+    <li>If importing from ORCID, expect gaps: at last check the ORCID record was missing works from 2022 onward. Add missing products by hand with <em>Add product</em>, or add them to ORCID first and re-import.</li>
+    <li>Fill the five sections in the order above. Use the worksheet in <code>NSF/1_Biosketch/</code>, which lists every field value in SciENcv's order.</li>
+    <li>Mark exactly ten products at most: five under "related", five under "other".</li>
+    <li>Read the certification, tick it yourself, then <em>Download PDF</em>. Save it as <code>NSF/1_Biosketch/Anderson_BM_NSF_Biosketch.pdf</code>.</li>
+  </ol>
+  <div class="files">
+    <dl>
+      <dt>NSF/1_Biosketch/NSF_Biosketch_SciENcv_Worksheet.docx (and .pdf)</dt><dd>Field-by-field values to paste into SciENcv, with <code>[CONFIRM]</code> on any start month the CV does not record.</dd>
+      <dt>NSF/1_Biosketch/README.md</dt><dd>The click path above and the ORCID caveat.</dd>
+    </dl>
+  </div>
+</section>
+
+<section id="cps">
+  <h2><span class="num">2</span>NSF Current &amp; Pending (Other) Support (SciENcv)</h2>
+  <p class="sub">PAPPG 24-1 II.D.2.h(ii). Also prepared in SciENcv, no page limit. NSF asks for an updated version before any award is made.</p>
+
+  <h3>What must be disclosed</h3>
+  <ul class="tight">
+    <li><strong>Every proposal and active project</strong> that supports your research, from any source: federal, state, foreign, foundation, industry, or internal institutional funds. Include this NSF proposal itself as <em>Pending</em>.</li>
+    <li><strong>In-kind contributions</strong> from outside your organization worth $5,000 or more that require your time (lab space, equipment, datasets, personnel). Under $5,000, or with no time commitment, need not be listed.</li>
+    <li><strong>Consulting</strong> that involves research, could affect your commitments, or is under a contract requiring you to conceal the relationship. The dollar amount you receive goes in the total field.</li>
+    <li>Closed awards such as the 2019 SIR Allied Scientist Grant and the 2020 to 2021 Kopchick Fellowship are <em>not</em> listed.</li>
+  </ul>
+
+  <h3>Fields per project</h3>
+  <div class="scroll">
+  <table>
+    <tr><th style="width:30%">Field</th><th>Notes</th></tr>
+    <tr><td>Status</td><td>Current or Pending.</td></tr>
+    <tr><td>Title and award/proposal number</td><td>Number if available.</td></tr>
+    <tr><td>Source of support</td><td>Sponsor name, for example AHRQ.</td></tr>
+    <tr><td>Primary place of performance</td><td>Institution where the work happens.</td></tr>
+    <tr><td>Start and end dates</td><td>MM/YYYY.</td></tr>
+    <tr><td>Total award amount</td><td>Whole dollars, including indirect costs.</td></tr>
+    <tr><td>Person-months per year</td><td>Current budget period first, then each later period. SciENcv requires at least 0.01. Estimates are acceptable when the exact figure is not readily known.</td></tr>
+    <tr><td>Overall objectives</td><td>1,500-character limit.</td></tr>
+    <tr><td>Statement of potential overlap</td><td>Scope, budget, or person-month overlap with any other project. Write "none" if none.</td></tr>
+  </table>
+  </div>
+
+  <h3>Your known entries</h3>
+  <div class="scroll">
+  <table>
+    <tr><th style="width:30%">Entry</th><th>What the CV says</th><th style="width:34%">Still needed</th></tr>
+    <tr><td>AHRQ award, Co-Investigator (UNC Chapel Hill, 2024)</td><td>The CV calls it an R01 titled "Examining the Impact of Artificial Intelligence on Healthcare Safety". The public record (NIH RePORTER, AHRQ) shows the Mazur/Marks award is <strong>R18 HS029474</strong>, "Development and Assessment of AI-Enhanced Pre-treatment Peer-review Process to Improve Patient Safety in Radiation Oncology", 04/2024 to 03/2027, $1,345,650 total. The CV's title is a different AHRQ announcement (PA-24-261).</td><td>Confirm you are on R18 HS029474 and whether you still commit effort after the 2025 move to UCSD (you hold a UNC adjunct appointment); get person-months for the current budget year from UNC sponsored programs. Then correct the CV and NIH biosketch from "R-01" to R18 in a separate edit.</td></tr>
+    <tr><td>This NSF proposal</td><td>Not in the CV.</td><td>Title, requested total, dates, person-months per year. Status: Pending.</td></tr>
+    <tr><td>In-kind contributions</td><td>None identified in the CV.</td><td>Confirm none worth $5,000+ that take your time (shared datasets, vendor equipment, collaborator personnel).</td></tr>
+  </table>
+  </div>
+
+  <h3>Click path</h3>
+  <ol class="steps">
+    <li>In SciENcv choose <em>Create New Document</em>, format <em>NSF Current and Pending (Other) Support</em>.</li>
+    <li>Enter identifying information and organization, then add one entry per project using the worksheet in <code>NSF/2_Current_and_Pending/</code>.</li>
+    <li>Add in-kind contributions if any; otherwise leave the section empty.</li>
+    <li>Certify from your own account (delegates can draft but cannot certify), then <em>Download PDF</em> to <code>NSF/2_Current_and_Pending/Anderson_BM_NSF_CurrentPending.pdf</code>.</li>
+    <li>Expect to regenerate it before award: NSF requires updated information prior to a funding recommendation.</li>
+  </ol>
+  <div class="files">
+    <dl>
+      <dt>NSF/2_Current_and_Pending/NSF_Current_and_Pending_Worksheet.docx (and .pdf)</dt><dd>One block per entry with every SciENcv field, placeholders marked <code>[CONFIRM]</code>.</dd>
+      <dt>NSF/2_Current_and_Pending/README.md</dt><dd>Questions for the UNC and UCSD sponsored-projects offices and where each answer goes.</dd>
+    </dl>
+  </div>
+</section>
+
+<section id="coa">
+  <h2><span class="num">3</span>Collaborators and Other Affiliations (COA)</h2>
+  <p class="sub">PAPPG 24-1 II.D.2.h(iii). NSF uses this only to screen reviewers for conflicts. It must be on NSF's own Excel template, content and format unaltered, and uploaded as .xlsx in Research.gov (it is converted to PDF there; Grants.gov takes the PDF).</p>
+
+  <p>Template: <a href="https://nsf-gov-resources.nsf.gov/files/coa_template.xlsx" target="_blank" rel="noopener">coa_template.xlsx</a> (NSF). FAQ: <a href="https://www.nsf.gov/funding/senior-personnel-documents/faq/coa" target="_blank" rel="noopener">COA frequently asked questions</a>.</p>
+
+  <h3>The five tables, and what yours contain</h3>
+  <div class="scroll">
+  <table>
+    <tr><th style="width:17%">Table</th><th style="width:30%">Rule</th><th>Your content</th></tr>
+    <tr><td>1. You</td><td>Your name and organizational affiliations in the last 12 months.</td><td>University of California, San Diego (primary); University of North Carolina at Chapel Hill (Adjunct Assistant Professor, 2025 to present).</td></tr>
+    <tr><td>2. Relationships</td><td>People whose personal, family, or business relationship with you precludes them as reviewers, with the relationship type.</td><td>Only you can answer this. Left empty in the draft; add spouse, family members in the field, or business partners if any.</td></tr>
+    <tr><td>3. Advisors and advisees</td><td><strong>G</strong> = your Ph.D. advisor(s); <strong>T</strong> = all your Ph.D. thesis advisees, with affiliations if known. No time limit. Postdoc sponsors are no longer listed here.</td><td>G: Kristy K. Brock, MD Anderson Cancer Center. T: none recorded in the CV; add any Ph.D. students you have supervised.</td></tr>
+    <tr><td>4. Co-authors and collaborators</td><td><strong>A</strong> = co-author on any book, article, report, abstract, or paper with collaboration in the last <strong>48 months</strong> (publication may be later). <strong>C</strong> = collaborator on a project (funded award, graduate research, committee product) in the last 48 months. Use each person's <em>current</em> organization.</td><td>For a 10/27/2026 submission the window opens 10/2022. That captures every co-author on the 2023 to 2026 papers, abstracts, and presentations (UNC AHRQ team, MD Anderson liver and COVER-ALL groups, Open RT Structures and TG-263U1 authors, BigROC collaborators, UCSD co-authors). Plan on 100+ rows.</td></tr>
+    <tr><td>5. Editorial</td><td>Editorial board members, editors-in-chief, and co-editors you have worked with in the last <strong>24 months</strong>. Do not list editors or reviewers you dealt with only as a submitting author.</td><td>You are an Associate Editor of Medical Physics (2023 to present) and on the AAPM Board of Associate Editors: list the journal's Editor-in-Chief and any co-editors you worked with directly.</td></tr>
+  </table>
+  </div>
+
+  <h3>Handling notes</h3>
+  <ul class="tight">
+    <li>Rows need not be sorted. The <em>Last Active</em> column is optional; leave it blank for ongoing relationships and estimate otherwise.</li>
+    <li>Insert rows by selecting row numbers inside a table, right-click, Insert. Do not rename sheets, delete headers, or change column order.</li>
+    <li>Supervised master's students who actually collaborated on research go in Table 4 as <strong>C</strong>, not in Table 3.</li>
+    <li>Recompute the 48- and 24-month windows from the real submission date before uploading.</li>
+  </ul>
+  <div class="files">
+    <dl>
+      <dt>NSF/3_COA/Anderson_BM_NSF_COA.xlsx</dt><dd>The filled template; <code>coa_template_original.xlsx</code> sits beside it untouched.</dd>
+      <dt>NSF/3_COA/COA_source_list.md</dt><dd>Every Table 4 name with the CV entry that qualifies it, so you can audit affiliations marked <code>[CONFIRM]</code>.</dd>
+    </dl>
+  </div>
+</section>
+
+<section id="synergistic">
+  <h2><span class="num">4</span>Synergistic Activities</h2>
+  <p class="sub">PAPPG 24-1 II.D.2.h(iv). Since May 20, 2024 this is a separate one-page document, not a biosketch section. Up to five distinct examples of the broader impact of your professional and scholarly work: creation, integration, and transfer of knowledge.</p>
+
+  <h3>What counts</h3>
+  <p>Innovations in teaching and training, contributions to the science of learning, research tools and databases made available to others, broadening participation in STEM, international collaboration, standards development, and service to the scientific community. Each item should be concrete: what you built or did, who used it, with numbers and dates.</p>
+
+  <h3>Proposed five, drawn from the CV</h3>
+  <ol class="steps">
+    <li><strong>Open-source research tools.</strong> DicomRTTool (Practical Radiation Oncology 2021; about 1,700 downloads a month, 100+ GitHub stars, 30+ forks, used by academic and industry groups internationally); the reconstruct_patches operation merged into Keras core in 2026, shipping to TensorFlow, PyTorch, and JAX users; the DICOM Attribute Manipulation Tool (JACMP 2025).</li>
+    <li><strong>Standards development.</strong> AAPM TG-263 member (2021 to 2025); lead author of Open RT Structures (Red Journal 2024), a freely available implementation of TG-263; co-author of the TG-263U1 adoption survey (JACMP 2024); author of UCSD's CNS Standards and Guidelines.</li>
+    <li><strong>Bench to bedside.</strong> Dissertation registration and segmentation methods translated into the COVER-ALL phase 2 randomized trial (NCT04083378; Lancet Gastroenterology &amp; Hepatology 2025) and a clinically deployed liver segmentation model with 300+ cases by graduation.</li>
+    <li><strong>Education and knowledge transfer.</strong> Hands-on deep-learning workshops at WIMP (2020, 2025) and MD Anderson IGCT (2020, 2021); guest lectures at Rice (2019) and Georgia Tech (2023); AAPM Summer School teaching assistant (2019); AAPM Practical Big Data Workshop materials (2021); UCSD Chief Resident (2021 to 2023).</li>
+    <li><strong>Service and broadening participation.</strong> Associate Editor, Medical Physics (2023 to present) and Board of Associate Editors; AAPM Machine Intelligence Subcommittee (2024 to present) and QUANTEC 2 Working Group (2026 to present); Medical Physicists for World Benefit; WizKids and Science Night STEM outreach; founding domestic liaison of MD Anderson's International Students Association (2019 to 2021).</li>
+  </ol>
+
+  <div class="callout">
+    <p><strong>Formatting.</strong> One page, 1-inch margins, Times New Roman at 11 pt or larger (or Arial, Courier New, Palatino Linotype at 10 pt or larger), no more than six lines per vertical inch. Name at the top. If it overflows, cut words, not margins.</p>
+  </div>
+  <div class="files">
+    <dl>
+      <dt>NSF/4_Synergistic_Activities/Anderson_BM_NSF_Synergistic_Activities.docx (and .pdf)</dt><dd>The draft, checked with pypdf to be exactly one page.</dd>
+      <dt>NSF/4_Synergistic_Activities/README.md</dt><dd>Which sentences to tailor for a given proposal.</dd>
+    </dl>
+  </div>
+</section>
+
+<section id="submit">
+  <h2><span class="num">5</span>Formatting and submission</h2>
+  <p class="sub">Where each file goes and the mistakes that get proposals returned without review.</p>
+
+  <div class="scroll">
+  <table>
+    <tr><th>Document</th><th>Produced by</th><th>File type to upload</th><th>Research.gov location</th></tr>
+    <tr><td>Biographical Sketch</td><td>SciENcv</td><td>PDF</td><td>Senior Personnel Documents</td></tr>
+    <tr><td>Current &amp; Pending (Other) Support</td><td>SciENcv</td><td>PDF</td><td>Senior Personnel Documents</td></tr>
+    <tr><td>Collaborators &amp; Other Affiliations</td><td>NSF Excel template</td><td>.xlsx (single-copy document)</td><td>Senior Personnel Documents</td></tr>
+    <tr><td>Synergistic Activities</td><td>You</td><td>PDF</td><td>Senior Personnel Documents</td></tr>
+  </table>
+  </div>
+
+  <h3>Pitfalls</h3>
+  <ul class="tight">
+    <li>A biosketch or current-and-pending PDF made in Word instead of SciENcv is non-compliant; the system rejects it.</li>
+    <li>Certification cannot be done by a delegate or the sponsored-projects office. Sign in yourself.</li>
+    <li>Keep names and dates identical across all four documents and the CV (for example "University of California, San Diego" everywhere).</li>
+    <li>Synergistic activities inside the biosketch, or more than one page or five items, are both grounds for return.</li>
+    <li>The COA must keep NSF's layout. Do not export it from Google Sheets or Numbers; save from Excel or openpyxl as .xlsx.</li>
+    <li>Record the submission date on the COA and recompute the 48-month and 24-month windows if the deadline moves.</li>
+  </ul>
+
+  <div class="callout ok">
+    <p><strong>Repo hygiene.</strong> Final PDFs and the .xlsx live under <code>Clincal_CV/NSF/</code> beside the drafts. Commit them together with this guide so the repo never holds a half-updated set. The CV and NIH biosketch are untouched by this work.</p>
+  </div>
+</section>
+
+<footer id="sources">
+  <strong>Sources</strong>
+  <ul>
+    <li><a href="https://www.nsf.gov/funding/senior-personnel-documents" target="_blank" rel="noopener">NSF: Documents required for senior/key personnel</a> (updated April 2026)</li>
+    <li><a href="https://www.nsf.gov/policies/pappg/24-1/ch-2-proposal-preparation" target="_blank" rel="noopener">PAPPG 24-1, Chapter II.D.2.h: Senior/Key Personnel Documents</a></li>
+    <li><a href="https://www.nsf.gov/funding/senior-personnel-documents/faq/coa" target="_blank" rel="noopener">NSF COA FAQ</a> (updated February 2026)</li>
+    <li><a href="https://nsf-gov-resources.nsf.gov/files/coa_template.xlsx" target="_blank" rel="noopener">NSF COA template (.xlsx)</a></li>
+    <li><a href="https://www.ncbi.nlm.nih.gov/sciencv/" target="_blank" rel="noopener">SciENcv</a></li>
+    <li>Source data: <code>Clincal_CV/BMAnderson CV.docx</code> and <code>Biosketch_BMA.docx</code> in this repo.</li>
+  </ul>
+  <p>Verify every rule against the PAPPG version named in the solicitation before submitting; this page reflects PAPPG 24-1 as linked from NSF's site on 10/27/2026.</p>
+</footer>
+
+</main>
+</div>
+</div>
+
+<script>
+(function () {
+  var lists = document.querySelectorAll('.checklist[data-store]');
+  Array.prototype.forEach.call(lists, function (list) {
+    var key = 'nsf-guide:' + list.getAttribute('data-store');
+    var saved = {};
+    try { saved = JSON.parse(localStorage.getItem(key) || '{}') || {}; } catch (e) { saved = {}; }
+    var boxes = list.querySelectorAll('input[type="checkbox"]');
+    Array.prototype.forEach.call(boxes, function (box) {
+      if (saved[box.id]) { box.checked = true; box.parentNode.classList.add('done'); }
+      box.addEventListener('change', function () {
+        box.parentNode.classList.toggle('done', box.checked);
+        saved[box.id] = box.checked;
+        try { localStorage.setItem(key, JSON.stringify(saved)); } catch (e) {}
+      });
+    });
+  });
+})();
+</script>
+</body>
+</html>
