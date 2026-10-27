@@ -40,8 +40,8 @@ powershell -ExecutionPolicy Bypass -File export_pdf.ps1
   Times New Roman 11 pt, 1-inch margins, single spacing, US Letter.
 - If a tailored version runs long, **tighten the prose**. Never shrink the margins or the font.
 
-Current fill: 46 lines; the last line starts at 671 pt of the 720 pt text area, so roughly
-three lines of Times New Roman 11 pt are spare.
+Current fill: 47 lines; the last line starts at 684 pt of the 720 pt text area, so roughly
+two lines of Times New Roman 11 pt are spare. `export_pdf.ps1` prints these numbers on every run.
 
 ## The five items and where every number comes from
 
@@ -52,7 +52,7 @@ All claims trace to `Clincal_CV/BMAnderson CV.docx` (section → entry).
 | 1 | Open-source software | DicomRTTool: Practical Radiation Oncology 2021; ~1,700 downloads/month; 100+ GitHub stars; 30+ forks; international academic and industry use | Major Contributions → "Open-Source Software: DicomRTTool"; Papers → Practical Radiation Oncology 02/2021 |
 | 1 | | `reconstruct_patches` operation and ReconstructPatches2D/3D layers merged into Keras core (2026); backend-agnostic (TensorFlow, PyTorch, JAX); ~18 million monthly installs | Major Contributions → "Core Contributions to Keras/TensorFlow" |
 | 1 | | DICOM Attribute Manipulation Tool, Journal of Applied Clinical Medical Physics 2025 | Papers → JACMP 04/2025; Clinical Projects (UNC) → "DICOM Manipulation Tools" |
-| 2 | Nomenclature standards | AAPM TG-263 member since 2021 | Professional Service → AAPM → "2021 – Present Task Group 263" (see discrepancy below) |
+| 2 | Nomenclature standards | AAPM TG-263 member since 2021 | Professional Service → AAPM → "2021 – Present Task Group 263" (Brian confirmed "Present" on 2026-10-27; see note below) |
 | 2 | | Lead author, Open RT Structures, Red Journal 2024 | Major Contributions → "Nomenclature Standardization"; Papers → IJROBP 06/2024 |
 | 2 | | Co-author, TG-263U1 roadblocks survey, JACMP 2024 | Papers → JACMP 06/2024 (Covington et al.) |
 | 2 | | Adoption tool presented at AAMD Annual Conference 2023 | Oral Presentations → AAMD 06/2023 |
@@ -66,7 +66,7 @@ All claims trace to `Clincal_CV/BMAnderson CV.docx` (section → entry).
 | 4 | | Teaching Assistant, AAPM Summer School 2019 (workbooks) | Professional Service → AAPM → Other Service → 2019 |
 | 4 | | Guest lectures: Rice University ELEC/COMP 576 (2019); Georgia Institute of Technology (2023) | Invited Talks → 09/2019, 11/2023 |
 | 4 | | Chief Resident, UC San Diego, 2021–2023 | Clinical Projects → UCSD → "2021 – 2023 Chief Resident" |
-| 5 | Service and broadening participation | Associate Editor, Medical Physics, and Board of Associate Editors (2023–present); ad hoc AE 2020–2021; reviewer since 2019 | Professional Service → Medical Physics (Journal); AAPM → MPBAE |
+| 5 | Service and broadening participation | Associate Editor, Medical Physics, and Board of Associate Editors (2023–present); ad hoc AE 2020–2021 | Professional Service → Medical Physics (Journal); AAPM → MPBAE |
 | 5 | | AAPM Machine Intelligence Subcommittee (2024–present); QUANTEC 2 Working Group (2026–present) | Professional Service → AAPM → Committees & Working Groups |
 | 5 | | Medical Physicists for World Benefit member (2017–present) | Professional Service → MPWB |
 | 5 | | Founding member and domestic liaison, International Students Association (2019–2021) | Professional Service → MD Anderson → ISA |
@@ -81,15 +81,24 @@ All claims trace to `Clincal_CV/BMAnderson CV.docx` (section → entry).
 - No DOIs: the CV does not carry them, and NSF does not require them. NCT04083378 is included
   because it is in the CV and strengthens item 3.
 
-### Discrepancy to resolve in the CV
+### Decisions Brian made in the biosketch session (2026-10-27), applied here
 
-- TG-263 membership is dated **2021–2025** under Major Contributions but **2021 – Present**
-  under Professional Service Activities. The draft says "since 2021" to be true to both.
-  Pick one and fix the CV (and `Professional Service Activities.docx`, which mirrors that section).
+- **AAPM committee memberships live in this document**, not in the biosketch's appointments
+  list: QUANTEC 2 Working Group (2026–present) and Machine Intelligence Subcommittee
+  (2024–present) are in item 5 with the Medical Physics Board of Associate Editors
+  (2023–present); Task Group 263 (2021–present) anchors item 2.
+- **Position title on all four NSF documents is "Assistant Professor of Medical Physics"**;
+  the header line carries it. The CV still reads "Clinical Assistant Professor of Medical
+  Physics", so the NSF set intentionally differs from the CV on this one point.
+- **TG-263 is current ("Present").** The CV's Professional Service section already says
+  "2021 – Present", but its Major Contributions paragraph still reads "Member, AAPM TG-263
+  (2021–2025)" and should be corrected to match. The draft says "since 2021", which is true
+  either way.
 
 ## What to tailor per proposal
 
-- **Header line:** optionally append the proposal title or NSF program. Not required.
+- **Header line:** name, title, and institution; it wraps to two lines. Optionally append the
+  proposal title or NSF program. Not required.
 - **Item 1, last sentence** (DICOM Attribute Manipulation Tool): first thing to cut if space is
   needed or the proposal is not imaging/DICOM focused.
 - **Item 2:** for data/AI proposals lead with Open RT Structures; for clinical proposals lead with
@@ -100,8 +109,9 @@ All claims trace to `Clincal_CV/BMAnderson CV.docx` (section → entry).
 - **Item 4:** pick the guest lectures and workshop venues closest to the proposal's audience.
   Invited talks (ESTRO-AAPM 2023, AAPM Therapy Symposium 2024, MGH 2025, AAPM Symposium 2026)
   can replace a venue, but keep the item framed as one training activity, not a talk list.
-- **Item 5:** the AHRQ R18 sentence overlaps with Current and Pending Support; keep it when the
-  proposal touches rural or low-resource settings, otherwise replace it with the 2018 Medical
-  Physics Slam (AAPM People's Choice; SWAAPM 1st place) as lay-audience science communication.
+- **Item 5:** the AHRQ R18 HS029474 role ended in 2025, so it is no longer in Current and
+  Pending Support. Keep the sentence when the proposal involves AI for patient safety or peer
+  review; otherwise replace it with the 2018 Medical Physics Slam (AAPM People's Choice;
+  SWAAPM 1st place) as lay-audience science communication.
 - **Numbers to refresh before each submission:** DicomRTTool downloads, stars, and forks;
   Keras monthly installs; every "present" date. Update the CV first so the two never disagree.

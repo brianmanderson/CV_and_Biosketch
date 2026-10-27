@@ -5,9 +5,11 @@
 #
 # If Word reports a file-lock error, close the .docx in Word first.
 
-$dir  = Split-Path -Parent $MyInvocation.MyCommand.Path
-$docx = Join-Path $dir "Anderson_BM_NSF_Synergistic_Activities.docx"
-$pdf  = Join-Path $dir "Anderson_BM_NSF_Synergistic_Activities.pdf"
+# Plain interpolated strings on purpose: values that come out of a cmdlet
+# (Join-Path, Split-Path) are PSObject-wrapped and Word's COM SaveAs rejects them.
+$dir  = [string](Split-Path -Parent $MyInvocation.MyCommand.Path)
+$docx = "$dir\Anderson_BM_NSF_Synergistic_Activities.docx"
+$pdf  = "$dir\Anderson_BM_NSF_Synergistic_Activities.pdf"
 
 $word = New-Object -ComObject Word.Application
 $word.Visible = $false

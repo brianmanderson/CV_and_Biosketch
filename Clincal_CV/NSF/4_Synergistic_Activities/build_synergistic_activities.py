@@ -19,7 +19,7 @@ FONT = "Times New Roman"
 SIZE = Pt(11)
 
 HEADER = ("Synergistic Activities – Brian Mark Anderson, PhD, DABR, "
-          "University of California, San Diego")
+          "Assistant Professor of Medical Physics, University of California, San Diego")
 
 # Each item: (bold lead-in, body text).
 ITEMS = [
@@ -74,8 +74,8 @@ ITEMS = [
 
     ("Service to the scientific community and broadening participation.",
      " Associate Editor of Medical Physics and member of its Board of Associate "
-     "Editors (2023–present; ad hoc Associate Editor 2020–2021, manuscript "
-     "reviewer since 2019). Member of the AAPM Machine Intelligence Subcommittee "
+     "Editors (2023–present; ad hoc Associate Editor 2020–2021). Member of the "
+     "AAPM Machine Intelligence Subcommittee "
      "(2024–present), the AAPM QUANTEC 2 Working Group (2026–present), and "
      "Medical Physicists for World Benefit (2017–present). Founding member and "
      "domestic liaison of MD Anderson’s International Students Association "
