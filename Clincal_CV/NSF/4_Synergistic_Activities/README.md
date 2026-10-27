@@ -71,7 +71,7 @@ All claims trace to `Clincal_CV/BMAnderson CV.docx` (section → entry).
 | 5 | | Medical Physicists for World Benefit member (2017–present) | Professional Service → MPWB |
 | 5 | | Founding member and domestic liaison, International Students Association (2019–2021) | Professional Service → MD Anderson → ISA |
 | 5 | | AAPM WizKids (2018–2019); UTHealth Science Night (2017–2019) | Professional Service → AAPM → Other Service; MD Anderson → Science Night |
-| 5 | | Co-Investigator, AHRQ R18 HS029474 (2024–2027), AI-enhanced pre-treatment peer review | Grants and Fellowships → 2024 – 2027 |
+| 5 | | Co-Investigator, AHRQ R18 HS029474 (2024–2025), AI-enhanced pre-treatment peer review | Grants and Fellowships → 2024 – 2025 |
 
 ### Deliberately left out
 

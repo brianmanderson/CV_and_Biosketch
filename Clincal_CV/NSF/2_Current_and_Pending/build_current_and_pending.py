@@ -25,22 +25,9 @@ PREPARED = "10/27/2026"
 
 # ---------------------------------------------------------------- content ---
 
-OBJECTIVES_AHRQ = (
-    "Develop, integrate, and evaluate an artificial intelligence/machine learning "
-    "(AI/ML) intervention for pre-treatment peer review in radiation therapy (RT). "
-    "Aim 1: develop AI/ML algorithms and visual summaries that characterize provider "
-    "variability in key treatment-planning steps (e.g., target-volume definition and "
-    "prescribed dose) and flag potential errors for reviewers, refined through "
-    "user-centered design cycles. Aim 2: implement the integrated intervention in the "
-    "clinical environment and evaluate its impact on patient safety with a "
-    "cluster-randomized stepped-wedge design (ClinicalTrials.gov NCT07463833), "
-    "quantifying safety as the rate per 1,000 RT fractions of clinically relevant "
-    "errors missed at pre-treatment peer review and caught by downstream QA. "
-    "Dr. Anderson's role: [CONFIRM - e.g., co-investigator leading development of "
-    "the AI strategies and software for plan-quality and safety review, including "
-    "tools suited to low-resource and rural settings]."
-)
-assert len(OBJECTIVES_AHRQ) <= 1500, len(OBJECTIVES_AHRQ)
+# Status of the AHRQ R18 (Brian's words, relayed by the parent session 10/27/2026): "you can remove
+# the Co-I after UCSD, the grant funding has been withdrawn unfortunately as well as of this year."
+# So the role ran 2024-2025 and the award is not current support; it appears only under Closed awards.
 
 SRC_REPORTER_24 = "https://reporter.nih.gov/project-details/10839671"
 SRC_REPORTER_25 = "https://reporter.nih.gov/project-details/11062383"
@@ -302,9 +289,17 @@ def build():
         ("Each block below mirrors one SciENcv entry, field by field, so the values can be pasted in order. "
          "The right-hand column of every table says where a value came from; ", {}),
         ("[CONFIRM]", {"bold": True}),
-        (" marks anything that could not be verified from a public source and must come from Brian or a "
-         "sponsored-projects office before it is entered. The companion README.md lists the exact questions "
-         "to ask the UNC and UCSD offices and where each answer goes.", {}),
+        (" marks anything that could not be verified from a public source and must come from Brian or the "
+         "UCSD sponsored-projects office before it is entered. The companion README.md lists the open questions "
+         "and where each answer goes.", {}),
+    ])
+    rich(doc, [
+        ("Status change, 10/27/2026. ", {"bold": True}),
+        ("The AHRQ R18 HS029474 on which Brian was a Co-Investigator (2024 - 2025) is no longer current support: "
+         "his role ended with the 2025 move to UC San Diego and, in his words, \"the grant funding has been "
+         "withdrawn ... as of this year\" (2026). It is not entered in SciENcv; see \"Closed awards\" below, where "
+         "the public-record citations are kept so the history stays traceable. The only entry to create is the "
+         "Pending block for this NSF proposal, plus any other support Brian confirms.", {}),
     ])
     rich(doc, [
         ("Rules that shape every entry (PAPPG 24-1 II.D.2.h(ii); NSF SciENcv FAQ):", {"bold": True}),
@@ -350,95 +345,14 @@ def build():
 
     # --------------------------------------------------------- entry A (AHRQ)
     heading(doc, "SciENcv Section 2 - Projects and proposals", 1)
-    heading(doc, "Entry A - CURRENT: AHRQ R18 HS029474 (UNC Chapel Hill; Mazur / Marks)", 2)
     rich(doc, [
-        ("What the public record shows. ", {"bold": True}),
-        ("The CV and NIH biosketch list this as a 2024 \"R-01, Co-Investigator\" under \"AHRQ Health Services "
-         "Research Projects: Examining the Impact of Artificial Intelligence on Healthcare Safety\". NIH RePORTER "
-         "and AHRQ's own project listing show the Mazur/Marks award is an ", {}),
-        ("R18", {"bold": True}),
-        (" (Research Demonstration and Dissemination Project), number ", {}),
-        ("R18 HS029474", {"bold": True}),
-        (", awarded 03/28/2024 under PA-21-267 \"Making Health Care Safer in Ambulatory Care Settings and "
-         "Long-term Care Facilities (R18)\". \"Examining the Impact of Artificial Intelligence (AI) on Healthcare "
-         "Safety\" is the title of a different AHRQ announcement (PA-24-261, also R18). RePORTER lists only the "
-         "PIs, so Brian's Co-Investigator role and effort cannot be verified publicly; they must come from the UNC "
-         "Office of Sponsored Programs.", {}),
-    ])
-    field_table(doc, [
-        ("Status", "Current",
-         "[CONFIRM] Keep only if Brian still commits person-months after his 07/2025 move to UCSD (UNC adjunct "
-         "appointment 2025-present). If his effort is now 0, omit the entry (FAQ Q23)."),
-        ("Title",
-         "Development and Assessment of Artificial Intelligence (AI)-Enhanced Pre-treatment Peer-review Process "
-         "to Improve Patient Safety in Radiation Oncology",
-         "NIH RePORTER project title (appl. 10839671). AHRQ's listing spells \"Pretreatment\" as one word; "
-         "either is acceptable."),
-        ("Award number",
-         "R18HS029474\n(original award 1R18HS029474-01A1; current budget year 5R18HS029474-02)",
-         "NIH RePORTER. Not an R01: the CV and NIH biosketch need correcting (separate follow-up). "
-         "[CONFIRM with UNC OSP that no separate R01 lists Brian as Co-I]"),
-        ("Source of support",
-         "Agency for Healthcare Research and Quality (AHRQ), U.S. Department of Health and Human Services. "
-         "Prime awardee: University of North Carolina at Chapel Hill (contact PI Lukasz Mazur, PhD; MPI "
-         "Lawrence B. Marks, MD).",
-         "NIH RePORTER; AHRQ project page. [CONFIRM] If Brian's post-2025 effort runs through a UNC-to-UCSD "
-         "subaward, write \"AHRQ (prime: University of North Carolina at Chapel Hill; subaward to UC San Diego)\"."),
-        ("Primary place of performance", "Chapel Hill, NC, USA",
-         "RePORTER organization record. [CONFIRM] If Brian's work is performed at UCSD under a subaward, enter "
-         "La Jolla, CA, USA instead."),
-        ("Start date", "04/2024", "RePORTER and AHRQ: project period 04/01/2024 - 03/31/2027."),
-        ("End date", "03/2027",
-         "Same. [CONFIRM] whether a no-cost extension is planned; if so use the extended end date."),
-        ("Total anticipated amount (incl. indirect costs)", "$1,345,650",
-         "AHRQ project page total. RePORTER by budget year: Y1 (04/2024-03/2025) $450,000 = $307,898 direct + "
-         "$142,102 indirect; Y2 (04/2025-03/2026) $450,000 = $312,529 + $137,471; Y3 not yet posted. UNC's "
-         "announcement rounds to \"$1.3 million\". [CONFIRM] If a subaward exists, the sponsored-projects office "
-         "may instruct entering the subaward total to UCSD instead; follow their instruction."),
-        ("Person-months per budget year (current period first)",
-         "Budget year 3 (04/2026 - 03/2027): [CONFIRM x.xx calendar months]\n"
-         "Add a row for 04/2027 - 03/2028 only if a no-cost extension is granted.\n"
-         "Prior years (Y1 04/2024-03/2025, Y2 04/2025-03/2026) are not entered; SciENcv asks for the current and "
-         "each subsequent period.",
-         "From UNC OSP / the award budget. Enter calendar months, including unsalaried effort. SciENcv rejects 0 "
-         "(FAQ Q23); minimum 0.01. For an April-March budget year SciENcv's \"Year\" field takes the later "
-         "calendar year (FAQ Q24), i.e. 2027 for the current period."),
-        ("Overall objectives (max 1,500 characters)",
-         OBJECTIVES_AHRQ,
-         f"Drafted from the RePORTER project abstract and the AHRQ project summary; {len(OBJECTIVES_AHRQ)} "
-         "characters including the role placeholder. Replace the bracketed role sentence with Brian's actual "
-         "responsibilities as stated in the award [CONFIRM]."),
-        ("Statement of potential overlap", "None",
-         "[CONFIRM] once the NSF aims are final. If the NSF proposal also develops AI tools for radiotherapy "
-         "plan-quality or safety review, replace with one sentence that distinguishes the two scopes and states "
-         "that the budgets and person-months do not overlap."),
-    ])
-    rich(doc, [("Public sources for Entry A", {"bold": True})], space_after=2)
-    bullet(doc, f"NIH RePORTER, FY2024 record 1R18HS029474-01A1 (title, dates, PIs, abstract, costs): {SRC_REPORTER_24}")
-    bullet(doc, f"NIH RePORTER, FY2025 record 5R18HS029474-02 (budget period 04/2025-03/2026): {SRC_REPORTER_25}")
-    bullet(doc, f"AHRQ Digital Healthcare Research project listing (total $1,345,650; period 04/01/2024-03/31/2027): {SRC_AHRQ}")
-    bullet(doc, f"UNC School of Medicine announcement, 04/2024 (\"$1.3 million\", three-year project): {SRC_UNC}")
-    bullet(doc, f"Funding opportunity the award was made under, PA-21-267 (R18; caps of $450,000/year and $1.35 M total, 3 years): {SRC_PA}")
-    bullet(doc, f"The announcement whose title the CV uses, PA-24-261 \"Examining the Impact of AI on Healthcare Safety (R18)\" (a different NOFO): {SRC_PA24}")
-    bullet(doc, f"ClinicalTrials.gov NCT07463833, the Aim 2 stepped-wedge trial (sponsor UNC Lineberger; started 06/2026): {SRC_CT}")
-    bullet(doc, f"HSRProj could not be searched: NLM retired it on 09/14/2021: {SRC_HSRPROJ}")
-    bullet(doc, "Not findable publicly: Brian's named role, his budgeted effort, and any subaward. RePORTER lists PIs only; "
-                "the AHRQ page and ClinicalTrials.gov name no other team members.")
-
-    rich(doc, [("Possible additional Pending entries from the same group [CONFIRM]", {"bold": True})], space_after=2)
-    rich(doc, [
-        ("The CV entry also lists \"Systems-Based Approaches to Improve Patient Safety\" and \"Efficacy of AI assisted "
-         "sim review in rural settings: randomized control study\". The first reads like an AHRQ announcement title "
-         "rather than a project; the second like a distinct study. If any proposal from the Mazur/Marks group that "
-         "names Brian as senior/key personnel is still under review (for example a submission to PA-24-261), it must "
-         "be entered as a separate ", {}),
-        ("Pending", {"bold": True}),
-        (" block with the same fields: title, proposal number if assigned, source, place, requested dates, requested "
-         "total including indirects, person-months per year, objectives, and overlap. Ask UNC OSP (README, question 6).", {}),
+        ("Former Entry A - AHRQ R18 HS029474: not entered. ", {"bold": True}),
+        ("Brian's Co-Investigator role ran 2024 - 2025 and the award's funding was withdrawn in 2026, so it is "
+         "neither Current nor Pending. Its verified details are kept in the \"Closed awards\" section.", {}),
     ])
 
-    # ------------------------------------------------------ entry B (NSF pending)
-    heading(doc, "Entry B - PENDING: this NSF proposal", 2)
+    # ------------------------------------------------------ entry 1 (NSF pending)
+    heading(doc, "Entry 1 - PENDING: this NSF proposal", 2)
     rich(doc, [
         ("PAPPG 24-1 defines Pending as any proposal under consideration, ", {}),
         ("including the proposal being submitted", {"bold": True}),
@@ -466,8 +380,8 @@ def build():
          "[CONFIRM - paste the proposal's overview/objectives, trimmed to 1,500 characters]",
          "Project Summary (Overview) is the usual source."),
         ("Statement of potential overlap", "None",
-         "If the NSF work builds on the AHRQ project, say so explicitly and state that the scope, budget, and "
-         "person-months do not overlap [CONFIRM]."),
+         "\"None\" is correct while this is the only active or pending project. If Brian confirms any other "
+         "support, state here whether its scope, budget, or person-months overlap [CONFIRM]."),
     ])
 
     # ------------------------------------------------------- other candidates
@@ -487,9 +401,11 @@ def build():
         ("Industry research agreements, vendor-sponsored projects (Varian, Elekta, RaySearch, etc.)",
          "Reportable when they fund research and involve Brian's time; equipment or data loans fall under in-kind below.",
          "None in the CV. Add a block if any exist."),
-        ("Other pending proposals (any sponsor, including NIH/AHRQ or foundation submissions)",
-         "Every proposal under consideration on which Brian is senior/key personnel is Pending.",
-         "Add a Pending block per proposal."),
+        ("Other pending proposals (any sponsor; including any UNC Mazur/Marks-group submission that still names Brian)",
+         "Every proposal under consideration on which Brian is senior/key personnel is Pending. The CV's former "
+         "AHRQ entry also mentioned \"Efficacy of AI assisted sim review in rural settings\"; if that is a live "
+         "proposal naming him, it counts.",
+         "Add a Pending block per proposal [CONFIRM]."),
     ], (Inches(1.9), Inches(2.6), Inches(2.0)))
 
     # -------------------------------------------------------- in-kind section
@@ -522,9 +438,8 @@ def build():
          "committee and journal roles (unpaid service, no resources); open-source software collaborations such as "
          "DicomRTTool and the Keras contribution (no external resources received). ", {}),
         ("[CONFIRM]", {"bold": True}),
-        (" that no collaborator supplies datasets, compute, equipment, or staff for Brian's research at or above "
-         "$5,000 - the UNC AHRQ team's data access is part of the funded award, not a separate in-kind contribution, "
-         "unless UNC provides it outside the award.", {}),
+        (" that no collaborator (including the UNC group, now that the AHRQ award has ended) supplies datasets, "
+         "compute, equipment, or staff for Brian's research at or above $5,000.", {}),
     ])
 
     # ------------------------------------------- appointments vs support
@@ -542,8 +457,7 @@ def build():
                 "Central Nervous System (2025 - present); Search Committee Member (2026 - 2027). Departmental roles "
                 "within the proposing organization: biosketch only.")
     bullet(doc, "UNC Chapel Hill: Adjunct Assistant Professor (2025 - present). Unpaid adjunct appointment: biosketch "
-                "only. [CONFIRM] it carries no salary; if UNC pays Brian for AHRQ effort through this appointment, "
-                "that is the Entry A effort, not a separate entry.")
+                "only. [CONFIRM] it carries no salary or research resources now that the AHRQ award has ended.")
     bullet(doc, "AAPM: Task Group 263, Machine Intelligence Subcommittee, QUANTEC 2 Working Group, Medical Physics "
                 "Board of Associate Editors; Medical Physics journal Associate Editor (2023 - present). Unpaid service: "
                 "biosketch only. [CONFIRM] no honorarium tied to research effort.")
@@ -573,6 +487,15 @@ def build():
     rich(doc, [("\"Current\" means active or with ongoing obligations. The following CV items are closed and are "
                 "not entered anywhere in the form:", {})])
     simple_table(doc, ("Award (CV)", "Period and amount", "Why not reported"), [
+        ("AHRQ R18 HS029474, Co-Investigator (UNC Chapel Hill; PIs L. Mazur and L. B. Marks). Development and "
+         "Assessment of Artificial Intelligence (AI)-Enhanced Pre-treatment Peer-review Process to Improve Patient "
+         "Safety in Radiation Oncology",
+         "Role 2024 - 2025. Award period 04/2024 - 03/2027 as issued; $1,345,650 total (AHRQ); $450,000 per year "
+         "posted for FY2024 and FY2025",
+         "Brian's Co-I role ended with his 2025 move to UCSD, and the award's funding was withdrawn in 2026 "
+         "(Brian, 10/27/2026). No current effort or ongoing obligation. [CONFIRM] no open deliverable (final "
+         "report, data transfer) remains that involves him. The CV and NIH biosketch now read R18 HS029474, "
+         "2024 - 2025."),
         ("Society of Interventional Radiology (SIR) Allied Scientist Grant",
          "2019 - 2021 (two years); $40,000 total",
          "Ended ~2021. [CONFIRM] no open final-report obligation."),
@@ -581,27 +504,44 @@ def build():
         ("Georgia Tech President's Undergraduate Research Award (PURA)", "2013, 2014", "Closed."),
     ], (Inches(2.3), Inches(2.0), Inches(2.2)))
 
+    rich(doc, [("Public record of the AHRQ R18, kept for traceability", {"bold": True})], space_after=2)
+    rich(doc, [
+        ("Before Brian's answer, the CV and NIH biosketch described this award as a 2024 \"R-01\" under \"Examining "
+         "the Impact of Artificial Intelligence on Healthcare Safety\". The public databases show it is an ", {}),
+        ("R18", {"bold": True}),
+        (" (Research Demonstration and Dissemination Project), ", {}),
+        ("R18 HS029474", {"bold": True}),
+        (" (1R18HS029474-01A1, then 5R18HS029474-02), awarded 03/28/2024 under PA-21-267 \"Making Health Care Safer "
+         "in Ambulatory Care Settings and Long-term Care Facilities (R18)\"; \"Examining the Impact of AI on "
+         "Healthcare Safety\" is a different announcement (PA-24-261). RePORTER lists PIs only, so Brian's role was "
+         "never visible there. Sources:", {}),
+    ], space_after=2)
+    bullet(doc, f"NIH RePORTER, FY2024 record 1R18HS029474-01A1 (title, dates, PIs, abstract, costs): {SRC_REPORTER_24}")
+    bullet(doc, f"NIH RePORTER, FY2025 record 5R18HS029474-02 (budget period 04/2025-03/2026): {SRC_REPORTER_25}")
+    bullet(doc, f"AHRQ Digital Healthcare Research project listing (total $1,345,650; period 04/01/2024-03/31/2027): {SRC_AHRQ}")
+    bullet(doc, f"UNC School of Medicine announcement, 04/2024 (\"$1.3 million\", three-year project): {SRC_UNC}")
+    bullet(doc, f"Funding opportunity the award was made under, PA-21-267: {SRC_PA}")
+    bullet(doc, f"The announcement whose title the CV formerly used, PA-24-261 (a different NOFO): {SRC_PA24}")
+    bullet(doc, f"ClinicalTrials.gov NCT07463833, the Aim 2 stepped-wedge trial (sponsor UNC Lineberger; started 06/2026): {SRC_CT}")
+    bullet(doc, f"HSRProj could not be searched: NLM retired it on 09/14/2021: {SRC_HSRPROJ}")
+    bullet(doc, "The withdrawal of funding is not yet reflected in RePORTER or on AHRQ's page as of 10/27/2026; "
+                "those listings still show the award as issued.")
+
     # ------------------------------------------------- what Brian must supply
     heading(doc, "What Brian must supply before anything is entered", 1)
     simple_table(doc, ("Item", "Who has it", "Goes in"), [
-        ("Whether he is still Co-I on R18 HS029474 with non-zero effort after the 2025 move; whether a UNC-to-UCSD subaward exists",
-         "UNC Office of Sponsored Programs (OSP) / the Mazur-Marks research administrator; UCSD HS SPPO if a subaward",
-         "Entry A: Status, Source of support, Place of performance"),
-        ("Person-months for budget year 3 (04/2026 - 03/2027) and any extension year",
-         "UNC OSP / award budget", "Entry A: Person-months"),
-        ("Confirmation of the total award ($1,345,650) or the subaward total to UCSD, and the budget-period dates",
-         "UNC OSP", "Entry A: Total amount, Start/End"),
-        ("Brian's stated responsibilities on the award", "Award budget justification / Dr. Mazur", "Entry A: Objectives (role sentence)"),
-        ("Any pending proposals from the UNC group or elsewhere naming him as senior/key personnel",
-         "UNC OSP; Brian", "Additional Pending blocks"),
-        ("NSF proposal title, requested dates, total requested including F&A, person-months per year, program",
+        ("NSF proposal title, program/solicitation, requested dates, total requested including F&A, person-months per year",
          "UCSD Office of Contract and Grant Administration (OCGA) / department fund manager; the proposal budget",
-         "Entry B: all fields"),
+         "Entry 1: all fields"),
         ("Department name and performance-site city as the cover sheet states them", "UCSD OCGA / fund manager",
-         "Section 1; Entry B: Place of performance"),
+         "Section 1; Entry 1: Place of performance"),
+        ("Any pending proposals, from the UNC group or elsewhere, naming him as senior/key personnel",
+         "Brian", "Additional Pending blocks"),
         ("Any UCSD internal funding, industry agreements, consulting, or in-kind contributions", "Brian",
          "New blocks as applicable; Consulting; In-kind"),
-        ("Overlap wording once the NSF aims are final", "Brian", "Entries A and B: Overlap statement"),
+        ("Confirmation that nothing remains open on the AHRQ R18 (deliverables involving him) or the SIR grant",
+         "Brian", "Closed-awards table (no entry if confirmed)"),
+        ("Overlap wording if any other support is confirmed", "Brian", "Entry 1: Overlap statement"),
     ], (Inches(2.7), Inches(2.0), Inches(1.8)))
 
     # ----------------------------------------------------------- rule sources
