@@ -195,9 +195,9 @@ IDENTIFYING = [
     ["Name (Last, First Middle)", "Anderson, Brian Mark", "CV header; SciENcv biosketch certified 26 Feb 2026."],
     ["Persistent identifier (ORCID iD)", "https://orcid.org/0000-0002-2748-1444",
      "CLAUDE.md; SciENcv PDF 02/2026. SciENcv fills this from the ORCID account linked to the NCBI login."],
-    ["Position title", "Clinical Assistant Professor of Medical Physics [CONFIRM wording]",
-     ["CV header and NIH biosketch say “Clinical Assistant Professor”; the SciENcv biosketch certified 02/2026 says “Assistant Professor, Medical Physics”.",
-      "Pick one wording and use it in all four NSF documents (biosketch, Current & Pending, COA, Synergistic Activities)."]],
+    ["Position title", "Assistant Professor of Medical Physics",
+     ["Brian’s choice (27 Oct 2026). The CV header says “Clinical Assistant Professor of Medical Physics”; the SciENcv biosketch certified 02/2026 said “Assistant Professor, Medical Physics”.",
+      "Use this wording in all four NSF documents (biosketch, Current & Pending, COA, Synergistic Activities)."]],
     ["Organization (primary)", UCSD, "CV header."],
     ["Location (City, State/Province, Country)", "San Diego, California, United States",
      "SciENcv uses drop-downs for state and country; type the city."],
@@ -205,55 +205,58 @@ IDENTIFYING = [
 
 PREP_HEAD = ["Organization", "Location", "Degree / entry type", "Start (MM/YYYY)", "Completion (MM/YYYY)", "Field of study", "Source / notes"]
 PREP = [
-    [UCSD, UCSD_LOC, "Residency, Medical Physics (no degree; the 02/2026 SciENcv entry used “Resident”) [CONFIRM entry type offered by the SciENcv drop-down]",
+    [UCSD, UCSD_LOC, "Residency, Medical Physics (no degree; the 02/2026 SciENcv entry used “Resident”; pick the closest option the SciENcv drop-down offers)",
      "07/2021", "06/2023 [CONFIRM: NIH biosketch table says 7/2023; SciENcv 02/2026 says 06/2023]",
      "Therapeutic Medical Physics (SciENcv 02/2026 used “Therapy Physics”)",
      ["CV Education: 2021 – 2023 Residency, UCSD.", "NSF asks for all postdoctoral/fellowship training; the residency is Brian’s training entry."]],
-    [UTGSBS, HOU, "Ph.D.", "08/2017", "06/2021 [CONFIRM: NIH biosketch table says 5/2021; SciENcv 02/2026 says 06/2021]",
-     "Medical Physics [CONFIRM: NIH biosketch table lists “Diagnostic Imaging Medical Physics” for the Ph.D. row]",
-     ["CV Education: 2017 – 2021 Ph.D., Medical Physics, MD Anderson.", "Dissertation: Improving Treatment of Local Liver Ablation Therapy with Deep Learning and Biomechanical Modeling."]],
+    [UTGSBS, HOU, "Ph.D.", "08/2017", "05/2021",
+     "Medical Physics",
+     ["CV Education: 2017 – 2021 Ph.D., Medical Physics, MD Anderson; NIH biosketch table 5/2021.",
+      "Brian confirmed 05/2021 and plain “Medical Physics” (27 Oct 2026). The SciENcv profile from 02/2026 shows 06/2021: correct it there.",
+      "Dissertation: Improving Treatment of Local Liver Ablation Therapy with Deep Learning and Biomechanical Modeling."]],
     [UTGSBS, HOU, "S.M.S. (Master of Science)", "08/2015", "07/2017",
-     "Medical Physics [CONFIRM: NIH biosketch table lists “Therapeutic Medical Physics” for the S.M.S. row]",
-     "CV Education: 2015 – 2017 S.M.S, Medical Physics, MD Anderson; NIH biosketch table 7/2017."],
+     "Medical Physics",
+     ["CV Education: 2015 – 2017 S.M.S, Medical Physics, MD Anderson; NIH biosketch table 7/2017.",
+      "Brian confirmed plain “Medical Physics” (27 Oct 2026); the NIH table’s “Therapeutic Medical Physics” is not used."]],
     [GT, ATL, "B.S.", "08/2010", "05/2015", "Nuclear and Radiological Engineering",
      ["CV Education: 2010 – 2015 B.S, Nuclear Engineering, Highest Honors.", "NIH biosketch table: BS, 5/2015, Nuclear and Radiological Engineering."]],
 ]
 
 APPT_HEAD = ["Start", "End", "Title", "Organization", "Department", "Location", "Source / notes"]
 APPT = [
-    ["2025", "present", "Clinical Assistant Professor (of Medical Physics)", UCSD, UCSD_DEPT, UCSD_LOC,
-     ["CV header; NIH biosketch Positions and Employment.", "NIH biosketch names the department “Radiation Oncology”; the CV service section uses “Radiation Medicine & Applied Sciences”, which is the UCSD department name."]],
-    ["2025", "present", "Adjunct Assistant Professor", UNC, "Department of Radiation Oncology [CONFIRM department]", UNC_LOC,
+    ["2025", "present", "Assistant Professor of Medical Physics", UCSD, UCSD_DEPT, UCSD_LOC,
+     ["CV header; NIH biosketch Positions and Employment. Title wording per Brian (27 Oct 2026), matching the position title in section 1.", "NIH biosketch names the department “Radiation Oncology”; the CV service section uses “Radiation Medicine & Applied Sciences”, which is the UCSD department name."]],
+    ["2025", "present", "Adjunct Assistant Professor", UNC, "Department of Radiation Oncology", UNC_LOC,
      ["NIH biosketch Positions and Employment; SciENcv 02/2026.", "OUTSIDE THE PRIMARY ORGANIZATION: must be listed (see rule above). Do not omit."]],
     ["2025", "present", "Chair of Technical Innovation and Implementation", UCSD, UCSD_DEPT, UCSD_LOC,
      "CV Professional Service (UCSD Departmental Leadership); NIH biosketch Positions and Scientific Appointments. Titled departmental position: counts as an appointment."],
     ["2025", "present", "Technical Service Chief, Central Nervous System", UCSD, UCSD_DEPT, UCSD_LOC,
      "CV Professional Service; NIH biosketch. Titled departmental position: counts as an appointment."],
     ["2023", "present", "Associate Editor", "Medical Physics (journal of the American Association of Physicists in Medicine)", "N/A",
-     "Alexandria, Virginia, United States [CONFIRM location: AAPM headquarters]",
+     "Alexandria, Virginia, United States (AAPM headquarters)",
      ["CV Professional Service (Medical Physics journal); NIH biosketch “Associate Editor: The International Journal of Medical Physics Research and Practice”.", "Titled editorial appointment, unpaid: NSF counts it."]],
     ["2023", "2025", "Clinical Assistant Professor", UNC, "Department of Radiation Oncology", UNC_LOC,
      ["NIH biosketch Positions and Employment; SciENcv 02/2026 (listed as “Assistant Professor, Medical Physics”).", "Outside the primary organization and within three years of submission: must be listed."]],
     ["2021", "2023", "Clinical Resident, Medical Physics", UCSD, UCSD_DEPT, UCSD_LOC,
-     ["NIH biosketch Positions and Employment; CV Education.", "Also appears under Professional Preparation. The 02/2026 SciENcv biosketch listed it only there; listing it in both places is allowed. [CONFIRM keep here]"]],
-    ["2015", "2021", "Graduate Student Researcher", MDA, "Department of Imaging Physics [CONFIRM department]", HOU,
+     ["NIH biosketch Positions and Employment; CV Education.", "Also appears under Professional Preparation. The 02/2026 SciENcv biosketch listed it only there; listing it in both places is allowed. Kept here as a titled training position."]],
+    ["2015", "2021", "Graduate Student Researcher", MDA, "Department of Imaging Physics", HOU,
      "NIH biosketch Positions and Employment (“Graduate Student Researcher, MDA Cancer Center, Houston, TX”)."],
-    ["2014", "2014", "AAPM Summer Undergraduate Fellow", "St. Joseph Hospital", "Radiation Oncology [CONFIRM department]", "Eureka, California, United States",
+    ["2014", "2014", "AAPM Summer Undergraduate Fellow", "St. Joseph Hospital", "Radiation Oncology", "Eureka, California, United States",
      "NIH biosketch Positions and Employment (“2014 AAPM Fellowship, St. Joseph’s Hospital, Eureka, CA”); CV Grants and Fellowships 2014."],
-    ["2013", "2014", "Research Assistant", GT, "Nuclear and Radiological Engineering [CONFIRM department]", ATL,
+    ["2013", "2014", "Research Assistant", GT, "Nuclear and Radiological Engineering", ATL,
      "NIH biosketch Positions and Employment (“2013-2014 Research Assistant, Georgia Institute of Technology”)."],
 ]
 
 OPT_HEAD = ["Start", "End", "Title / role", "Organization", "Recommendation"]
 OPT = [
-    ["2026", "2027", "Search Committee Member (medical physicist search)", UCSD, "Omit: internal committee duty, not a titled appointment. Better suited to Synergistic Activities if at all."],
-    ["2026", "present", "Member, QUANTEC 2 Working Group (Q2WG)", "American Association of Physicists in Medicine (AAPM)", "Brian’s call. Committee memberships are usually not listed as appointments; they fit Synergistic Activities. [CONFIRM]"],
-    ["2024", "present", "Member, Machine Intelligence Subcommittee", "AAPM", "Same as above. [CONFIRM]"],
-    ["2023", "present", "Member, Medical Physics Board of Associate Editors", "AAPM", "Redundant with the Associate Editor appointment already listed; omit."],
+    ["2026", "2027", "Search Committee Member (medical physicist search)", UCSD, "Omit: internal committee duty, not a titled appointment."],
+    ["2026", "present", "Member, QUANTEC 2 Working Group (Q2WG)", "American Association of Physicists in Medicine (AAPM)", "Omit here; list under Synergistic Activities (Brian, 27 Oct 2026)."],
+    ["2024", "present", "Member, Machine Intelligence Subcommittee", "AAPM", "Omit here; list under Synergistic Activities (Brian, 27 Oct 2026)."],
+    ["2023", "present", "Member, Medical Physics Board of Associate Editors", "AAPM", "Omit here (redundant with the Associate Editor appointment in 3a); may be mentioned under Synergistic Activities."],
     ["2021", "present", "Member, Task Group 263 (Standardizing Nomenclatures in Radiation Oncology)", "AAPM",
-     "Same as above. Note the CV gives 2021 – Present in Professional Service but 2021–2025 under Major Contributions. [CONFIRM end date]"],
-    ["2021", "2023", "Chief Resident", UCSD, "Titled role (CV Clinical Projects). Optional; the 02/2026 SciENcv omitted it. [CONFIRM]"],
-    ["2020", "2021", "Ad hoc Associate Editor", "Medical Physics (AAPM)", "Titled editorial role (CV Professional Service). Optional. [CONFIRM]"],
+     "Omit here; list under Synergistic Activities (Brian, 27 Oct 2026). End date is “Present”; the CV’s Major Contributions entry (2021–2025) is being corrected in a separate session."],
+    ["2021", "2023", "Chief Resident", UCSD, "Optional titled role (CV Clinical Projects); the 02/2026 SciENcv omitted it. Add to 3a only if Brian wants it listed."],
+    ["2020", "2021", "Ad hoc Associate Editor", "Medical Physics (AAPM)", "Optional titled editorial role (CV Professional Service). Add to 3a only if Brian wants it listed."],
     ["2019", "present", "Manuscript Reviewer", "Medical Physics (AAPM)", "Omit: reviewing is not a titled appointment."],
     ["2015 / 2017", "present", "Member, AAPM; Member, Medical Physicists for World Benefit", "AAPM; MPWB", "Omit: society memberships are not appointments."],
 ]
@@ -308,10 +311,12 @@ OTHER = [
      "https://doi.org/10.1002/acm2.70104",
      ["Listed in the 02/2026 SciENcv biosketch.", "CV title says “Study Instance UID”; the published title says “SOP instance UID”."]],
     ["B5", "Anderson BM",
-     "reconstruct_patches operation and ReconstructPatches2D / ReconstructPatches3D layers for Keras 3: the inverse of extract_patches, reassembling patch-wise model predictions into full-resolution images and volumes (software contribution)",
-     "keras-team/keras (GitHub), pull request #22984, merged 16 July 2026; follow-ups #23267 (merged 20 July 2026) and #23319 (merged 4 September 2026)", "07/2026",
+     "keras.ops.image.reconstruct_patches for Keras 3: the inverse of extract_patches, reassembling non-overlapping 2D or 3D patches of model predictions into full-resolution images and volumes (software contribution)",
+     "keras-team/keras (GitHub), merged to master via pull request #22984 on 16 July 2026; follow-ups #23267 (channels_first support, 20 July 2026) and #23319 (output_size auto-inference, 4 September 2026)",
+     "07/2026 (merged); in no tagged release as of 27 Oct 2026",
      "https://github.com/keras-team/keras/pull/22984",
-     ["CV Major Contributions. Enter manually (non-journal type).", "First tagged Keras release that ships it: [CONFIRM] (release notes through v3.15.1 of 29 July 2026 do not name it). Add the keras.io API page URL once it is live, if Brian prefers a docs link to the PR."]],
+     ["CV Major Contributions. Enter manually (non-journal type). Cite the pull request, not a version: a separate session confirmed on 27 Oct 2026 that no tagged Keras release contains it yet (latest v3.15.1, 29 July 2026; master carries version 3.16.0) and no keras.io page exists. Re-check for a v3.16 tag before certifying.",
+      "The ReconstructPatches2D/3D layers named in the CV and in the pull-request title were removed before merge and are not in Keras; the CV entry needs correcting (separate task). PR #23930 (overlapping patches) is still open and must not be described as merged."]],
 ]
 
 BENCH_HEAD = ["#", "Citation (plain text)", "DOI / URL", "Notes"]
@@ -339,19 +344,24 @@ BENCH = [
      "NSF: “unpublished documents not yet submitted for publication, invited lectures, and additional lists of products” are unacceptable."],
 ]
 
+RESOLVED_ITEMS = [
+    "Position title: “Assistant Professor of Medical Physics”, used in all four NSF documents.",
+    "Ph.D. completion 05/2021; field of study “Medical Physics” for both the S.M.S. and the Ph.D. The SciENcv profile from 02/2026 shows 06/2021 for the Ph.D. and must be corrected when the new document is built.",
+    "Department names in section 3a and the AAPM location for the Associate Editor entry are correct as written.",
+    "AAPM committee memberships (QUANTEC 2 Working Group, Machine Intelligence Subcommittee, TG-263, Board of Associate Editors) go in Synergistic Activities, not in Appointments.",
+    "TG-263 membership end date is “Present”; the CV’s Major Contributions entry (2021–2025) is being corrected in a separate session.",
+    "Product split in 4a/4b confirmed. The Keras release question was investigated separately: B5 is in no tagged release as of 27 Oct 2026, so the citation points at the merged pull request.",
+    "ORCID gap acknowledged: A2, A5, B3, B5 (and C6, C7, C8 if used) will not import; they are entered manually in SciENcv or pushed to ORCID first.",
+]
+
 OPEN_ITEMS = [
-    "Position title wording (Clinical Assistant Professor of Medical Physics vs. Assistant Professor, Medical Physics). Use the same wording in all four NSF documents.",
-    "Completion dates: Ph.D. 05/2021 (NIH biosketch) or 06/2021 (SciENcv 02/2026); Residency 07/2023 (NIH) or 06/2023 (SciENcv). Check the diploma / residency certificate.",
-    "Field of study for the S.M.S. and Ph.D.: plain “Medical Physics” (SciENcv 02/2026) or the NIH biosketch’s “Therapeutic” / “Diagnostic Imaging Medical Physics”.",
-    "Residency entry type in the SciENcv Professional Preparation drop-down (Residency / Other / typed “Resident” as in 02/2026).",
-    "Department names flagged in section 3: UNC adjunct appointment, MD Anderson graduate research, St. Joseph Hospital fellowship, Georgia Tech research assistantship; and a city/state for the Medical Physics Associate Editor entry.",
-    "Whether to list Clinical Resident, Chief Resident, Ad hoc Associate Editor, and the AAPM committee memberships as appointments (section 3b). Recommendation: keep the titled roles, leave committee memberships for Synergistic Activities.",
-    "TG-263 membership end date: CV Professional Service says 2021 – Present; CV Major Contributions says 2021–2025.",
-    "Products: confirm the proposal topic and the A/B split (section 4). Swap in bench items (4c) as needed; at most five per list.",
-    "Volume/issue/pages for A5 (Advances in Radiation Oncology 2026) and C7 (Practical Radiation Oncology 2026); first Keras release containing B5.",
-    "ORCID gap: a previous session found Brian’s ORCID record missing works from 2022 onward. A2, A5, B3, B5 (and C6, C7, C8 if used) will not import; enter them manually in SciENcv or add them to ORCID first and re-sync.",
+    "Residency completion month: 06/2023 (SciENcv 02/2026) or 07/2023 (NIH biosketch table). [CONFIRM]",
+    "Whether to add the two optional titled roles in 3b (Chief Resident 2021–2023; Ad hoc Associate Editor 2020–2021) to the Appointments list.",
+    "Volume/issue/pages for A5 (Advances in Radiation Oncology 2026) and C7 (Practical Radiation Oncology 2026): not yet assigned by the journals; check again before certifying.",
+    "Before certifying, re-check whether a Keras v3.16 tag exists and contains merge commit bbd36de (PR #22984); if so, add the version and date to B5.",
+    "The CV’s Major Contributions entry credits ReconstructPatches2D/3D layers that were dropped from PR #22984 before merge; only the reconstruct_patches op is in Keras. Correct the CV entry (separate /update-cv task, Brian’s approval).",
     "Certify in SciENcv from Brian’s own account; the certification date must fall within 12 months of proposal submission. The 02/2026 certified PDF in this repo is the NIH common form, not the NSF document, and cannot be submitted to NSF.",
-    "CV discrepancies noticed while verifying citations (not changed here; separate /update-cv task): Open RT Structures date and author list; DicomRTTool paper title/date; DICOM attribute tool title (SOP vs Study Instance UID); COVER-ALL title and “Shan”/“Shah”; Frontiers journal name; elective-nodes paper author list (Dooley J); book chapter title, publisher (IOP) and date (11/2025).",
+    "CV citation discrepancies found while verifying DOIs are being corrected in a separate session; they do not affect the citations in section 4, which already use the published records.",
 ]
 
 # ----------------------------------------------------------------------------- build
@@ -367,7 +377,8 @@ def build():
     footer(doc)
 
     para(doc, "NSF Biographical Sketch — SciENcv Entry Worksheet", bold=True, size=18, after=2)
-    para(doc, f"Brian Mark Anderson, PhD, DABR · University of California, San Diego · prepared {PREPARED}", italic=True, after=10)
+    para(doc, f"Brian Mark Anderson, PhD, DABR · University of California, San Diego · prepared {PREPARED}", italic=True, after=2)
+    para(doc, "Revision 2, 27 Oct 2026: Brian’s decisions on the first draft’s open items are applied in sections 1–4 and recorded in section 6.", italic=True, after=10)
 
     rich(doc, [("Purpose. ", True, False),
                ("NSF requires the Biographical Sketch to be generated in SciENcv (PAPPG NSF 24-1, Chapter II.D.2.h(i); NSPM-33 common form, OMB 3145-0279). "
@@ -403,13 +414,13 @@ def build():
     heading(doc, "3a. Entries to list", 2)
     table(doc, APPT_HEAD, APPT, [0.65, 0.7, 1.9, 1.8, 1.6, 1.35, 1.8])
     heading(doc, "3b. Other titled roles and memberships (Brian’s call)", 2)
-    para(doc, "NSF counts titled positions; plain committee memberships and society memberships are normally left out of this section and described in Synergistic Activities instead.", after=4)
+    para(doc, "NSF counts titled positions. Brian decided on 27 Oct 2026 that his committee memberships go in the Synergistic Activities document, not here; the two remaining optional titled roles are his call.", after=4)
     table(doc, OPT_HEAD, OPT, [0.75, 0.7, 2.6, 2.3, 3.45])
 
     heading(doc, "4. Products")
-    rich(doc, [("Assumption. ", True, False),
-               ("The proposal topic was not known when this worksheet was prepared. The split below assumes a proposal on AI / deep learning for radiation oncology "
-                "(auto-segmentation, deformable registration, clinical software and data infrastructure). If the proposal is about something else, swap items between 4a, 4b and the bench list in 4c. "
+    rich(doc, [("Scope. ", True, False),
+               ("The split below was drawn up for a proposal on AI / deep learning for radiation oncology (auto-segmentation, deformable registration, clinical software and data infrastructure), "
+                "and Brian confirmed it on 27 Oct 2026. If a later proposal is about something else, swap items between 4a, 4b and the bench list in 4c. "
                 "NSF allows up to five products in each list; only these ten are used in review.", False, False)])
     rich(doc, [("Entry rules. ", True, False),
                ("Products must be citable and accessible: publications, software, datasets, patents and the like; unpublished documents, invited lectures and “additional lists” are not allowed. "
@@ -428,7 +439,11 @@ def build():
               "from his own NCBI account. A delegate can draft the document but cannot certify it. The certification date must be within 12 months of the proposal submission date; "
               "the PDF is then uploaded to the proposal in Research.gov.", after=4)
 
-    heading(doc, "6. Open items for Brian")
+    heading(doc, "6. Decisions and open items")
+    heading(doc, "6a. Decided by Brian (27 Oct 2026)", 2)
+    for item in RESOLVED_ITEMS:
+        bullet(doc, item)
+    heading(doc, "6b. Still open", 2)
     for item in OPEN_ITEMS:
         bullet(doc, item)
 
